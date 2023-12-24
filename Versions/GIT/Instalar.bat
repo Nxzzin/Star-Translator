@@ -1,4 +1,17 @@
 @echo off
+
+rem Defina o caminho completo para a pasta "resources" em %temp%
+set "resourcesFolder=%temp%\resources"
+
+rem Verifique se a pasta "resources" existe
+if exist "%resourcesFolder%" (
+    rem Apagar a pasta "resources" e seu conteúdo
+    rmdir /s /q "%resourcesFolder%"
+    echo Pasta "resources" removida com sucesso.
+) else (
+    echo Pasta "resources" não encontrada em %temp%.
+)
+
 setlocal
 
 rem Defina o caminho completo para o arquivo "data.rar"
