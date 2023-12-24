@@ -1,5 +1,5 @@
 # Caminho do arquivo de configuração
-$arquivoConfig = ".\USER.cfg"
+$arquivoConfig = ".\user.cfg"
 
 # Verifica se o arquivo USER.cfg existe
 if (Test-Path $arquivoConfig) {
