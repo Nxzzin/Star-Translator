@@ -1,7 +1,7 @@
 # Caminho do arquivo de configuração
-$arquivoConfig = ".\USER.cfg"
+$arquivoConfig = ".\user.cfg"
 
-# Verifica se o arquivo USER.cfg existe
+# Verifica se o arquivo user.cfg existe
 if (Test-Path $arquivoConfig) {
     # Lê o conteúdo do arquivo
     $conteudo = Get-Content $arquivoConfig
