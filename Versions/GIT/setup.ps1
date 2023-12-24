@@ -1,23 +1,33 @@
 # Verifica se o arquivo "user.cfg" existe
 if (Test-Path -Path ".\user.cfg") {
-    # Verifica se há linhas com as substrings
-    $fileContent = Get-Content -Path ".\user.cfg"
+    # Arquivo existe, lê o conteúdo
+    $content = Get-Content -Path ".\user.cfg" -Raw
     
-    $languageLineIndex = $fileContent | Select-String -Pattern "g_language\s*=" | ForEach-Object { $_.LineNumber - 1 }
-    $languageAudioLineIndex = $fileContent | Select-String -Pattern "g_languageAudio\s*=" | ForEach-Object { $_.LineNumber - 1 }
+    # Verifica se as substrings estão presentes no conteúdo
+    $languageSubstring = "g_language ="
+    $audioLanguageSubstring = "g_languageAudio ="
 
-    if ($languageLineIndex -ne $null -and $languageAudioLineIndex -ne $null) {
-        # Atualiza as linhas correspondentes
-        $fileContent[$languageLineIndex] = "g_language = portuguese_(brazil)"
-        $fileContent[$languageAudioLineIndex] = "g_languageAudio = english"
+    $languageIndex = $content.IndexOf($languageSubstring)
+    $audioLanguageIndex = $content.IndexOf($audioLanguageSubstring)
 
-        # Salva as alterações no arquivo
-        $fileContent | Set-Content -Path ".\user.cfg"
+    if ($languageIndex -ge 0 -and $audioLanguageIndex -ge 0) {
+        # Substitui as linhas correspondentes
+        $content = $content -replace "$languageSubstring.*", "$languageSubstring portuguese_(brazil)"
+        $content = $content -replace "$audioLanguageSubstring.*", "$audioLanguageSubstring english"
     }
-} else {
+    else {
+        # Adiciona as linhas que faltam
+        $content += "`n$languageSubstring portuguese_(brazil)"
+        $content += "`n$audioLanguageSubstring english"
+    }
+
+    # Escreve o conteúdo modificado de volta no arquivo
+    $content | Set-Content -Path ".\user.cfg"
+}
+else {
     # Cria o arquivo "user.cfg" se não existir
-    New-Item -Path ".\user.cfg" -ItemType File
+    "g_language = portuguese_(brazil)`ng_languageAudio = english" | Out-File -FilePath ".\user.cfg"
 }
 
-# Autoexclui o script .ps1
-Remove-Item -Path $MyInvocation.MyCommand.Path
+# Autoexclui o script
+Remove-Item -Path $MyInvocation.MyCommand.Path -Force
