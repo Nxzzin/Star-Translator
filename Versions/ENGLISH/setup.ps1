@@ -11,7 +11,8 @@ if (Test-Path $arquivoUserCfg) {
     if ($linhasExistentes.Count -gt 0) {
         # Remove as linhas com as substrings
         $novasLinhas = Get-Content $arquivoUserCfg | Where-Object { $_ -notmatch "g_language" -and $_ -notmatch "g_languageAudio" }
-        $novasLinhas | Out-File $arquivoUserCfg -Force
+        # Escreve o conteúdo atualizado de volta para o arquivo
+        [System.IO.File]::WriteAllLines($arquivoUserCfg, $novasLinhas)
 
         # Autoexclui o script
         Remove-Item $caminhoScript -Force

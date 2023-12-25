@@ -35,7 +35,7 @@ if (!$foundLanguageAudio) {
 }
 
 # Escreve o conteúdo atualizado de volta para o arquivo
-$updatedContent | Out-File $fileName
+[System.IO.File]::WriteAllLines($fileName, $updatedContent)
 
 # Autoexclui o script
 Remove-Item -Path $MyInvocation.MyCommand.Definition
