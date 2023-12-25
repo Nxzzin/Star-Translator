@@ -8,7 +8,7 @@ This repo work as local where updated "global.ini" is easier to download in 'Sta
 
 | Version | Supported | Language |
 |---|---|---|
-| ENGLISH | Definitely | I don't know |
-| DCUTLASS | 3.22.0 | Brazilian |
-| GIT Dymerz | 3.22.0 | Brazilian  |
-| NF Nova Fronteira | 3.22.0 | Brazilian  |
+| 0. ENGLISH | Definitely | I don't know |
+| 1. GIT PTBR| 3.22.0 | Brazilian |
+| 2. Nova Fronteira | 3.22.0 | Brazilian  |
+| 2. Dcutlass | 3.22.0 | Brazilian  |
