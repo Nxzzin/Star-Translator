@@ -4,7 +4,7 @@
 This repo work as local where updated "global.ini" is easier to download in 'Star Translator' and install! 
 
 ---
-## Supported Languages
+## Supported Localizations
 
 | Version | Supported | Language |
 |---|---|---|
