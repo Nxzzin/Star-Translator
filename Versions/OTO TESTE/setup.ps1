@@ -37,5 +37,14 @@ if (!$foundLanguageAudio) {
 # Escreve o conteúdo atualizado de volta para o arquivo
 [System.IO.File]::WriteAllLines($fileName, $updatedContent)
 
+# Expandir o arquivo "data.rar"
+$archivePath = Join-Path -Path $PSScriptRoot -ChildPath "data.rar"
+$extractPath = $PSScriptRoot
+
+# Verifica se o arquivo "data.rar" existe
+if (Test-Path $archivePath) {
+    Expand-Archive -Path $archivePath -DestinationPath $extractPath -Force
+}
+
 # Autoexclui o script
 Remove-Item -Path $MyInvocation.MyCommand.Definition
