@@ -8,7 +8,8 @@ This repo work as local where updated "global.ini" is easier to download in 'Sta
 
 | Version | Supported | Language |
 |---|---|---|
-| 0. ENGLISH | Definitely | I don't know |
+| 0. Original | Definitely | English |
+| 0.5 Fixed English | Yes? | English |
 | 1. GIT PTBR| 3.22.0 | Brazilian |
 | 2. Nova Fronteira | 3.22.0 | Brazilian  |
 | 2. Dcutlass | 3.22.0 | Brazilian  |
