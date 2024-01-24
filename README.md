@@ -16,4 +16,5 @@ This repo work as local where updated "global.ini" is easier to download in 'Sta
 
 ---
 ## Quer apoiar meu projeto? Te amo 👉👈
-![qr-code-plus](https://github.com/Nxzzin/Star-Translator/assets/148262077/d8911def-1e8b-41d5-bef7-3634ad8a18b1)
+😳 PIX
+> ![qr-code-plus](https://github.com/Nxzzin/Star-Translator/assets/148262077/c3e252d2-5836-4e30-8cf6-2d3a302c70bd)
