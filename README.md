@@ -6,13 +6,14 @@ This repo work as local where updated "global.ini" is easier to download in 'Sta
 ---
 ## Supported Localizations
 
-| Version | Supported | Language |
-|---|---|---|
-| 0. Original | Definitely | English |
-| 0.5 Fixed English | Might Broke | English |
-| 1. GIT PTBR| 3.22.0 | Brazilian |
-| 2. Nova Fronteira | 3.22.0 | Brazilian  |
-| 2. Dcutlass | 3.22.0 | Brazilian  |
+| Version | Supported | Language | Author |
+|---|---|---|---|
+| 0. Original | Definitely | English | Robertinho |
+| 0.5 Fixed English | Might Broke | English | Nxzzin/Dymerz GITHUB |
+| 1. GIT PTBR| 3.22.0 | Brazilian | Nxzzin |
+| 2. Nova Fronteira | 3.22.0 | Brazilian  | Nxzzin |
+| 3. Dcutlass | 3.22.0 | Brazilian  | DCUTLASS |
+| 4. Puro BR | 3.22.0 | Brazilian | Nxzzin |
 
 ---
 ## Quer apoiar meu projeto de Tradução? Te amo 👉👈
