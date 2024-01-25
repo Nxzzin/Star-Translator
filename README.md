@@ -18,6 +18,8 @@ This repo work as local where updated "global.ini" is easier to download in 'Sta
 | 3. Dcutlass | 3.22.0 | Brazilian  | DCUTLASS |
 | 4. Puro BR | 3.22.0 | Brazilian | Nxzzin |
 
+🛑 Em caso de dúvidas me contate @Nxzzin no Discord
+
 ---
 ## Quer apoiar o projeto de Tradução? Paga um cafézin pa nois 😳👉👈
 😳 PIX
