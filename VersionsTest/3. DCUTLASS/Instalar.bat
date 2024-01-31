@@ -23,8 +23,12 @@ set "ps1File=%~dp0setup.ps1"
 
 rem Verifique se o arquivo "data.rar" existe
 if exist "%rarFile%" (
-    rem Extrair "data.rar" no mesmo diretório
-    "C:\Program Files\WinRAR\WinRAR.exe" x -y "%rarFile%" "%~dp0"
+    rem Extrair "data.rar" usando WinRAR ou 7zip (prioriza 7zip se disponível)
+    if exist "C:\Program Files\7-Zip\7z.exe" (
+        "C:\Program Files\7-Zip\7z.exe" x -y "%rarFile%" -o"%~dp0"
+    ) else (
+        "C:\Program Files\WinRAR\WinRAR.exe" x -y "%rarFile%" "%~dp0"
+    )
 
     rem Verifique se a extração foi bem-sucedida
     if errorlevel 0 (
