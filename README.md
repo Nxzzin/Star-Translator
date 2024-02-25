@@ -17,7 +17,7 @@ This repo work as local where updated "global.ini" is easier to download in 'Sta
 | 2. Nova Fronteira | 3.22.1 | Brazilian  | Nxzzin |
 | 3. Dcutlass | 3.22.? | Brazilian  | DCUTLASS |
 | 4. Puro BR | 3.22.1 | Brazilian | Nxzzin |
-| 5. Germany | 3.22.1 | German | @ROBdk97 |
+| 5. Germany | 3.22.1 | German | [Dymerz/StarCitizen-Localization](https://github.com/Dymerz/StarCitizen-Localization/tree/main/data/Localization/german_(germany)) |
 
 🛑 Em caso de dúvidas me contate @Nxzzin no Discord
 
