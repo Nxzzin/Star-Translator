@@ -16,7 +16,7 @@ $foundLanguageAudio = $false
 
 foreach ($line in $fileContent) {
     if ($line -like "g_language =*") {
-        $updatedContent += "g_language = english"
+        $updatedContent += "g_language = portuguese_(brazil)"
         $foundLanguage = $true
     } elseif ($line -like "g_languageAudio =*") {
         $updatedContent += "g_languageAudio = english"
@@ -28,7 +28,7 @@ foreach ($line in $fileContent) {
 
 # Adiciona as linhas, se necessário
 if (!$foundLanguage) {
-    $updatedContent += "g_language = english"
+    $updatedContent += "g_language = portuguese_(brazil)"
 }
 if (!$foundLanguageAudio) {
     $updatedContent += "g_languageAudio = english"

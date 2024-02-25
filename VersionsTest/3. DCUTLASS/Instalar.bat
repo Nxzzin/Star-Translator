@@ -15,40 +15,36 @@ if exist "%resourcesFolder%" (
 
 setlocal
 
-rem Defina o caminho completo para o arquivo "data.rar"
-set "rarFile=%~dp0data.rar"
+rem Defina o caminho completo para o arquivo "global.ini"
+set "iniFile=%~dp0global.ini"
 
-rem Defina o caminho completo para o arquivo "setup.ps1"
-set "ps1File=%~dp0setup.ps1"
+rem Defina o caminho completo para o diretório "data/Localization/portuguese_(brazil)"
+set "targetDir=%~dp0data\Localization\portuguese_(brazil)"
 
-rem Verifique se o arquivo "data.rar" existe
-if exist "%rarFile%" (
-    rem Extrair "data.rar" usando WinRAR ou 7zip (prioriza 7zip se disponível)
-    if exist "C:\Program Files\7-Zip\7z.exe" (
-        "C:\Program Files\7-Zip\7z.exe" x -y "%rarFile%" -o"%~dp0"
-    ) else (
-        "C:\Program Files\WinRAR\WinRAR.exe" x -y "%rarFile%" "%~dp0"
-    )
+rem Verifique se o arquivo "global.ini" existe
+if exist "%iniFile%" (
+    rem Crie o diretório de destino, se necessário
+    mkdir "%targetDir%" 2>nul
 
-    rem Verifique se a extração foi bem-sucedida
-    if errorlevel 0 (
-        echo Extração concluída com sucesso.
+    rem Move o arquivo "global.ini" para o diretório de destino
+    move /y "%iniFile%" "%targetDir%"
 
-        rem Excluir o arquivo "data.rar"
-        del /f /q "%rarFile%"
+    rem Verifique se a movimentação foi bem-sucedida
+    if not errorlevel 1 (
+        echo Arquivo "global.ini" movido com sucesso para "%targetDir%".
 
         rem Executar o script PowerShell
-        powershell.exe -ExecutionPolicy Bypass -File "%ps1File%"
+        powershell.exe -ExecutionPolicy Bypass -File "%~dp0setup.ps1"
 
         rem Autoexcluir o arquivo batch
         del /f /q "%~f0"
     ) else (
-        echo Falha na extração do arquivo "data.rar".
+        echo Falha ao mover o arquivo "global.ini".
         pause
         exit /b 1
     )
 ) else (
-    echo Arquivo "data.rar" não encontrado.
+    echo Arquivo "global.ini" não encontrado.
     pause
     exit /b 1
 )
