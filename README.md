@@ -18,6 +18,9 @@ This repo work as local where updated "global.ini" is easier to download in 'Sta
 | 3. Dcutlass | 3.22.? | Brazilian  | DCUTLASS |
 | 4. Puro BR | 3.22.1 | Brazilian | Nxzzin |
 | 5. Germany | 3.22.1 | German | [Dymerz/StarCitizen-Localization](https://github.com/Dymerz/StarCitizen-Localization/tree/main/data/Localization/german_(germany)) |
+| 6. French | 3.22.1 | French | [Dymerz/StarCitizen-Localization](https://github.com/Dymerz/StarCitizen-Localization/tree/main/data/Localization/french_(france)) |
+| 7. Italian | 3.21.0 | Italian | [Dymerz/StarCitizen-Localization](https://github.com/Dymerz/StarCitizen-Localization/tree/main/data/Localization/italian_(italy)) |
+| 8. Spanish | 3.21.0 | Spanish | [Dymerz/StarCitizen-Localization](https://github.com/Dymerz/StarCitizen-Localization/tree/main/data/Localization/spanish_(spain)) |
 
 🛑 Em caso de dúvidas me contate @Nxzzin no Discord
 
