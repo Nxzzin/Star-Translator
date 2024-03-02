@@ -1,4 +1,4 @@
-# Star-Translator 🌎
+# StarTranslator 🌎
 ## Download
 https://github.com/Nxzzin/Star-Translator/releases/tag/StarTranslator
 
