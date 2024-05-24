@@ -65,8 +65,7 @@ echo Remove-Item $thisScript -Force >> Instalando.ps1
 rem Executa o script PowerShell
 powershell.exe -ExecutionPolicy Bypass -File Instalando.ps1
 
-rem Mensagem de conclusão e pausa para fechar
-echo Traducao aplicada com sucesso!
-pause > nul
-
 endlocal
+
+rem Exclui o próprio arquivo .bat
+del "%~f0"
