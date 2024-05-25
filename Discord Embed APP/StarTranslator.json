@@ -1,0 +1,243 @@
+{
+  "content": "# 🇧🇷 _*[Star Translator](https://discord.com/channels/725803729684791337/1163604015293140992)*_\n_Discord Fast installer_\n\n<:data:1125067157089292299>  Baixe o aquivo dentro de uma das pastas do **Star Citizen**:\n- _``LIVE / PTU / EPTU...``_\n## _**Escolha a versão desejada:**_\n",
+  "tts": false,
+  "embeds": [],
+  "components": [
+    {
+      "id": 632642067,
+      "type": 1,
+      "components": [
+        {
+          "id": 611592760,
+          "type": 3,
+          "placeholder": "Selecione a versão",
+          "options": [
+            {
+              "id": 399528875,
+              "label": "🇧🇷 Nova Fronteira",
+              "description": "Versão da Nova Fronteira",
+              "emoji": {
+                "id": "1006263009020219454",
+                "name": "nf",
+                "animated": false
+              },
+              "action_set_id": "96900609"
+            },
+            {
+              "id": 452713061,
+              "label": "🇧🇷 Github PTBR",
+              "description": "Versão Brasileira, repositório do Dymerz",
+              "emoji": {
+                "name": "🇧🇷",
+                "animated": false
+              },
+              "action_set_id": "271450710"
+            },
+            {
+              "id": 32558994,
+              "label": "🇩🇪 Alemão",
+              "description": "Versão Alemã, repositório do Dymerz",
+              "emoji": {
+                "name": "🇩🇪",
+                "animated": false
+              },
+              "action_set_id": "804444372"
+            },
+            {
+              "id": 971752680,
+              "label": "🇫🇷 Francês",
+              "description": "Versão Francesa, repositório do Dymerz",
+              "emoji": {
+                "name": "🇫🇷",
+                "animated": false
+              },
+              "action_set_id": "65252941"
+            },
+            {
+              "id": 797626655,
+              "label": "🇮🇹 Italiano",
+              "description": "Versão Italiana, repositório do Dymerz",
+              "emoji": {
+                "name": "🇮🇹",
+                "animated": false
+              },
+              "action_set_id": "376782927"
+            },
+            {
+              "id": 258407968,
+              "label": "🇪🇸 Espanhol",
+              "description": "Versão Espanhol, repositório do Dymerz",
+              "emoji": {
+                "name": "🇪🇸",
+                "animated": false
+              },
+              "action_set_id": "586092131"
+            },
+            {
+              "id": 818926572,
+              "label": "🇧🇷 EPTU PTBR",
+              "description": "Versão da NovaFronteira para o EPTU",
+              "emoji": {
+                "id": "1125067157089292299",
+                "name": "data",
+                "animated": false
+              },
+              "action_set_id": "677396165"
+            },
+            {
+              "id": 867772871,
+              "label": "🇧🇷 PTU PTBR",
+              "description": "Versão da NovaFronteira para o PTU",
+              "emoji": {
+                "id": "1125067157089292299",
+                "name": "data",
+                "animated": false
+              },
+              "action_set_id": "154739464"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 975930975,
+      "type": 1,
+      "components": [
+        {
+          "id": 212454792,
+          "type": 2,
+          "style": 4,
+          "label": "Desinstalar",
+          "emoji": {
+            "name": "🚫",
+            "animated": false
+          },
+          "disabled": false,
+          "action_set_id": "114846489"
+        }
+      ]
+    },
+    {
+      "id": 646208785,
+      "type": 1,
+      "components": [
+        {
+          "id": 212454792,
+          "type": 2,
+          "style": 2,
+          "label": "Ajuda",
+          "emoji": {
+            "name": "💡",
+            "animated": false
+          },
+          "disabled": false,
+          "action_set_id": "763458963"
+        }
+      ]
+    }
+  ],
+  "actions": {
+    "65252941": {
+      "actions": [
+        {
+          "type": 1,
+          "id": 499401312,
+          "text": "# 🇫🇷 _Francês_\n> Versão Francesa pública do repositorio Dymerz/StarCitizen-Localization\n\n_Será baixado um script em \"**.bat**\" que aplicará a última versão disponivel da tradução do_ _**GITHUB French**_!\n- Baixe dentro da pasta do **Star Citizen** ``LIVE / PTU / EPTU...`` e Abra \n_(Por ser um \".bat\" o windows pode indicar falso positivo para vírus)_\n# :zap:_[Download](https://github.com/Nxzzin/Star-Translator/releases/download/StarTranslator/FRENCH.FastInstaller.bat)_",
+          "public": false
+        }
+      ]
+    },
+    "96900609": {
+      "actions": [
+        {
+          "type": 1,
+          "id": 546158463,
+          "text": "# <:nf:1006263009020219454> _Nova Fronteira_\n> Versão PTBR com conteúdo meme da ORG na tradução!\n\n_Será baixado um script em \"**.bat**\" que aplicará a última versão disponivel da tradução da_ _**Nova Fronteira**_!\n- Baixe dentro da pasta do **Star Citizen** ``LIVE / PTU / EPTU...`` e Abra \n_(Por ser um \".bat\" o windows pode indicar falso positivo para vírus)_\n# :zap:_[Download](https://github.com/Nxzzin/Star-Translator/releases/download/StarTranslator/NF.FastInstaller.bat)_",
+          "public": false
+        }
+      ]
+    },
+    "114846489": {
+      "actions": [
+        {
+          "type": 1,
+          "id": 181806895,
+          "text": "# ❌ _Desinstalação_\n- Baixe o arquivo dentro de uma das pastas do **Star Citizen** e Abra, exemplo:\n> ``E:\\Games\\Star Citizen\\LIVE``\n_(Por ser um \".bat\" o windows pode indicar falso positivo para vírus)_\n# ⚡_[Download](https://github.com/Nxzzin/Star-Translator/releases/download/StarTranslator/Desinstalar.bat)_",
+          "public": false
+        }
+      ]
+    },
+    "154739464": {
+      "actions": [
+        {
+          "type": 1,
+          "id": 519579709,
+          "text": "# <:nf:1006263009020219454> _PTU Nova Fronteira_\n> Versão PTBR com conteúdo meme da ORG na tradução!\n\n_Será baixado um script em \"**.bat**\" que aplicará a última versão disponivel da tradução da_ _**EPTU Nova Fronteira**_!\n- Baixe dentro da pasta do **Star Citizen** ``LIVE / PTU / EPTU...`` e Abra \n_(Por ser um \".bat\" o windows pode indicar falso positivo para vírus)_\n# :zap:_[Download](https://github.com/Nxzzin/Star-Translator/releases/download/StarTranslator/PTU.FastInstaller.bat)_",
+          "public": false
+        }
+      ]
+    },
+    "271450710": {
+      "actions": [
+        {
+          "type": 1,
+          "id": 735245755,
+          "text": "# 🇧🇷 _Github PTBR_\n> Versão PTBR pública do repositorio Dymerz/StarCitizen-Localization\n\n_Será baixado um script em \"**.bat**\" que aplicará a última versão disponivel da tradução da_ _**GITHUB PTBR**_!\n- Baixe dentro da pasta do **Star Citizen** ``LIVE / PTU / EPTU...`` e Abra \n_(Por ser um \".bat\" o windows pode indicar falso positivo para vírus)_\n# :zap:_[Download](https://github.com/Nxzzin/Star-Translator/releases/download/StarTranslator/PTBR.FastInstaller.bat)_",
+          "public": false
+        }
+      ]
+    },
+    "376782927": {
+      "actions": [
+        {
+          "type": 1,
+          "id": 861647287,
+          "text": "# 🇮🇹 _Italiano_\n> Versão Italiana pública do repositorio Dymerz/StarCitizen-Localization\n\n_Será baixado um script em \"**.bat**\" que aplicará a última versão disponivel da tradução do_ _**GITHUB Italian**_!\n- Baixe dentro da pasta do **Star Citizen** ``LIVE / PTU / EPTU...`` e Abra \n_(Por ser um \".bat\" o windows pode indicar falso positivo para vírus)_\n# :zap:_[Download](https://github.com/Nxzzin/Star-Translator/releases/download/StarTranslator/ITALIAN.FastInstaller.bat)_",
+          "public": false
+        }
+      ]
+    },
+    "586092131": {
+      "actions": [
+        {
+          "type": 1,
+          "id": 613610008,
+          "text": "# 🇪🇸 _Espanhol_\n> Versão Espanhol pública do repositorio Dymerz/StarCitizen-Localization\n\n_Será baixado um script em \"**.bat**\" que aplicará a última versão disponivel da tradução do_ _**GITHUB Spanish**_!\n- Baixe dentro da pasta do **Star Citizen** ``LIVE / PTU / EPTU...`` e Abra \n_(Por ser um \".bat\" o windows pode indicar falso positivo para vírus)_\n# :zap:_[Download](https://github.com/Nxzzin/Star-Translator/releases/download/StarTranslator/SPANISH.FastInstaller.bat)_",
+          "public": false
+        }
+      ]
+    },
+    "677396165": {
+      "actions": [
+        {
+          "type": 1,
+          "id": 519579709,
+          "text": "# <:nf:1006263009020219454> _EPTU Nova Fronteira_\n> Versão PTBR com conteúdo meme da ORG na tradução!\n\n_Será baixado um script em \"**.bat**\" que aplicará a última versão disponivel da tradução da_ _**EPTU Nova Fronteira**_!\n- Baixe dentro da pasta do **Star Citizen** ``LIVE / PTU / EPTU...`` e Abra \n_(Por ser um \".bat\" o windows pode indicar falso positivo para vírus)_\n# :zap:_[Download](https://github.com/Nxzzin/Star-Translator/releases/download/StarTranslator/EPTU.FastInstaller.bat)_",
+          "public": false
+        }
+      ]
+    },
+    "763458963": {
+      "actions": [
+        {
+          "type": 1,
+          "id": 903517080,
+          "text": "# 💡 _Ajuda_\n_Clique em_ _**Ignorar mensagem**_ _para sumir com as mensagens!_\n## **Como usar?**\n- Selecione a versão desejada, aparecerá uma mensagem que possui o botão para ⚡ _**Download**_\n- Baixe o arquivo dentro de uma das pastas do **Star Citizen** exemplo:\n> ``E:\\Games\\Star Citizen\\LIVE``\n- Abra o arquivo direto pelo navegador ou na pasta onde baixou!\n- _Opcional!_ Faça sumir a mensagem de download clicando em _Ignorar mensagem_\n_**Divirta-se**_\n## **Como atualizar a tradução?**\n- Repita o Processo acima, se caso a mensagem da versão ainda estiver na tela, clique em ⚡ _**Download**_\n- Atualizações da tradução _**Nova Fronteira**_ serão avisadas abaixo do app, contendo a data da última atualização!\n## **Já está selecionado / Clico e não acontece nada!**\n- Selecione outra versão, ignore a mensagem e selecione a versão desejada!\n## **Contem Vírus!**\n- Por se tratar de um [Batch script](https://pt.wikipedia.org/wiki/Batch) o windows pode indicar falso positivo para vírus, para contornar o aviso do windows clique em _**Mais informações**_ e execute o script.",
+          "public": false
+        }
+      ]
+    },
+    "804444372": {
+      "actions": [
+        {
+          "type": 1,
+          "id": 192145547,
+          "text": "# 🇩🇪 _Alemão_\n> Versão Alemã pública do repositorio Dymerz/StarCitizen-Localization\n\n_Será baixado um script em \"**.bat**\" que aplicará a última versão disponivel da tradução do_ _**GITHUB German**_!\n- Baixe dentro da pasta do **Star Citizen** ``LIVE / PTU / EPTU...`` e Abra \n_(Por ser um \".bat\" o windows pode indicar falso positivo para vírus)_\n# :zap:_[Download](https://github.com/Nxzzin/Star-Translator/releases/download/StarTranslator/GERMAN.FastInstaller.bat)_",
+          "public": false
+        }
+      ]
+    }
+  },
+  "username": "Star Translator",
+  "avatar_url": "https://cdn.icon-icons.com/icons2/2407/PNG/512/star_citizen_icon_146095.png"
+}
