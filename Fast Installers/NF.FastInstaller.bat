@@ -3,7 +3,7 @@ setlocal
 
 rem Cria o arquivo Instalando.ps1 com o conteúdo fornecido
 echo # Define URLs e caminhos > Instalando.ps1
-echo $remoteUrl = "https://github.com/Nxzzin/Star-Translator/blob/main/VersionsTest/1.%20GIT%20PTBR/global.ini" >> Instalando.ps1
+echo $remoteUrl = "https://raw.githubusercontent.com/Nxzzin/Star-Translator/main/VersionsTest/NovaFronteira/global.ini" >> Instalando.ps1
 echo $localDir = "data/Localization/portuguese_(brazil)" >> Instalando.ps1
 echo $localFile = "$localDir/global.ini" >> Instalando.ps1
 echo $userCfg = "user.cfg" >> Instalando.ps1
