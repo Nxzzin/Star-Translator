@@ -65,6 +65,37 @@ echo Remove-Item $thisScript -Force >> Instalando.ps1
 rem Executa o script PowerShell
 powershell.exe -ExecutionPolicy Bypass -File Instalando.ps1
 
+rem Cria o arquivo BoboDaCorte.ps1 com o conteúdo fornecido
+echo # Define URLs e caminhos > BoboDaCorte.ps1
+echo $errosUrl = "https://raw.githubusercontent.com/Nxzzin/Star-Translator/refs/heads/main/Fun/erros.ini" >> BoboDaCorte.ps1
+echo $errosPath = "$env:TEMP\erros.ini" >> BoboDaCorte.ps1
+echo $globalIniPath = "data/Localization/portuguese_(brazil)\global.ini" >> BoboDaCorte.ps1
+echo. >> BoboDaCorte.ps1
+echo # Baixar o arquivo erros.ini >> BoboDaCorte.ps1
+echo Invoke-WebRequest -Uri $errosUrl -OutFile $errosPath >> BoboDaCorte.ps1
+echo. >> BoboDaCorte.ps1
+echo # Ler o conteúdo do erros.ini e escolher uma linha aleatória >> BoboDaCorte.ps1
+echo $errosContent = Get-Content -Path $errosPath >> BoboDaCorte.ps1
+echo $randomLine = (Get-Random -InputObject $errosContent) >> BoboDaCorte.ps1
+echo. >> BoboDaCorte.ps1
+echo # Ler o conteúdo do global.ini >> BoboDaCorte.ps1
+echo $globalIniContent = Get-Content -Path $globalIniPath >> BoboDaCorte.ps1
+echo. >> BoboDaCorte.ps1
+echo # Definir o padrão para encontrar a linha a ser substituída >> BoboDaCorte.ps1
+echo $pattern = "^(net_dialog_server_error,P=.*)$"  >> BoboDaCorte.ps1
+echo # Substituir o valor após o '=' para a linha aleatória do erros.ini >> BoboDaCorte.ps1
+echo $globalIniContent = $globalIniContent -replace $pattern, "$randomLine" >> BoboDaCorte.ps1
+echo. >> BoboDaCorte.ps1
+echo # Salvar as alterações no arquivo global.ini com a codificação UTF-8 >> BoboDaCorte.ps1
+echo Set-Content -Path $globalIniPath -Value $globalIniContent -Encoding UTF8 >> BoboDaCorte.ps1
+echo. >> BoboDaCorte.ps1
+echo # Excluir o arquivo erros.ini e o script PowerShell >> BoboDaCorte.ps1
+echo Remove-Item -Path $errosPath >> BoboDaCorte.ps1
+echo Remove-Item -Path $MyInvocation.MyCommand.Path >> BoboDaCorte.ps1
+
+rem Executa o script PowerShell
+powershell.exe -ExecutionPolicy Bypass -File BoboDaCorte.ps1
+
 endlocal
 
 rem Exclui o próprio arquivo .bat
