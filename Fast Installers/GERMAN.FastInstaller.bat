@@ -1,6 +1,18 @@
 @echo off
 setlocal
 
+rem Versão do Jogo
+set "GameVersion=LIVE"
+
+rem Verifica se a pasta atual é a correta
+for %%A in ("%cd%") do set "CurrentFolder=%%~nxA"
+
+if /I not "%CurrentFolder%"=="%GameVersion%" (
+    echo ERRO: Este arquivo precisa ser executado dentro da pasta "...\StarCitizen\%GameVersion%".
+    pause
+    exit /b
+)
+
 rem Cria o arquivo Instalando.ps1 com o conteúdo fornecido
 echo # Define URLs e caminhos > Instalando.ps1
 echo $remoteUrl = "https://raw.githubusercontent.com/Dymerz/StarCitizen-Localization/main/data/Localization/german_(germany)/global.ini" >> Instalando.ps1
