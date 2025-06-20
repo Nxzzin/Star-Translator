@@ -9,6 +9,7 @@ for %%A in ("%cd%") do set "CurrentFolder=%%~nxA"
 
 if /I not "%CurrentFolder%"=="%GameVersion%" (
     echo ERRO: Este arquivo precisa ser executado dentro da pasta "...\StarCitizen\%GameVersion%".
+	echo - Em casos de falta de permissao, executar o arquivo em uma pasta de nome %GameVersion% tambem funcionara!
     pause
     exit /b
 )
