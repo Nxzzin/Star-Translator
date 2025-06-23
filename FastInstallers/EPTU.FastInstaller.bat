@@ -19,7 +19,7 @@ if /I not "%CurrentFolder%"=="%GameVersion%" (
 )
 
 echo Baixando e Instalando traducao...
-
+echo ---------------------------------------------------------------------
 :: Baixa global.ini
 if not exist "data\localization\%Language%\" mkdir "data\Localization\%Language%"
 curl -s -L "https://raw.githubusercontent.com/Nxzzin/Star-Translator/main/Versions/%Localization%/global.ini" -o "data\localization\%Language%\global.ini"
@@ -38,6 +38,9 @@ if not exist "user.cfg" (
 :: Extra
 :: BoboDaCorte
 if /I not "%EnableBoboDaCorte%"=="Yes" goto SkipBoboDaCorte
+echo ---------------------------------------------------------------------
+echo Rolando dados...
+
 echo $errosUrl = "https://raw.githubusercontent.com/Nxzzin/Star-Translator/refs/heads/main/Fun/erros.ini" >> BoboDaCorte.ps1
 echo $errosPath = "$env:TEMP\erros.ini" >> BoboDaCorte.ps1
 echo $globalIniPath = "data/Localization/portuguese_(brazil)\global.ini" >> BoboDaCorte.ps1
@@ -55,5 +58,8 @@ rem Executa o script PowerShell
 powershell.exe -ExecutionPolicy Bypass -File BoboDaCorte.ps1
 :SkipBoboDaCorte
 
+echo Sucesso, ate logo!
+echo Fechando...
+timeout /t 2 >nul
 endlocal
 del "%~f0"
