@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 
-echo Limpando localizações...
+echo Desinstalando...
 if exist "data\Localization\" (
     for /d %%d in ("data\Localization\*") do (
         rd /s /q "%%d" 2>nul

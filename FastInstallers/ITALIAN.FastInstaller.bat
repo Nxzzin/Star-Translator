@@ -16,6 +16,8 @@ if /I not "%CurrentFolder%"=="%GameVersion%" (
     exit /b
 )
 
+echo Baixando e Instalando traducao...
+
 :: Baixa global.ini
 if not exist "data\localization\%Language%\" mkdir "data\Localization\%Language%"
 curl -s -L "https://raw.githubusercontent.com/Dymerz/StarCitizen-Localization/main/data/Localization/%Language%/global.ini" -o "data\localization\%Language%\global.ini"

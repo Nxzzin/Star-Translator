@@ -18,6 +18,8 @@ if /I not "%CurrentFolder%"=="%GameVersion%" (
     exit /b
 )
 
+echo Baixando e Instalando traducao...
+
 :: Baixa global.ini
 if not exist "data\localization\%Language%\" mkdir "data\Localization\%Language%"
 curl -s -L "https://raw.githubusercontent.com/Nxzzin/Star-Translator/main/Versions/%Localization%/global.ini" -o "data\localization\%Language%\global.ini"
