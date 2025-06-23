@@ -32,7 +32,7 @@ if not exist "user.cfg" (
     echo g_languageAudio = english>> user.tmp
     move /y user.tmp user.cfg >nul
 )
-
+echo ---------------------------------------------------------------------
 echo Success, see you space cowboy...
 timeout /t 2 >nul
 endlocal
