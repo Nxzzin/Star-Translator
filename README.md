@@ -4,7 +4,7 @@ https://rentry.org/star-translator
 ---
 ### 💡 **Como instalar?**
 - Baixe o arquivo dentro de uma das pastas do **Star Citizen**, exemplo:
-> ``E:\Games\Star Citizen\LIVE``
+> ``E:\Games\StarCitizen\LIVE``
 >⚠️ Muito importante o arquivo **.bat** estar na pasta "**LIVE,PTU** ou **EPTU**" para que funcione a instalação!
 - Abra o arquivo **.bat** na pasta onde foi baixado! (Pode não funcionar se abrir como administrador!)
 
