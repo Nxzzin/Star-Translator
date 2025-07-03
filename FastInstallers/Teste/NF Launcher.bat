@@ -103,7 +103,7 @@ if exist "HOTFIX\data\Localization\portuguese_(brazil)\global.ini" (
 
 :SkipBoboDaCorte
 
-echo Sucesso, abrindo RSI Launcher...
+echo Abrindo RSI Launcher...
 :end
 timeout /t 3 /nobreak >nul
 start "" "%SystemDrive%\ProgramData\Microsoft\Windows\Start Menu\Programs\Roberts Space Industries\RSI Launcher.lnk"
