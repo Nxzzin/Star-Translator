@@ -81,6 +81,27 @@ if exist "LIVE\data\Localization\portuguese_(brazil)\global.ini" (
     powershell.exe -ExecutionPolicy Bypass -File BoboDaCorte_LIVE.ps1
 )
 
+if /I not "%EnableBoboDaCorte%"=="Yes" goto SkipBoboDaCorte
+if exist "HOTFIX\data\Localization\portuguese_(brazil)\global.ini" (
+    echo HOTFIX esta rolando os dados...
+    (
+    echo $errosUrl = "https://raw.githubusercontent.com/Nxzzin/Star-Translator/refs/heads/main/Fun/erros.ini"
+    echo $errosPath = "$env:TEMP\erros.ini"
+    echo $globalIniPath = "HOTFIX\data\Localization\portuguese_(brazil)\global.ini"
+    echo Invoke-WebRequest -Uri $errosUrl -OutFile $errosPath
+    echo $errosContent = Get-Content -Path $errosPath
+    echo $randomLine = Get-Random -InputObject $errosContent
+    echo $globalIniContent = Get-Content -Path $globalIniPath
+    echo $pattern = "^(net_dialog_server_error,P=.*)$"
+    echo $globalIniContent = $globalIniContent -replace $pattern, $randomLine
+    echo Set-Content -Path $globalIniPath -Value $globalIniContent -Encoding UTF8
+    echo Remove-Item -Path $errosPath
+    echo Remove-Item -Path $MyInvocation.MyCommand.Path
+    ) > BoboDaCorte_HOTFIX.ps1
+
+    powershell.exe -ExecutionPolicy Bypass -File BoboDaCorte_HOTFIX.ps1
+)
+
 :SkipBoboDaCorte
 
 echo Sucesso, abrindo RSI Launcher...
