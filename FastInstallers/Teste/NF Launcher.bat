@@ -59,7 +59,7 @@ if "!Trad!"=="0" (
 )
 
 
-:: BoboDaCorte - Exclusivo do LIVE
+:: BoboDaCorte - Exclusivo do LIVE e HOTFIX
 if /I not "%EnableBoboDaCorte%"=="Yes" goto SkipBoboDaCorte
 if exist "LIVE\data\Localization\portuguese_(brazil)\global.ini" (
     echo LIVE esta rolando os dados...
@@ -81,7 +81,6 @@ if exist "LIVE\data\Localization\portuguese_(brazil)\global.ini" (
     powershell.exe -ExecutionPolicy Bypass -File BoboDaCorte_LIVE.ps1
 )
 
-if /I not "%EnableBoboDaCorte%"=="Yes" goto SkipBoboDaCorte
 if exist "HOTFIX\data\Localization\portuguese_(brazil)\global.ini" (
     echo HOTFIX esta rolando os dados...
     (
