@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
-
-:: Verifica se ta em StarCitizen
+:: ESSE BATCH PASSARÁ PELO BAT2EXE
+:: Verifica se ta na pasta StarCitizen
 set "CURRENT_DIR=%cd%"
 for %%A in ("%cd%") do set "CurrentFolder=%%~nxA"
 
