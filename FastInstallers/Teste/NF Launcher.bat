@@ -82,9 +82,9 @@ if exist "LIVE\data\Localization\portuguese_(brazil)\global.ini" (
 
 :SkipBoboDaCorte
 
-echo Sucesso, ate logo!
+echo Sucesso, abrindo RSI Launcher...
 :end
-timeout /t 5 /nobreak >nul
+timeout /t 3 /nobreak >nul
 start "" "%SystemDrive%\ProgramData\Microsoft\Windows\Start Menu\Programs\Roberts Space Industries\RSI Launcher.lnk"
 exit
 
