@@ -15,10 +15,11 @@ if /I not "%CurrentFolder%"=="StarCitizen" (
 set "EnableBoboDaCorte=Yes"
 
 :: Pastas verificadas
-set FOLDERS=LIVE PTU EPTU
+set FOLDERS=LIVE PTU EPTU HOTFIX
 
 :: Localizations
 set "LIVE_LOCAL=NovaFronteira"
+set "HOTFIX_LOCAL=NovaFronteira"
 set "PTU_LOCAL=PTU"
 set "EPTU_LOCAL=EPTU"
 
