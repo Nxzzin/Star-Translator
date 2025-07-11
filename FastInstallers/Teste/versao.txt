@@ -1,2 +1,2 @@
-b0.0.7
+b1.0.0
 https://raw.githubusercontent.com/Nxzzin/Star-Translator/refs/heads/main/FastInstallers/Teste/NF0Launcher.exe
