@@ -11,7 +11,8 @@ https://rentry.org/star-translator
 **<img src="https://img.icons8.com/color/200/pix.png" width="25" height="25"> [Apoie o Projeto](https://livepix.gg/nxzzin)**
 ---
 
-> 📢 **NOTA:** Este projeto inclui **'⚙Component Language Pack - Remix Edition'** por [joeydee1986/ScCompLangPackRemix](https://github.com/joeydee1986/ScCompLangPackRemix)
+> [!NOTE] 
+> Este projeto inclui **'⚙Component Language Pack - Remix Edition'** por [joeydee1986/ScCompLangPackRemix](https://github.com/joeydee1986/ScCompLangPackRemix)
 >
 > Obrigado **joeydee1986** e **ExoAE** pela permissão!
 
