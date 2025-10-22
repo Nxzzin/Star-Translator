@@ -13,7 +13,7 @@ https://rentry.org/star-translator
 
 > 📢 **NOTA:** Este projeto inclui **'⚙Component Language Pack - Remix Edition'** por [joeydee1986/ScCompLangPackRemix](https://github.com/joeydee1986/ScCompLangPackRemix)
 >
-> Obrigado **joeydee1986** pela permissão!
+> Obrigado **joeydee1986** e **ExoAE** pela permissão!
 
 ## Suporte:
 🔁 [Checar atualizações](https://github.com/Dymerz/StarCitizen-Localization/blob/main/README_ptbr.md#idiomas-suportados)
