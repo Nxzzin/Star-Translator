@@ -22,7 +22,7 @@ echo Baixando e Instalando traducao...
 echo ---------------------------------------------------------------------
 :: Baixa global.ini
 if not exist "data\localization\%Language%\" mkdir "data\Localization\%Language%"
-curl -s -L "https://raw.githubusercontent.com/Nxzzin/Star-Translator/main/Versions/%Localization%/global.ini" -o "data\localization\%Language%\global.ini"
+curl -s -L "https://nxzzin.github.io/Star-Translator/Versions/%Localization%/global.ini" -o "data\localization\%Language%\global.ini"
 
 :: Configura User.cfg
 if not exist "user.cfg" (
@@ -41,7 +41,7 @@ if /I not "%EnableBoboDaCorte%"=="Yes" goto SkipBoboDaCorte
 echo ---------------------------------------------------------------------
 echo Rolando dados...
 
-echo $errosUrl = "https://raw.githubusercontent.com/Nxzzin/Star-Translator/refs/heads/main/Fun/erros.ini" >> BoboDaCorte.ps1
+echo $errosUrl = "https://nxzzin.github.io/Star-Translator/Fun/erros.ini" >> BoboDaCorte.ps1
 echo $errosPath = "$env:TEMP\erros.ini" >> BoboDaCorte.ps1
 echo $globalIniPath = "data/Localization/portuguese_(brazil)\global.ini" >> BoboDaCorte.ps1
 echo Invoke-WebRequest -Uri $errosUrl -OutFile $errosPath >> BoboDaCorte.ps1

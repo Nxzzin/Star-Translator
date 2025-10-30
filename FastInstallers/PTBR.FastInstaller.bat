@@ -20,7 +20,7 @@ echo Baixando e Instalando traducao...
 echo ---------------------------------------------------------------------
 :: Baixa global.ini
 if not exist "data\localization\%Language%\" mkdir "data\Localization\%Language%"
-curl -L "https://raw.githubusercontent.com/Nxzzin/Star-Translator/main/Versions/%Localization%/global.ini" -o "data\localization\%Language%\global.ini"
+curl -L "https://nxzzin.github.io/Star-Translator/Versions/%Localization%/global.ini" -o "data\localization\%Language%\global.ini"
 
 :: Configura User.cfg
 if not exist "user.cfg" (
