@@ -6,6 +6,7 @@ https://rentry.org/star-translator
 🔥[BAIXAR](https://github.com/Nxzzin/Star-Translator/releases/download/StarTranslator/StarTranslator.exe)
 
 ### 💡 **Como instalar?**
+https://github.com/Nxzzin/Star-Translator/releases
 - Baixe o arquivo dentro de uma das pastas do **Star Citizen**, exemplo:
 > ``E:\Games\StarCitizen\LIVE``
 >⚠️ Muito importante o arquivo **.bat** estar na pasta "**LIVE,PTU** ou **EPTU**" para que funcione a instalação!
