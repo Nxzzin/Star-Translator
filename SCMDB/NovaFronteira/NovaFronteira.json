@@ -1,5 +1,5 @@
 {
-  "version": "4.7.1-live.11638371",
+  "version": "4.7.2-live.11715810",
   "sourceLanguage": "en",
   "targetLanguage": "unknown",
   "keyCount": 2542,
@@ -7154,9 +7154,9 @@
       "en": "Lorville",
       "tr": "Lorville"
     },
-    "_noloc_location_JumpPoint_Stanton_Terra": {
-      "en": "JumpPoint_Stanton_Terra",
-      "tr": "JumpPoint_Stanton_Terra"
+    "_noloc_location_JumpPoint_Stanton-Terra": {
+      "en": "JumpPoint_Stanton-Terra",
+      "tr": "JumpPoint_Stanton-Terra"
     },
     "_noloc_location_Inhabited_Derelict_Civilian_Stanton1a_Drlct_Stmnt_001": {
       "en": "Inhabited_Derelict_Civilian_Stanton1a_Drlct_Stmnt_001",
@@ -7390,9 +7390,9 @@
       "en": "Razor's Edge",
       "tr": "Razor's Edge"
     },
-    "_noloc_location_JumpPoint_Stanton_Pyro": {
-      "en": "JumpPoint_Stanton_Pyro",
-      "tr": "JumpPoint_Stanton_Pyro"
+    "_noloc_location_JumpPoint_Stanton-Pyro": {
+      "en": "JumpPoint_Stanton-Pyro",
+      "tr": "JumpPoint_Stanton-Pyro"
     },
     "Stanton4_NewBabbage": {
       "en": "New Babbage",
@@ -7458,9 +7458,9 @@
       "en": "Inhabited_Derelict_Outlaw_Stanton1",
       "tr": "Inhabited_Derelict_Outlaw_Stanton1"
     },
-    "_noloc_location_JumpPoint_Stanton_Magnus": {
-      "en": "JumpPoint_Stanton_Magnus",
-      "tr": "JumpPoint_Stanton_Magnus"
+    "_noloc_location_JumpPoint_Stanton-Magnus": {
+      "en": "JumpPoint_Stanton-Magnus",
+      "tr": "JumpPoint_Stanton-Magnus"
     },
     "_noloc_location_Inhabited_Derelict_Civilian_Stanton1b_Drlct_Stmnt_001": {
       "en": "Inhabited_Derelict_Civilian_Stanton1b_Drlct_Stmnt_001",
@@ -8410,9 +8410,9 @@
       "en": "Shubin Mining Facility SM0-10",
       "tr": "Shubin Mining Facility SM0-10"
     },
-    "_noloc_location_JumpPoint_Stanton_Pyro_SecurityDock": {
-      "en": "JumpPoint_Stanton_Pyro_SecurityDock",
-      "tr": "JumpPoint_Stanton_Pyro_SecurityDock"
+    "_noloc_location_JumpPoint_Stanton-Pyro_SecurityDock": {
+      "en": "JumpPoint_Stanton-Pyro_SecurityDock",
+      "tr": "JumpPoint_Stanton-Pyro_SecurityDock"
     },
     "Stanton4_Shubin_003": {
       "en": "Shubin Mining Facility SM0-18",
