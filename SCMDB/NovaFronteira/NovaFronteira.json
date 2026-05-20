@@ -237,7 +237,7 @@
   "keys": {
     "Headhunters_Delivery_Outpost_title_001": {
       "en": "[DESTINATION] Errand",
-      "tr": "[DESTINATION] RECADO"
+      "tr": "RECADO À [DESTINATION]"
     },
     "roughready_delivery_station_title_001": {
       "en": "[DESTINATION] Stroll",
