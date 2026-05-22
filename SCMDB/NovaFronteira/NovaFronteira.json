@@ -1,11 +1,11 @@
 {
-  "version": "4.8.0-live.11825000",
+  "version": "4.8.0-live.11875683",
   "sourceLanguage": "en",
   "targetLanguage": "unknown",
-  "keyCount": 2630,
+  "keyCount": 2693,
   "stats": {
-    "total": 2630,
-    "translated": 2485,
+    "total": 2693,
+    "translated": 2548,
     "missing": 1,
     "noLocKey": 75,
     "placeholderFallback": 69,
@@ -539,6 +539,10 @@
       "en": "Ambush XenoThreat Strike Wing",
       "tr": "EMBOSCAR ALA DE ATAQUE XENOTHREAT"
     },
+    "vaughn_assassination_PA_S_title": {
+      "en": "Annihilating the Alliance",
+      "tr": "ANIQUILANDO A ALIANÇA"
+    },
     "vaughn_assassination_VE_title_rehire": {
       "en": "Another Chance to Impress",
       "tr": "OUTRA CHANCE DE IMPRESSIONAR"
@@ -811,6 +815,10 @@
       "en": "Clear Citizens for Prosperity Servers",
       "tr": "LIMPE OS SERVIDORES DA CITIZENS FOR PROSPERITY"
     },
+    "eckhart_defendship_multi_VHRT_SB_title_001": {
+      "en": "Client Needs Combat Support",
+      "tr": "CLIENTE PRECISA DE APOIO EM COMBATE"
+    },
     "EckhartSecurity_RecoverCargo_Easy_Title": {
       "en": "Client's Cargo Needs Recovering",
       "tr": "CARGA DE CLIENTE PRECISA SER RECUPERADA"
@@ -874,6 +882,10 @@
     "cfp_defendship_multi_HRT_title_001": {
       "en": "Convoy Caught in Brutal Attack",
       "tr": "COMBOIO É PEGO EM ATAQUE BRUTAL"
+    },
+    "cfp_defendship_multi_VHRT_SB_title_001": {
+      "en": "Convoy Under Attack",
+      "tr": "COMBOIO SOB ATAQUE"
     },
     "spacecollect_cargo_title_VE_01": {
       "en": "Red Wind Package Recovery",
@@ -962,6 +974,10 @@
     "RedWind_RecoverItem_H_Title_001": {
       "en": "Red Wind Challenging Package Recovery",
       "tr": "RED WIND RECUPERAÇÃO DESAFIADORA DE PACOTE"
+    },
+    "vaughn_assassination_PA_H_title": {
+      "en": "Cracking the Alliance",
+      "tr": "QUEBRANDO A ALIANÇA"
     },
     "headhunters_multikillship_base_Generic_M_title_001": {
       "en": "Crash some ships",
@@ -1106,6 +1122,10 @@
     "cfp_sabotage_servers_H_XT_title_001": {
       "en": "Destroy XenoThreat Logistic Data",
       "tr": "DESTRUIR DADOS LOGÍSTICOS DA XENOTHREAT"
+    },
+    "vaughn_assassination_PA_VH_title": {
+      "en": "Destroying the Alliance",
+      "tr": "DESTRUINDO A ALIANÇA"
     },
     "CFP_SabotageRelays_HH_001_Title": {
       "en": "Disable Headhunter Comm Towers",
@@ -1279,6 +1299,10 @@
       "en": "Fortune ship for you",
       "tr": "NAVE FORTUNE PARA VOCÊ"
     },
+    "vaughn_assassination_PA_M_title": {
+      "en": "Fracturing the Alliance",
+      "tr": "FRAGMENTANDO A ALIANÇA"
+    },
     "TheCollector_Recipes_Title_KopSkull": {
       "en": "Fun Kopion Skull Gun",
       "tr": "ARMA DIVERTIDA COM CABEÇA DE KOPION"
@@ -1382,6 +1406,10 @@
     "headhunters_defendship_MRT_title_001": {
       "en": "Headhunter Ship Needs Backup",
       "tr": "A NAVE HEADHUNTER PRECISA DE REFORÇOS"
+    },
+    "cfp_defendship_multi_HRT_SB_title_001": {
+      "en": "Help Ambushed Convoy",
+      "tr": "AJUDAR COMBOIO EMBOSCADO"
     },
     "CFP_ShipWaveAttack_ClearHostiles_Title_VE_001": {
       "en": "Help Deal with Outlaw Hunting Party",
@@ -2135,6 +2163,10 @@
       "en": "Protection Detail Needed. High Risk.",
       "tr": "NECESSÁRIO DETALHE DE PROTEÇÃO - ALTO RISCO"
     },
+    "cfp_defendship_LRT_SB_title_001": {
+      "en": "Provide Combat Support",
+      "tr": "PRESTE SUPORTE EM UM COMBATE"
+    },
     "HeadHunters_DefendEntitesAndEscort_E_Title": {
       "en": "Provide Protection at [LOCATION]",
       "tr": "FORNECER PROTEÇÃO EM [LOCATION]"
@@ -2158,6 +2190,122 @@
     "vaughn_searchbody_space_VE_Title_001": {
       "en": "Putting a Mind at Ease",
       "tr": "COLOCANDO A MENTE EM PAZ"
+    },
+    "shubin_rockcracker_pvp_title_specific_24": {
+      "en": "QV Breaker Station BRK-110 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-110 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_04": {
+      "en": "QV Breaker Station BRK-127 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-127 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_13": {
+      "en": "QV Breaker Station BRK-184 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-184 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_30": {
+      "en": "QV Breaker Station BRK-223 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-223 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_08": {
+      "en": "QV Breaker Station BRK-235 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-235 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_07": {
+      "en": "QV Breaker Station BRK-267 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-267 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_19": {
+      "en": "QV Breaker Station BRK-284 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-284 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_09": {
+      "en": "QV Breaker Station BRK-304 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-304 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_02": {
+      "en": "QV Breaker Station BRK-320 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-320 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_05": {
+      "en": "QV Breaker Station BRK-425 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-425 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_20": {
+      "en": "QV Breaker Station BRK-437 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-437 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_10": {
+      "en": "QV Breaker Station BRK-521 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-521 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_27": {
+      "en": "QV Breaker Station BRK-529 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-529 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_12": {
+      "en": "QV Breaker Station BRK-542 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-542 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_03": {
+      "en": "QV Breaker Station BRK-546 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-546 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_16": {
+      "en": "QV Breaker Station BRK-563 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-563 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_23": {
+      "en": "QV Breaker Station BRK-597 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-597 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_06": {
+      "en": "QV Breaker Station BRK-608 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-608 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_21": {
+      "en": "QV Breaker Station BRK-630 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-630 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_28": {
+      "en": "QV Breaker Station BRK-709 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-709 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_18": {
+      "en": "QV Breaker Station BRK-711 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-711 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_29": {
+      "en": "QV Breaker Station BRK-766 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-766 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_17": {
+      "en": "QV Breaker Station BRK-782 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-782 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_26": {
+      "en": "QV Breaker Station BRK-864 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-864 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_15": {
+      "en": "QV Breaker Station BRK-879 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-879 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_22": {
+      "en": "QV Breaker Station BRK-892 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-892 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_25": {
+      "en": "QV Breaker Station BRK-913 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-913 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_14": {
+      "en": "QV Breaker Station BRK-970 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-970 (COMPARTILHADO)"
+    },
+    "shubin_rockcracker_pvp_title_specific_11": {
+      "en": "QV Breaker Station BRK-985 Mining Rights (Shared)",
+      "tr": "DIREITOS DE MINERAÇÃO QV BREAKER STATION BRK-985 (COMPARTILHADO)"
     },
     "shubin_rockcracker_solo_title_01": {
       "en": "QV Breaker Station Mining Rights (Exclusive)",
@@ -2343,6 +2491,10 @@
       "en": "Repel Raiders",
       "tr": "REPELIR INVASORES"
     },
+    "eckhart_defendship_MRT_SB_title_001": {
+      "en": "Repel Shattered Blade Ships",
+      "tr": "AFASTE NAVES DO SHATTERED BLADE"
+    },
     "HeadHunters_ShipAmbush_H_title_001": {
       "en": "Reprisal Attack",
       "tr": "ATAQUE DE REPRESÁLIA"
@@ -2350,6 +2502,10 @@
     "headhunters_eliminateall_outpost_title_01": {
       "en": "Reputation Management",
       "tr": "GERENCIANDO REPUTAÇÃO"
+    },
+    "eckhart_defendship_LRT_SB_title_001": {
+      "en": "Request for Ship Support",
+      "tr": "PEDIDO DE APOIO À NAVE"
     },
     "EckhartSecurity_EliminateAll_storm_shut_H_title_001": {
       "en": "Requesting Help",
@@ -2491,6 +2647,10 @@
       "en": "Seeking Experienced Combat Pilots",
       "tr": "PROCURO POR PILOTOS DE COMBATE EXPERIENTES"
     },
+    "eckhart_defendship_multi_HRT_SB_title_001": {
+      "en": "Serious Shattered Blade Attack",
+      "tr": "ATAQUE GRAVE DO SHATTERED BLADE"
+    },
     "HeadHunters_ShipAmbush_Intro_title_001": {
       "en": "Setting a Trap",
       "tr": "ARMANDO UMA ARMADILHA"
@@ -2498,6 +2658,10 @@
     "Eckhart_ShipAmbush_VE_title": {
       "en": "Settle a Score",
       "tr": "ACERTAR AS CONTAS"
+    },
+    "eckhart_defendship_multi_SRT_SB_title_001": {
+      "en": "Shattered Blade Strike",
+      "tr": "ATAQUE DO SHATTERED BLADE"
     },
     "TheCollector_Recipes_Title_HeavyUtil": {
       "en": "Shiny Builder Suit",
@@ -2623,6 +2787,10 @@
       "en": "Spirit Cargo mod",
       "tr": "SPIRIT DE CARGA MODIFICADA"
     },
+    "vaughn_assassination_PA_E_title": {
+      "en": "Splintering the Alliance",
+      "tr": "FRAGMENTANDO A ALIANÇA"
+    },
     "Headhunters_SecurityPatrol_VH_Title_001": {
       "en": "Stand Our Ground",
       "tr": "MANTENHA NOSSA POSIÇÃO"
@@ -2655,6 +2823,10 @@
       "en": "Stop Attack on High-Profile Client",
       "tr": "IMPEÇA O ATAQUE A CLIENTES DE ALTO PERFIL"
     },
+    "cfp_defendship_MRT_SB_title_001": {
+      "en": "Stop Attack on Ship",
+      "tr": "IMPEÇA ATAQUE À NAVE"
+    },
     "eckhart_defendship_multi_VHRT_title_001": {
       "en": "Stop Deadly Ship Attack",
       "tr": "IMPEÇA ATAQUE MORTAL À NAVE"
@@ -2670,6 +2842,14 @@
     "headhunters_bombingrun_sabotage_servers_VH_title_001": {
       "en": "Stop Rivals from Launching Heist",
       "tr": "IMPEÇA OS RIVAIS DE LANÇAREM ATAQUES"
+    },
+    "cfp_defendship_multi_SRT_SB_title_001": {
+      "en": "Stop Savage Shattered Blade Attack",
+      "tr": "IMPEDIR ATAQUE VIOLENTO DO SHATTERED BLADE"
+    },
+    "eckhart_defendship_VLRT_SB_title_001": {
+      "en": "Stop Shattered Blade Attack",
+      "tr": "IMPEÇA O ATAQUE DO SHATTERED BLADE"
     },
     "headhunters_bombingrun_M_title_001": {
       "en": "Stopping the Competition",
@@ -2694,6 +2874,10 @@
     "eckhart_defendship_LRT_title_001": {
       "en": "Support Client Under Attack",
       "tr": "APOIE UM CLIENTE SOB ATAQUE"
+    },
+    "cfp_defendship_VLRT_SB_title_001": {
+      "en": "Support Ship Under Attack",
+      "tr": "APOIAR NAVE SOB ATAQUE"
     },
     "HeadHunters_ShipAmbush_VE_title_001": {
       "en": "Surprise Party",
@@ -3463,6 +3647,10 @@
       "en": "Been handed some strong intel on a XenoThreat strike wing's flightpath. Looking for contractors who can dust off now and be set up at <EM4>[LOCATION]</EM4> ahead of them. Local conditions will mask your scanner signatures so you can give them the surprise of their lives. Let's turn the hunters into the hunted.\\n\\nInterested?\\n\\nKevin Walton\\nDispatcher, Foxwell Enforcement\\n'Security, Your Way'\\n\\nFoxwell Enforcement is a bonded security specialist licensed to operate throughout the UEE. We are always looking for new operators to join our family. If you or anyone you know is interested, please reach out to one of our contract representatives.",
       "tr": "Recebemos intel sólida sobre a rota de voo de uma ala de ataque da XenoThreat. Procuramos contratados que possam decolar imediatamente e se posicionar em <EM4>[LOCATION]</EM4> antes deles. As condições locais vão mascarar suas assinaturas de scanner, permitindo que você pegue eles de surpresa. Vamos transformar os caçadores em presas.\\n\\nInteressado?\\n\\nKevin Walton\\nDespachante, Foxwell Enforcement\\n'Security, Your Way'\\n\\nA Foxwell Enforcement é uma especialista em segurança licenciada para operar em toda a UEE. Estamos sempre procurando novos operadores para se juntar à nossa equipe. Se você ou alguém que você conhece tiver interesse, entre em contato com um de nossos representantes."
     },
+    "vaughn_assassination_PA_S_desc": {
+      "en": "I am thrilled to inform you that we have a particularly ambitious assignment for you.\\n\\n<EM4>[TARGET]</EM4> has been marked for termination. You may know them already: a particularly high-profile member of the People’s Alliance who is notorious for having thwarted numerous attempts against their life. We initially considered it too troublesome until our client offered an even more outrageous amount of credits to see this to completion.\\n\\nThe target’s last known location was at <EM4>[LOCATION]</EM4>. Expect a top-of-the-line ship and a skilled escort.\\n\\nWe look forward to hearing about their untimely demise.\\n\\nSincerely,\\nVaughn",
+      "tr": "Tenho o prazer de informar que temos uma missão particularmente ambiciosa para você.\\n\\n<EM4>[TARGET]</EM4> foi marcado para eliminação. Você talvez já os conheça: um membro de alto perfil da People’s Alliance, notório por ter frustrado várias tentativas contra sua vida. Inicialmente achamos trabalhoso demais até o cliente oferecer uma quantia de créditos ainda mais absurda para ver isso concluído.\\n\\nA última localização conhecida do alvo foi em <EM4>[LOCATION]</EM4>. Espere uma nave topo de linha e uma escolta habilidosa.\\n\\nEsperamos receber notícias sobre sua morte prematura.\\n\\nAtenciosamente,\\nVaughn"
+    },
     "vaughn_assassination_VE_desc_rehire": {
       "en": "It is not often in life that we get another chance to make a first impression, but I am going to provide to you with just that.\\n\\nTo say I was disappointed in how things last transpired on your last assassination attempt would be a severe understatement. However, here is your chance to prove yourself capable of more. \\n\\nKill [TARGET] over at [LOCATION] and I will consider the slate wiped clean. \\n\\nSincerely,\\nVaughn",
       "tr": "Não é sempre na vida que temos outra chance de causar uma primeira impressão, mas vou lhe dar exatamente isso.\\n\\nDizer que fiquei desapontado com a forma como as coisas aconteceram durante sua última tentativa de assassinato expirou seria um eufemismo grosseiro. No entanto, aqui está sua chance de provar que você é capaz de mais. \\n\\nMate [TARGET] em [LOCATION] e considerarei o assunto resolvido. \\nNAtenciosamente,\\nVaughn"
@@ -3739,6 +3927,10 @@
       "en": "Long story, short - a Headhunter messed up real bad and now Citizens for Prosperity has gotten their hands on some data that could really do some damage to us. \\n\\nThe bastard is going to need some time to heal so that leaves it to you to clean up the mess. Can you go to [LOCATION] and destroy the servers they got stored there? I wanna make sure there's no chance of this info getting out there.\\n\\n-Stows out",
       "tr": "Resumindo a história - um Headhunter fez uma grande besteira e agora a Citizens for Prosperity colocou as mãos em alguns dados que podem realmente nos causar danos. \\n\\nO bastardo vai precisar de um tempo para se curar, então você tem que limpar a bagunça. Você pode ir para [LOCATION] e destruir os servidores que eles armazenaram lá? Quero ter certeza de que não há chance dessas informações vazarem.\\n\\n-Stows Desliga"
     },
+    "eckhart_defendship_multi_VHRT_SB_desc_001": {
+      "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Defend Ship\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nA longtime client needs combat support at <EM4>[LOCATION]</EM4> as fast as we can get it there. Any chance you’re interested and available? \\n\\nThis client can hold their own in a dogfight, so they must be up against seriously skilled fighters to have put out this call. Don’t make the mistake of heading there thinking that this is going to be easy. \\n\\nPayment will be issued upon successful completion of contract.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
+      "tr": "ECKHART SECURITY, LLC.\\nCONTRATOS & DESPACHO\\n\\nTIPO DE CONTRATO: Defender Nave\\nCÓDIGO DE APROVAÇÃO = [APPROVAL_CODE]\\n\\nPARA PROCESSAMENTO IMEDIATO\\n\\nUm cliente de longa data precisa de apoio em combate em <EM4>[LOCATION]</EM4> o mais rápido possível. Você tem interesse e está disponível?\\n\\nEste cliente pode se virar bem em um dogfight, então deve estar enfrentando pilotos altamente habilidosos para ter feito esse pedido. Não cometa o erro de achar que será fácil.\\n\\nO pagamento será feito após a conclusão bem-sucedida do contrato.\\n\\nEste contrato é inegociável.\\n\\nEsta mensagem pode conter informações confidenciais, proprietárias, privilegiadas e/ou privadas. A informação é destinada ao uso do indivíduo ou entidade designada acima."
+    },
     "EckhartSecurity_RecoverCargo_Easy_Description": {
       "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Recover Cargo\\nApproval code: = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nClient's cargo was mid-transport when they ran into some ship trouble, and now a group of opportunistic outlaws are looking to cash in on this.\\n\\nIf you accept, head to <EM4>[LOCATION]</EM4> and deal with the outlaws guarding the cargo. Extract it using a <EM4>heavy-duty tractor beam</EM4>, recover the cargo, load it in to a ship that can transport <EM4>[MAX_SCU] cargo containers</EM4>, and deposit it on the freight elevator at <EM4>[DESTINATION]</EM4>.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
       "tr": "ECKHART SECURITY, LLC.\\nCONTRATOS & DESPACHO\\n\\nTIPO DE CONTRATO: Recuperar Carga\\nCódigo de aprovação: = [APPROVAL_CODE]\\n\\nPARA PROCESSAMENTO IMEDIATO\\n\\nA carga de um cliente estava em transporte quando a nave apresentou problemas, e agora um grupo de fora-da-lei oportunistas está tentando lucrar com isso.\\n\\nSe aceitar, siga para <EM4>[LOCATION]</EM4> e lide com os fora-da-lei que estão guardando a carga. Extraia-a usando um <EM4>Tractor Beam pesado</EM4>, recupere a carga, carregue em uma nave capaz de transportar <EM4>[MAX_SCU] contêineres de carga</EM4> e entregue no elevador de carga em <EM4>[DESTINATION]</EM4>.\\n\\nEste contrato não é negociável.\\n\\nEsta mensagem pode conter informações confidenciais, proprietárias, privilegiadas e/ou privadas. As informações destinam-se ao uso exclusivo do indivíduo ou entidade mencionados acima."
@@ -3802,6 +3994,10 @@
     "cfp_defendship_multi_HRT_desc_001": {
       "en": "We just received word that a convoy of Citizen for Prosperity affiliated ships have been targeted by outlaws and that our people are in dire need of assistance. \\n\\nIf you are available, we need combat ready pilots at [LOCATION] to defend our people. Note that at this dire time, we cannot afford even a single lost ship and expect with your assistance for all of our people make it out alive.\\n\\nGood luck,\\n\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
       "tr": "Acabamos de receber a notícia de que um comboio de naves afiliadas à Citizen for Prosperity foi alvo de bandidos e que nosso povo precisa urgentemente de assistência. \\n\\nSe você estiver disponível, precisamos de pilotos prontos para combate em [LOCATION] para defender nosso povo. Observe que neste momento terrível, não podemos nos dar ao luxo de perder nem mesmo uma única nave e esperamos que, com sua assistência, todo o nosso povo saia vivo.\\n\\nBoa sorte,\\n\\nLima Endicott\\nDespachante Líder\\nCitizens for Prosperity"
+    },
+    "cfp_defendship_multi_VHRT_SB_desc_001": {
+      "en": "We’ve lost contact with a supply convoy and are concerned it might be under attack. Last comm we received from them reported Shattered Blade ships were incoming, but haven’t heard anything since. Are you free to hurry to <EM4>[LOCATION]</EM4> and support our forces? \\n\\nWe’ve come to learn that the Shattered Blade are very protective of their hunting grounds. Our last few encounters with them were quite intense, so I’d recommend bringing some heavy firepower.   \\n\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
+      "tr": "Perdemos o contato com um comboio de suprimentos e estamos preocupados que ele possa estar sendo atacado. O último comunicado que recebemos dizia que naves do Shattered Blade estavam se aproximando, mas não ouvimos mais nada desde então. Você está disponível para ir rapidamente até <EM4>[LOCATION]</EM4> e apoiar nossas forças?\\n\\nDescobrimos que o Shattered Blade é muito protetor de seus territórios de caça. Nossos últimos encontros com eles foram bem intensos, então eu recomendaria levar uma grande quantidade de fogo pesado.\\n\\nLima Endicott\\nDespachante Líder\\nCitizens for Prosperity"
     },
     "spacecollect_cargo_desc_VE_01": {
       "en": "RED WIND LINEHAUL\\n'YOUR GOODS IN GOOD HANDS'\\n----------------------------\\n\\nA contractor of ours has run into some trouble and abandoned their ship over at <EM4>[LOCATION]</EM4>. We need someone to head to their ship, pick up the package they left there, and finish the job.\\n\\nPACKAGES TO RECOVER\\n     · <EM4>1x [ITEM1]</EM4>\\n\\nDROP OFF LOCATION\\n     · Deliver to <EM4>[DESTINATION]</EM4>\\n\\nWe’re currently uncertain as to why they failed to complete the contract, so be cautious when approaching the ship.\\n\\nTAKE PRIDE IN YOUR WORK – Even as a contractor you are representing Red Wind Linehaul. Do not intentionally do anything to harm the company’s reputation.",
@@ -3890,6 +4086,10 @@
     "RedWind_RecoverItem_H_Desc_001": {
       "en": "RED WIND LINEHAUL\\n'YOUR GOODS IN GOOD HANDS'\\n----------------------------\\n\\nNeed an experienced pilot for this recovery contract. Unfortunately, the original delivery pilot was targeting by a group of outlaws. Thankfully, the client’s packages are still sitting in their damaged ship located at <EM4>[LOCATION]</EM4>.\\n\\nYou’ll potentially need to <EM4>bring some backup</EM4> with you to ensure the successful collection and delivery of the packages.\\n\\nPACKAGES TO RECOVER\\n     · <EM4>4x [ITEM1]</EM4>\\n\\nDROP OFF LOCATION\\n     · Deliver to <EM4>[DESTINATION]</EM4>\\n\\nConsidering the danger of this contract, we’re willing to offer a slight pay increase as hazard pay.\\n\\nTAKE PRIDE IN YOUR WORK – Even as a contractor you are representing Red Wind Linehaul. Do not intentionally do anything to harm the company’s reputation.",
       "tr": "RED WIND LINEHAUL\\n'SUA MERCADORIA NAS MELHORES MÃOS'\\n----------------------------\\n\\nPrecisamos de um piloto experiente para este contrato de recuperação. Infelizmente, o piloto de entrega original foi alvo de um grupo de fora da lei. Felizmente, os pacotes do cliente ainda estão na nave danificada localizada em <EM4>[LOCATION]</EM4>.\\n\\nVocê provavelmente precisará <EM4>trazer alguns reforços</EM4> com você para garantir a coleta e entrega bem-sucedidas dos pacotes.\\n\\nPACOTES A SEREM RECUPERADOS\\n     · <EM4>4x [ITEM1]</EM4>\\n\\nLOCAL DE ENTREGA\\n     · Entregar em <EM4>[DESTINATION]</EM4>\\n\\nConsiderando o perigo deste contrato, estamos oferecendo um aumento no pagamento como bônus de risco.\\n\\nORGULHE-SE DO SEU TRABALHO – Mesmo como contratante, você está representando a Red Wind Linehaul. Não faça nada intencionalmente que prejudique a reputação da empresa."
+    },
+    "vaughn_assassination_PA_H_desc": {
+      "en": "<EM4>[TARGET]</EM4> of the People’s Alliance, certainly seems to have a reputation about them, based on the importance our client has placed on this being handled in a timely and exacting manner.\\n\\nBut we’ll spare you the details. All you need to do is travel to <EM4>[LOCATION]</EM4> and put an end to their life. Expect a well-armed ship and highly competent backup to boot. They seem to take themselves quite seriously.\\n\\nSincerely,\\nVaughn",
+      "tr": "<EM4>[TARGET]</EM4> da People’s Alliance claramente tem certa reputação, dado o quanto nosso cliente quer que isso seja resolvido rápido e com precisão.\\n\\nMas vamos poupar os detalhes. Tudo que precisa fazer é viajar até <EM4>[LOCATION]</EM4> e dar um fim na vida deles. Espere encontrar uma nave bem armada e backup competente. Eles parecem se levar muito a sério.\\n\\nAtenciosamente,\\nVaughn"
     },
     "headhunters_multikillship_base_Generic_M_desc_001": {
       "en": "A lotta wannabe gangs have stepped to the Headhunters over the years thinking that they could force their way into the system. We're still here. They aren't. But it seems the survivors of these groups have decided to band together and try again. Guess some people never learn.\\n\\nLatest group hit a couple of our convoys while on supply runs. Shouldn't be a surprise that the Judge wants to stomp them out quick. We've learned they're out near [LOCATION] and likely rearming for another attack. \\n\\nWe want you to go there and make them wish they died with their old gang.\\n\\nStows out",
@@ -4034,6 +4234,10 @@
     "cfp_sabotage_servers_H_XT_desc_001": {
       "en": "We got a bit of a problem that I'm hoping you can solve for me. One of our informers has revealed that XenoThreat has been amassing data on Citizens for Prosperity operations throughout the system. \\n\\nThis information, if used correctly, could put our people at serious risk. The best solution is for you to completely destroy the servers where the data is being stored at [LOCATION].\\n\\nWith their trove of information wiped out, it should give our people a fighting chance.\\n \\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
       "tr": "Temos um pequeno problema que espero que você possa resolver para mim. Um dos nossos informantes revelou que o XenoThreat vem acumulando dados sobre as operações do Citizens for Prosperity em todo o sistema. \\n\\nEssas informações, se usadas corretamente, podem colocar nosso pessoal em sério risco. A melhor solução é você destruir completamente os servidores onde os dados estão sendo armazenados em [LOCATION].\\n\\nCom seu tesouro de informações eliminado, isso deve dar ao nosso pessoal uma chance de lutar.\\n \\nLima Endicott\\nDespachante Líder\\nCitizens for Prosperity"
+    },
+    "vaughn_assassination_PA_VH_desc": {
+      "en": "We hope you enjoy a challenge, because this one is looking to be far from a walk in the park.\\n\\nFor reasons our client was unwilling to disclose, a rather prominent member of the People’s Alliance needs disposing of. The target, <EM4>[TARGET]</EM4>, was last seen at <EM4>[LOCATION]</EM4> piloting a high-class ship accompanied by several skilled allies.\\n\\nDo make the most of this opportunity.\\n\\nSincerely,\\nVaughn",
+      "tr": "Prepare-se para um desafio, porque esse está longe de ser passeio no parque.\\n\\nPor motivos que nosso cliente se recusou a divulgar, um membro bastante proeminente da People’s Alliance precisa ser eliminado. O alvo, <EM4>[TARGET]</EM4>, foi visto por último em <EM4>[LOCATION]</EM4> pilotando uma nave de alto nível acompanhado por vários aliados experientes.\\n\\nAproveite bem essa oportunidade.\\n\\nAtenciosamente,\\nVaughn"
     },
     "CFP_SabotageRelays_HH_001_Desc": {
       "en": "Violence is never our first choice, but sometimes it must be used as a preventative measure.\\n\\nWe’re planning a strike on a Headhunter controlled outpost and need your help.\\n\\nWe need to make sure that if something goes wrong they won’t be able to call for backup and escalate the situation. That’s where you come in. We need you to head over to <EM4>[LOCATION]</EM4> and disable the communication towers. There should be a <EM4>control panel located at the top</EM4> of each tower that you can use to deactivate them.\\n\\nIf you’re able to do this, Citizens for Prosperity will be able to gain some vital ground in Pyro.\\n\\nIt’s also worth keeping in mind for future contracts that you can choose to take out the comms towers instead of risking a fight with reinforcement dropships.\\n\\nStay alert and stay safe.\\n\\nThank you,\\n\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
@@ -4215,6 +4419,10 @@
       "en": "Hello, practicing on making ship fly better. Xi'an help human make ship. Fly good. Salvage good. But Wikelo can make better if you want. Bring things and will do. Bye.",
       "tr": "Olá, estou praticando para fazer a nave voar melhor. Xi'an ajudou os humanos a fazer a nave. Voa bem. Faz sucateamento bem. Mas Wikelo pode fazer melhor, se quiser. Traga as coisas e eu farei. Tchau."
     },
+    "vaughn_assassination_PA_M_desc": {
+      "en": "It seems the People’s Alliance have been ruffling some feathers recently. A client of ours would be most thrilled if you can prevent [TARGET] from meddling in their affairs ever again.\\n\\nYou’ll find them around <EM4>[LOCATION]</EM4>, and from what our client has told us, it’s unlikely that they’re alone. These aren’t your run-of-the-mill pilots, they might even pose a slight threat to your safety.\\n\\nDo try your best to keep it as clean as possible.\\n\\nSincerely,\\nVaughn",
+      "tr": "Parece que a People’s Alliance andou mexendo com gente errada ultimamente. Um cliente nosso ficaria muito satisfeito se você impedisse que [TARGET] se intrometa nos assuntos dele de novo.\\n\\nVocê os encontrará por volta de <EM4>[LOCATION]</EM4>, e pelo que nosso cliente contou, é improvável que estejam sozinhos. Esses não são pilotos comuns; podem representar uma ameaça à sua segurança.\\n\\nFaça o possível para manter tudo o mais limpo possível.\\n\\nAtenciosamente,\\nVaughn"
+    },
     "TheCollector_Recipes_Desc_KopSkull": {
       "en": "Hello. Can make fun change to gun if you want. Use kopion skin for pattern and little skull dangle. Very effective. Shoot much better.\\n\\nAll you need is bring me parts to <EM4>[DESTINATIONS]</EM4> and will make. \\n\\nBye.",
       "tr": "Olá. Se quiser, posso fazer uma alteração divertida na arma. Use a pele de kopion para o padrão e um pequeno pingente de caveira. Muito eficaz. Atira muito melhor.\\n\\nTudo o que você precisa é me trazer as peças para <EM4>[DESTINATIONS]</EM4> e eu as farei. \\n\\nTchau."
@@ -4318,6 +4526,10 @@
     "headhunters_defendship_MRT_desc_001": {
       "en": "One of my pilots wasn't thinking straight and got themselves mixed up in a heap of trouble over at [LOCATION]. \\n\\nThe real kicker is the fool has a full hold. Can't really afford to lose the stuff they're carrying, so I'd appreciate it if you could go bail them out for me. \\n\\n- Stows out",
       "tr": "Um dos meus pilotos não estava pensando direito e se meteu em uma confusão na [LOCATION]. \\n\\nO problema é que o idiota tem um porão cheio. Não dá para perder as coisas que eles estão carregando, então eu agradeceria se você pudesse ir resgatá-los para mim. \\n\\n- Arruma tudo"
+    },
+    "cfp_defendship_multi_HRT_SB_desc_001": {
+      "en": "One of our convoys is in need of combat support. Sounds like they stumbled upon a Shattered Blade hideout while trying to make a delivery. Now, despite their best efforts, the convoy can’t get away. Looking for a combat pilot willing to head to <EM4>[LOCATION]</EM4> to help them fight off this attack before it’s too late. \\n  \\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
+      "tr": "Um de nossos comboios está precisando de suporte de combate. Parece que eles encontraram um esconderijo do Shattered Blade enquanto tentavam fazer uma entrega. Agora, apesar de seus melhores esforços, o comboio não consegue escapar. Estamos à procura de um piloto de combate disposto a ir até <EM4>[LOCATION]</EM4> para ajudá-los a combater esse ataque antes que seja tarde.\\n\\nLima Endicott\\nDespachante Líder\\nCitizens for Prosperity"
     },
     "CFP_ShipWaveAttack_ClearHostiles_Desc_VE_001": {
       "en": "Recently we've had incident reports of numerous Citizens for Prosperity contractors in the system having run-ins with an outlaw hunting party operating out of [LOCATION]. \\n\\nTo help re-establish safer routes through that sector, you will be dispatched to head there and engage with these outlaws. The group is known to travel in smaller packs, so its important that you and whatever backup you bring wait in the area to deal with all of them or else there's a chance the threat will remain. \\n\\nThank you for helping us,\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
@@ -5155,6 +5367,10 @@
       "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Escort Ship\\nApproval code: = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nI’m in need of a highly competent pilot who can gather a crew of equally capable pilots for an escort mission. The mining base at <EM4>[LOCATION]</EM4> is currently under attack from a group of outlaws and the crew there is unable to leave without assistance. Our scouts have reported that the attackers are armed with exceptional weaponry and ships.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
       "tr": "ECKHART SECURITY, LLC.\\nCONTRATOS E DESPACHO\\n\\nTIPO DE CONTRATO: Escolta de Naves\\nCódigo de aprovação = [APPROVAL_CODE]\\n\\nPROCESSAMENTO IMEDIATO\\n\\nPreciso de um piloto altamente competente que possa reunir uma equipe igualmente capaz para uma missão de escolta. A base de mineração em <EM4>[LOCATION]</EM4> está sob ataque de um grupo de fora da lei e a equipe no local não consegue sair sem ajuda. Nossos batedores relataram que os atacantes estão armados com equipamento pesado e naves poderosas.\\n\\nEste contrato não é negociável.\\n\\nEsta mensagem pode conter informações confidenciais, proprietárias, privilegiadas e/ou privadas. As informações são destinadas apenas para o uso da pessoa ou entidade designada acima."
     },
+    "cfp_defendship_LRT_SB_Desc_001": {
+      "en": "Need a pilot who can hold their own in a dogfight. A Citizens for Prosperity scout ship ran into a problem with the Shattered Blade near <EM4>[LOCATION]</EM4>. Must be an area of special interest for them. They launched an attack when our ship got close and don’t seem content simply driving them off. Looks like they’re out for blood.  \\n\\nAny chance you could lend a hand before we lose that ship?\\n\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
+      "tr": "Preciso de um piloto que consiga se manter firme em um combate aéreo. Uma nave de reconhecimento dos Citizens for Prosperity teve um problema com o Shattered Blade perto de <EM4>[LOCATION]</EM4>. Deve ser uma área de interesse especial para eles. Eles lançaram um ataque quando nossa nave se aproximou e não parecem satisfeitos em apenas afugentar. Parece que estão atrás de sangue.\\n\\nVocê poderia dar uma ajuda antes que percamos essa nave?\\n\\nLima Endicott\\nDespachante Líder\\nCitizens for Prosperity"
+    },
     "HeadHunters_DefendEntitesAndEscort_E_Desc": {
       "en": "I was having a shite day, and it just got worse. Our interests over at <EM4>[LOCATION]</EM4> comm'd to let me know that their  <EM>[OBJECTS]</EM4> are under attack by these no-name hoods looking to stake a claim.\\n\\nYou're gonna go there for me and protect the place, including any <EM4>friendly ships</EM4> unfortunate enough to be caught in the crossfire. Don't think putting these wannabees in their place will be too tricky for someone like you. \\n\\nAlso, I’ll sweeten the pot by giving the main contractor <EM4>3 Council Scrip</EM4> just to show my appreciation. \\n\\nStows out.",
       "tr": "Tava tendo um dia de merda, e agora piorou. Nosso pessoal em <EM4>[LOCATION]</EM4> avisou que os <EM>[OBJECTS]</EM4> deles estão sob ataque de uns zé-ninguém querendo marcar território.\\n\\nVocê vai até lá pra mim e protege o local, incluindo quaisquer <EM4>naves aliadas</EM4> que acabarem no fogo cruzado. Não deve ser difícil colocar esses wannabes no lugar deles pra alguém como você.\\n\\nPra deixar mais interessante, vou pagar <EM4>[SCRIPAMOUNT] Council Scrip</EM4> pro contratante principal.\\n\\nStows out."
@@ -5179,13 +5395,13 @@
       "en": "Despite having given the client my word that their target has been dealt with, they are disposed to bouts of paranoia, so they require additional digital evidence of their demise.\\n\\nI’ll need you to head to <EM4>[LOCATION]</EM4> and give the corpse a thorough once over. Whilst I’m confident <EM4>[TARGET]</EM4> is taken care of, verification via your mobiGlas will hopefully bring some peace of mind to my client.\\n\\nI can’t imagine you coming across any significant trouble, but in this line of work, some trouble is always to be expected.\\n\\nSincerely,\\n\\nVaughn",
       "tr": "Apesar de ter assegurado ao cliente que o alvo foi eliminado, ele anda paranoico, então precisa de mais evidências digitais da morte.\\n\\nVou precisar que vá até <EM4>[LOCATION]</EM4> e examine o cadáver com cuidado. Confio que <EM4>[TARGET]</EM4> esteja fora de cena, mas a verificação via seu mobiGlas deve dar alguma paz pro cliente.\\n\\nNão imagino que vá encontrar problemas significativos, mas nessa linha de trabalho, problemas sempre aparecem.\\n\\nAtenciosamente,\\n\\nVaughn"
     },
-    "shubin_rockcracker_solo_desc_01": {
-      "en": "CONTRACT: Mining Rights Transfer\\nLOCATION: Nyx\\n\\nDETAILS:\\nShubin Interstellar prospectors have recently discovered the location of an abandoned QV Planetary Service Breaker Station near the Keeger belt. These stations were originally used by the defunct company to harvest valuable resources from inside asteroids but knowledge of their exact locations has been lost over the years. \\n\\nWhile this particular station is offline, our scout team believes that it could be made functional again with the necessary repairs. Additionally, if it was brought back online, there's already a resource-heavy asteroid in place ready to be cracked by the station's mining laser. \\n\\nUnfortunately, with all the various challenges that come with operating in Nyx, Shubin doesn't currently have the available bandwidth to handle the aforementioned repairs ourselves. This however has created an opportunity for an interested independent mining operation such as yourself. \\n\\n<EM4>TERMS*: </EM4>\\nWe are making available the <EM4>exclusive mining rights</EM4> to this QV Breaker Station. Upon purchase, we will provide the coordinates of the station to only you and your crew. Your team will then be free to head there with a <EM4>mining vessel</EM4>, restore the <EM4>station's mining laser</EM4> to an operational status, crack the asteroid, and <EM4>harvest the resources</EM4> inside. \\n\\nPlease note that while we guarantee that these coordinates will be exclusive to you, we cannot assure that other interested parties, such as outlaws, may not discover the station's location on their own. Caution is advised. \\n\\n*By accepting this contract you are assuming any and all risks associated with the work outlined herein and in no way can Shubin Interstellar be held accountable for any damages accrued during the duration of the contract.",
-      "tr": "CONTRATO: Transferência de Direitos de Mineração\\nLOCALIZAÇÃO: Nyx\\n\\nDETALHES:\\nProspectores da Shubin Interstellar descobriram recentemente a localização de uma Estação Breaker da QV Planetary Service abandonada próxima ao cinturão Keeger. Essas estações eram originalmente usadas pela empresa, hoje extinta, para extrair recursos valiosos do interior de asteroides, mas o conhecimento de suas localizações exatas foi perdido ao longo dos anos.\\n\\nEmbora esta estação específica esteja offline, nossa equipe de reconhecimento acredita que ela pode voltar a funcionar com os reparos necessários. Além disso, caso seja reativada, já existe um asteroide rico em recursos posicionado e pronto para ser fragmentado pelo laser de mineração da estação.\\n\\nInfelizmente, com todos os desafios envolvidos em operar em Nyx, a Shubin atualmente não possui recursos disponíveis para lidar com esses reparos por conta própria. Isso, no entanto, criou uma oportunidade para uma operação de mineração independente interessada, como a sua.\\n\\n<EM4>TERMOS*:</EM4>\\nEstamos disponibilizando os <EM4>direitos de mineração exclusivos</EM4> desta QV Breaker Station. Após a compra, forneceremos as coordenadas da estação apenas para você e sua tripulação. Sua equipe poderá então ir até lá com uma <EM4>nave de mineração</EM4>, restaurar o <EM4>laser de mineração da estação</EM4> para status operacional, fragmentar o asteroide e <EM4>extrair os recursos</EM4> do interior.\\n\\nObserve que, embora garantamos que essas coordenadas serão exclusivas para você, não podemos assegurar que outras partes interessadas, como fora-da-lei, não descubram a localização da estação por conta própria. Proceda com cautela.\\n\\n*Ao aceitar este contrato você assume todos os riscos associados ao trabalho descrito e, sob nenhuma circunstância, a Shubin Interstellar poderá ser responsabilizada por quaisquer danos ocorridos durante a duração do contrato."
-    },
     "shubin_rockcracker_pvp_desc_01": {
       "en": "CONTRACT: Mining Rights Transfer\\nLOCATION: Nyx\\n\\nDETAILS: \\nShubin Interstellar prospectors have recently discovered the location of an abandoned QV Planetary Service Breaker Station near the Keeger belt. These stations were originally used by the defunct company to harvest valuable resources from inside asteroids but knowledge of their exact locations has been lost over the years. \\n\\nWhile this particular station is offline, our scout team believes that it could be made functional again with the necessary repairs. Additionally, if it was brought back online, there's already a resource-heavy asteroid in place ready to be cracked by the station's mining laser. \\n\\nUnfortunately, with all the various challenges that come with operating in Nyx, Shubin doesn't currently have the available bandwidth to handle the aforementioned repairs ourselves. This however has created an opportunity for an interested independent mining operation such as yourself. \\n\\n<EM4>TERMS*:</EM4>\\nWe are making available the <EM4>shared mining rights</EM4> to this QV Breaker Station. Upon purchase, we will provide the coordinates of the station to you and your crew. (Remember, any other interested parties who purchase the mining rights will get access to the station as well.) Your crew will then be free to head there with a <EM4>mining vessel</EM4>, restore the <EM4>station's mining laser</EM4> to an operational status, crack the asteroid, and <EM4>harvest the resources</EM4> inside. \\n\\nPlease note that since this is a shared contract we are able to offer these mining rights at a reduced prices, but the resources in the asteroid will be available on a <EM4>first come, first serve</EM4> basis with any other mining crews at the site. Also, there is also a chance that other interested parties, such as outlaws, may discover the station's location on their own. Caution is advised. \\n\\n*By accepting this contract you are assuming any and all risks associated with the work outlined herein and in no way can Shubin Interstellar be held accountable for any damages accrued during the duration of the contract.",
       "tr": "CONTRATO: Transferência de Direitos de Mineração\\nLOCALIZAÇÃO: Nyx\\n\\nDETALHES:\\nProspectores da Shubin Interstellar descobriram recentemente a localização de uma Estação Breaker da QV Planetary Service abandonada próxima ao cinturão Keeger. Essas estações eram originalmente usadas pela empresa, hoje extinta, para extrair recursos valiosos do interior de asteroides, mas o conhecimento de suas localizações exatas foi perdido ao longo dos anos.\\n\\nEmbora esta estação específica esteja offline, nossa equipe de reconhecimento acredita que ela pode voltar a funcionar com os reparos necessários. Além disso, caso seja reativada, já existe um asteroide rico em recursos posicionado e pronto para ser fragmentado pelo laser de mineração da estação.\\n\\nInfelizmente, com todos os desafios envolvidos em operar em Nyx, a Shubin atualmente não possui recursos disponíveis para lidar com esses reparos por conta própria. Isso, no entanto, criou uma oportunidade para uma operação de mineração independente interessada, como a sua.\\n\\n<EM4>TERMOS*:</EM4>\\nEstamos disponibilizando os <EM4>direitos de mineração compartilhados</EM4> desta QV Breaker Station. Após a compra, forneceremos as coordenadas da estação para você e sua tripulação. (Lembre-se, qualquer outra parte interessada que comprar os direitos de mineração também terá acesso à estação.) Sua equipe poderá então ir até lá com uma <EM4>nave de mineração</EM4>, restaurar o <EM4>laser de mineração da estação</EM4> para status operacional, fragmentar o asteroide e <EM4>extrair os recursos</EM4> do interior.\\n\\nObserve que, como este é um contrato compartilhado, podemos oferecer esses direitos de mineração a um preço reduzido, porém os recursos do asteroide estarão disponíveis em regime de <EM4>ordem de chegada</EM4> para qualquer outra equipe de mineração no local. Também existe a possibilidade de outras partes interessadas, como fora-da-lei, descobrirem a localização da estação por conta própria. Proceda com cautela.\\n\\n*Ao aceitar este contrato você assume todos os riscos associados ao trabalho descrito e, sob nenhuma circunstância, a Shubin Interstellar poderá ser responsabilizada por quaisquer danos ocorridos durante a duração do contrato."
+    },
+    "shubin_rockcracker_solo_desc_01": {
+      "en": "CONTRACT: Mining Rights Transfer\\nLOCATION: Nyx\\n\\nDETAILS:\\nShubin Interstellar prospectors have recently discovered the location of an abandoned QV Planetary Service Breaker Station near the Keeger belt. These stations were originally used by the defunct company to harvest valuable resources from inside asteroids but knowledge of their exact locations has been lost over the years. \\n\\nWhile this particular station is offline, our scout team believes that it could be made functional again with the necessary repairs. Additionally, if it was brought back online, there's already a resource-heavy asteroid in place ready to be cracked by the station's mining laser. \\n\\nUnfortunately, with all the various challenges that come with operating in Nyx, Shubin doesn't currently have the available bandwidth to handle the aforementioned repairs ourselves. This however has created an opportunity for an interested independent mining operation such as yourself. \\n\\n<EM4>TERMS*: </EM4>\\nWe are making available the <EM4>exclusive mining rights</EM4> to this QV Breaker Station. Upon purchase, we will provide the coordinates of the station to only you and your crew. Your team will then be free to head there with a <EM4>mining vessel</EM4>, restore the <EM4>station's mining laser</EM4> to an operational status, crack the asteroid, and <EM4>harvest the resources</EM4> inside. \\n\\nPlease note that while we guarantee that these coordinates will be exclusive to you, we cannot assure that other interested parties, such as outlaws, may not discover the station's location on their own. Caution is advised. \\n\\n*By accepting this contract you are assuming any and all risks associated with the work outlined herein and in no way can Shubin Interstellar be held accountable for any damages accrued during the duration of the contract.",
+      "tr": "CONTRATO: Transferência de Direitos de Mineração\\nLOCALIZAÇÃO: Nyx\\n\\nDETALHES:\\nProspectores da Shubin Interstellar descobriram recentemente a localização de uma Estação Breaker da QV Planetary Service abandonada próxima ao cinturão Keeger. Essas estações eram originalmente usadas pela empresa, hoje extinta, para extrair recursos valiosos do interior de asteroides, mas o conhecimento de suas localizações exatas foi perdido ao longo dos anos.\\n\\nEmbora esta estação específica esteja offline, nossa equipe de reconhecimento acredita que ela pode voltar a funcionar com os reparos necessários. Além disso, caso seja reativada, já existe um asteroide rico em recursos posicionado e pronto para ser fragmentado pelo laser de mineração da estação.\\n\\nInfelizmente, com todos os desafios envolvidos em operar em Nyx, a Shubin atualmente não possui recursos disponíveis para lidar com esses reparos por conta própria. Isso, no entanto, criou uma oportunidade para uma operação de mineração independente interessada, como a sua.\\n\\n<EM4>TERMOS*:</EM4>\\nEstamos disponibilizando os <EM4>direitos de mineração exclusivos</EM4> desta QV Breaker Station. Após a compra, forneceremos as coordenadas da estação apenas para você e sua tripulação. Sua equipe poderá então ir até lá com uma <EM4>nave de mineração</EM4>, restaurar o <EM4>laser de mineração da estação</EM4> para status operacional, fragmentar o asteroide e <EM4>extrair os recursos</EM4> do interior.\\n\\nObserve que, embora garantamos que essas coordenadas serão exclusivas para você, não podemos assegurar que outras partes interessadas, como fora-da-lei, não descubram a localização da estação por conta própria. Proceda com cautela.\\n\\n*Ao aceitar este contrato você assume todos os riscos associados ao trabalho descrito e, sob nenhuma circunstância, a Shubin Interstellar poderá ser responsabilizada por quaisquer danos ocorridos durante a duração do contrato."
     },
     "headhunters_defendship_multi_VHRT_PA_desc_001": {
       "en": "One of our Clips is in a tight spot. Just got a comm from ‘em saying their convoy is being swarmed by the People’s Alliance and they need help on the double. Well, they said it in a more colorful way than that. All I’ll say is that I don’t want to hear what they’ll say to me if they don’t survive and are forced to regen. \\n\\nSituation must be serious if this Clip is freaking out. Really need you to get to <EM4>[LOCATION]</EM4> immediately, and ensure that they make it out alive.\\n\\nStows out.",
@@ -5363,6 +5579,10 @@
       "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Defend Location\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nThere’s a serious problem brewing for one of our clients at <EM4>[LOCATION]</EM4>. They’ve been warned that a highly skilled outlaw crew has their sights set on overrunning and occupying that location. We’ve been hired to make sure that doesn’t happen. \\n\\nNeed a contractor to deploy to the location immediately. Based on the intel provided by the client, this won’t be a walk in the park. We strongly advise you to bring allies and plenty of supplies to help ward of the impending attack.   \\n\\nPayment will be issued upon successful completion of contract.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
       "tr": "ECKHART SECURITY, LLC.\\nCONTRATOS E DESPACHOS\\n\\nTipo de contrato: Defender o local\\nCÓDIGO DE APROVAÇÃO = [APPROVAL_CODE]\\n\\nPARA PROCESSAMENTO IMEDIATO\\n\\nHá um problema sério se formando para um de nossos clientes em <EM4>[LOCATION]</EM4>. Eles foram avisados de que uma equipe de fora da lei altamente qualificada está determinada a invadir e ocupar esse local. Fomos contratados para garantir que isso não aconteça. \\n\\nPreciso de um contratado para ir ao local imediatamente. Com base nas informações fornecidas pelo cliente, isso não será fácil. Recomendamos enfaticamente que você traga aliados e muitos suprimentos para ajudar a evitar o ataque iminente.   \\n\\nO pagamento será emitido após a conclusão bem-sucedida do contrato.\\n\\nEste contrato não é negociável.\\n\\nEsta mensagem pode conter informações confidenciais, proprietárias, privilegiadas e/ou privadas. As informações destinam-se ao uso do indivíduo ou da entidade designada acima."
     },
+    "eckhart_defendship_MRT_SB_desc_001": {
+      "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Defend Ship\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nLooking for a contractor who’s available immediately. \\n\\nA client conducting business in Nyx ran into some trouble with the Shattered Blade and is requesting back-up at <EM4>[LOCATION]</EM4>. Are you free to handle this for us?\\n\\nPayment will be issued upon successful completion of contract.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
+      "tr": "ECKHART SECURITY, LLC.\\nCONTRATOS & DESPACHO\\n\\nTIPO DE CONTRATO: Defender Nave\\nCÓDIGO DE APROVAÇÃO = [APPROVAL_CODE]\\n\\nPARA PROCESSAMENTO IMEDIATO\\n\\nProcuramos um contratante disponível imediatamente.\\n\\nUm cliente que estava realizando negócios em Nyx se envolveu em problemas com o Shattered Blade e está pedindo apoio em <EM4>[LOCATION]</EM4>. Você está disponível para nos ajudar?\\n\\nO pagamento será feito após a conclusão bem-sucedida do contrato.\\n\\nEste contrato é inegociável.\\n\\nEsta mensagem pode conter informações confidenciais, proprietárias, privilegiadas e/ou privadas. A informação é destinada ao uso do indivíduo ou entidade designada acima."
+    },
     "HeadHunters_ShipAmbush_H_desc_001": {
       "en": "A squad of ships recently shanked one of our convoys, and ten credits says they’re gonna try and do it again. Looking for someone to launch a reprisal attack before that can happen.  \\n\\nWe’ve ID’d the idiots as consisting of several large craft and a sizable escort. We believe the leader is flying a <EM4>[TARGET]</EM4> and set that ship as the primary target. Since it’s a sizable and aggressive squad, a surprise attack seems like a smart play. They often pass by <EM4>[LOCATION]</EM4>, which has an emission cloud to hide in. Be smart and patient then strike when the time is right. \\n\\nUnless you fancy yourself a real ace, it’s probably best to bring some friends. Maybe you can entice folks by letting them know they can pick through the wreckage for valuables once the deed is done.\\n\\nAnd on top of that, I'll give the main contractor a bonus <EM4>8 Council Scrip</EM4> to sweeten the pot.\\n\\nStows out.",
       "tr": "Recentemente, um esquadrão de naves destruiu um de nossos comboios, e dez créditos dizem que eles tentarão fazer isso novamente. Estamos procurando alguém para lançar um ataque de represália antes que isso aconteça.  \\n\\nIdentificamos os idiotas como sendo compostos por várias naves grandes e uma escolta considerável. Acreditamos que o líder esteja pilotando uma <EM4>[TARGET]</EM4> e definimos essa nave como o alvo principal. Como se trata de um esquadrão considerável e agressivo, um ataque surpresa parece uma jogada inteligente. Eles geralmente passam por <EM4>[LOCATION]</EM4>, que tem uma nuvem de emissão para se esconder. Seja esperto e paciente e, em seguida, ataque quando for a hora certa. \\n\\nA menos que você se considere um verdadeiro ás, provavelmente é melhor levar alguns amigos. Talvez você possa seduzir as pessoas dizendo que elas podem procurar objetos de valor nos destroços depois que a ação estiver concluída.\\n\\nE, além disso, darei ao contratante principal um bônus de <EM4>[SCRIPAMOUNT] Council Scrip</EM4> para adoçar o pote.\\n\\nStows Desliga."
@@ -5370,6 +5590,10 @@
     "headhunters_eliminateall_outpost_desc_01": {
       "en": "Some assholes are refusing to pay us what we’re owed. Problem is, these idiots are bragging about it. Had they kept it quiet, we could’ve taken care of this more surgically, but now we need to send a message.\\n\\nThe fools are operating from [LOCATION]. We need them all gone. Make it as loud as you can. We’ll send your payment once everyone’s taken care of.\\n\\n- Stows out.",
       "tr": "Alguns idiotas estão se recusando a nos pagar o que nos é devido. O problema é que esses idiotas estão se gabando disso. Se tivessem ficado quietos, poderíamos ter cuidado disso de forma mais cirúrgica, mas agora precisamos enviar uma mensagem.\\n\\nOs idiotas estão operando de [LOCATION]. Precisamos que todos eles se vão. Fale o mais alto que puder. Enviaremos seu pagamento assim que todos estiverem resolvidos.\\n\\n- Guarde-se."
+    },
+    "eckhart_defendship_LRT_SB_desc_001": {
+      "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Defend Ship\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nThe Shattered Blade are attacking a client of ours near <EM4>[LOCATION]</EM4>. Need a contractor deployed to that area immediately before it’s too late. Any chance you're available?\\n\\nPayment will be issued upon successful completion of contract.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
+      "tr": "ECKHART SECURITY, LLC.\\nCONTRATOS & DESPACHO\\n\\nTIPO DE CONTRATO: Defender Nave\\nCÓDIGO DE APROVAÇÃO = [APPROVAL_CODE]\\n\\nPARA PROCESSAMENTO IMEDIATO\\n\\nO Shattered Blade está atacando um cliente nosso próximo a <EM4>[LOCATION]</EM4>. Precisamos de um contratante imediatamente na área antes que seja tarde demais. Você está disponível?\\n\\nO pagamento será feito após a conclusão bem-sucedida do contrato.\\n\\nEste contrato é inegociável.\\n\\nEsta mensagem pode conter informações confidenciais, proprietárias, privilegiadas e/ou privadas. A informação é destinada ao uso do indivíduo ou entidade designada acima."
     },
     "EckhartSecurity_EliminateAll_storm_shut_H_desc_001": {
       "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Clear Location\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nGot an emergency request from Associated Science & Development for any available operators to report to [LOCATION] and deal with some hostiles who have overtaken one of their facilities. \\n\\nOnce on site, you will need to engage and eliminate any hostile elements. ASD has indicated that this facility provides shuttle services to one of their embedded research centers but were very clear that you are not authorized to travel there. Trespassers will be shot and you will be no exception, so stick to the prescribed AO.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
@@ -5535,6 +5759,10 @@
       "en": "Citizens for Prosperity is in need of pilots with dogfighting experience. If you’re looking to put your skills to the test, I have a mission here for you to try. \\n\\nA civilian ship has requested combat support near <EM4>[LOCATION]</EM4>. Head there and show us that you have the skills to excel in these types of missions and we’ll put you to good use.  \\n\\nPlease be aware. This mission is not a training exercise. This is a real encounter, so please do your best to save the ship in distress. \\n\\nGood Luck,\\n\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
       "tr": "Os Citizens for Prosperity estão precisando de pilotos com experiência em combates. Se você está procurando uma oportunidade para testar suas habilidades, tenho uma missão aqui para você tentar.\\n\\nUma nave civil solicitou suporte de combate perto de <EM4>[LOCATION]</EM4>. Vá até lá e mostre que você tem as habilidades necessárias para se destacar neste tipo de missão e faremos bom uso de você.\\n\\nPor favor, esteja ciente de que esta missão não é um exercício de treinamento. Trata-se de um encontro real, então faça o seu melhor para salvar a nave em perigo.\\n\\nBoa sorte,\\n\\nLima Endicott\\nDespachante Líder\\nCitizens for Prosperity"
     },
+    "eckhart_defendship_multi_HRT_SB_desc_001": {
+      "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Defend Ship\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nHave an emergency here that needs our immediate attention. A client ran into a Shattered Blade crew near <EM4>[LOCATION]</EM4> and is on the verge of being overwhelmed. Looking for a skilled pilot to come to their rescue. \\n\\nPayment will be issued upon successful completion of contract.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
+      "tr": "ECKHART SECURITY, LLC.\\nCONTRATOS & DESPACHO\\n\\nTIPO DE CONTRATO: Defender Nave\\nCÓDIGO DE APROVAÇÃO = [APPROVAL_CODE]\\n\\nPARA PROCESSAMENTO IMEDIATO\\n\\nTemos uma emergência que exige nossa atenção imediata. Um cliente encontrou uma tripulação do Shattered Blade perto de <EM4>[LOCATION]</EM4> e está prestes a ser sobrecarregado. Precisamos de um piloto habilidoso para vir em seu resgate.\\n\\nO pagamento será feito após a conclusão bem-sucedida do contrato.\\n\\nEste contrato é inegociável.\\n\\nEsta mensagem pode conter informações confidenciais, proprietárias, privilegiadas e/ou privadas. A informação é destinada ao uso do indivíduo ou entidade designada acima."
+    },
     "HeadHunters_ShipAmbush_Intro_desc_001": {
       "en": "Got an opportunity for someone eager to show off their flying skills. Headhunters have been running afoul of this numbrain flying a<EM4>[TARGET]</EM4> and we’re gonna put a stop to it once and for all.\\n\\nYou’re gonna help us set a trap for them. See, there’s an <EM4>emission cloud</EM4> near <EM4>[LOCATION]</EM4> that they fly by frequently. \\n\\nHead there, hide inside the cloud by powering down your ship, and attack the asshole as soon as you see ‘em and other single-seaters dumb enough to fly with them. It’ll be all you for that first hit, but we’ll put some support ships nearby to help finish the job. \\n\\nAnd in honor of this being your first surprise attack for us, there's a bonus of <EM4>1 Council Scrip</EM4> for the main contractor at the end of the job. \\n\\nStows out.",
       "tr": "Tem uma oportunidade para alguém disposto a mostrar suas habilidades de pilotagem. Os Headhunters têm se metido com esse idiota voando um <EM4>[TARGET]</EM4> e a gente vai acabar com isso de uma vez por todas.\\n\\nVocê vai nos ajudar a armar uma armadilha para eles. Veja, tem uma <EM4>Nuvem de Emissão</EM4> perto de <EM4>[LOCATION]</EM4> que eles costumam passar com frequência. \\n\\nVá até lá, se esconda dentro da nuvem desligando sua nave, e ataque o babaca assim que vê-lo, junto com outros pilotos solitários burros o suficiente para voar com ele. Vai ser tudo com você no primeiro ataque, mas vamos deixar algumas naves de apoio por perto para ajudar a finalizar o serviço. \\n\\nE em homenagem a esse ser seu primeiro ataque surpresa para nós, tem um bônus de <EM4>[SCRIPAMOUNT] Council Scrip</EM4> para o contratante principal no final da missão. \\n\\nStows desliga."
@@ -5542,6 +5770,10 @@
     "Eckhart_ShipAmbush_VE_desc": {
       "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Ship Ambush\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nOne of our clients has been the victim of consistent harassment so the time has come to send a clear cease-and-desist message by taking out their prized <EM4>[TARGET]</EM4>.  The lowlife in question follows a fairly predictable routine making them susceptible to an ambush. We’ve identified <EM4>[LOCATION]</EM4> as the ideal spot. It features an <EM4>emission cloud</EM4> where you can hide and power down your ship while waiting. \\n\\nBy the way, the <EM4>[TARGET]</EM4> often flies alone but is sometimes joined by a friend in a single-seat ship. Neither should give you too much trouble, but we have other contractors in the area who can lend a hand once you strike.\\n\\nPayment will be issued upon successful completion of contract. There’s a bonus payment of <EM4>1 MG Scrip</EM4> in this for the main contractor too.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
       "tr": "ECKHART SECURITY, LLC.\\nCONTRATOS E DESPACHO\\n\\nTIPO DE CONTRATO: Emboscada Espacial\\nCÓDIGO DE APROVAÇÃO = [APPROVAL_CODE]\\n\\nPROCESSAMENTO IMEDIATO\\n\\nUm dos nossos clientes vem sofrendo assédio constante, então chegou a hora de mandar um recado claro eliminando o <EM4>[TARGET]</EM4> deles. Esse sujeito segue uma rotina bem previsível, o que o torna um alvo fácil pra uma emboscada. Identificamos <EM4>[LOCATION]</EM4> como o local ideal. O ponto tem uma <EM4>nuvem de emissão</EM4> onde dá pra desligar a nave e esperar o momento certo.\\n\\nAh, o <EM4>[TARGET]</EM4> costuma voar sozinho, mas às vezes é acompanhado por uma nave de assento único. Nenhum dos dois deve dar muito trabalho, mas temos outros contratados na área que podem dar apoio quando o ataque começar.\\n\\nO pagamento será feito após a conclusão bem-sucedida do contrato. Há também um bônus de <EM4>[SCRIPAMOUNT] MG Scrip</EM4> pro contratante principal.\\n\\nEste contrato não é negociável.\\n\\nEsta mensagem pode conter informações confidenciais, proprietárias, privilegiadas e/ou privadas. As informações são destinadas ao uso exclusivo do indivíduo ou entidade designada acima."
+    },
+    "eckhart_defendship_multi_SRT_SB_desc_001": {
+      "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Defend Ship\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nLooking for a contractor who can help us with an extremely dangerous situation. An elite Shattered Blade fleet has unfortunately engaged with one of our clients.  \\n\\nWe’re in need of a highly skilled contractor to scramble immediately and protect the client. If that’s you, please get your gear in order and hurry to <EM4>[LOCATION]</EM4>.   \\n\\nPayment will be issued upon successful completion of contract.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
+      "tr": "ECKHART SECURITY, LLC.\\nCONTRATOS & DESPACHO\\n\\nTIPO DE CONTRATO: Defender Nave\\nCÓDIGO DE APROVAÇÃO = [APPROVAL_CODE]\\n\\nPARA PROCESSAMENTO IMEDIATO\\n\\nProcuramos um contratante para nos ajudar em uma situação extremamente perigosa. Uma frota de elite do Shattered Blade se envolveu com um dos nossos clientes.\\n\\nPrecisamos de um contratante altamente habilidoso para sair imediatamente e proteger o cliente. Se você for esse contratante, prepare seu equipamento e corra para <EM4>[LOCATION]</EM4>.\\n\\nO pagamento será feito após a conclusão bem-sucedida do contrato.\\n\\nEste contrato é inegociável.\\n\\nEsta mensagem pode conter informações confidenciais, proprietárias, privilegiadas e/ou privadas. A informação é destinada ao uso do indivíduo ou entidade designada acima."
     },
     "TheCollector_Recipes_Desc_HeavyUtil": {
       "en": "You need utility suit. Good for work. If you like, Wikelo can make shinier. Look real good. See what Wikelo need and bring.",
@@ -5667,6 +5899,10 @@
       "en": "Wikelo love useful cargo ship. Spirit is very useful. If you want one, can make for you. Just bring me things and I will do. Bye.",
       "tr": "O Wikelo adora naves de carga úteis. A Spirit é bem útil. Se você quiser uma, posso fazer para você. Traga as coisas e eu faço. Tchau."
     },
+    "vaughn_assassination_PA_E_desc": {
+      "en": "I can’t imagine you’ll have much trouble with this, even if it is marginally more challenging than your previous contract. Head to <EM4>[LOCATION]</EM4> and take care of People’s Alliance member by the name <EM4>[TARGET]</EM4>. My informants tell me they may have an escort or two with them. Nothing you can’t handle, of course.\\n\\nSincerely,\\nVaughn",
+      "tr": "Não vejo muita dificuldade nisso pra você, mesmo que seja um pouco mais desafiador que seu contrato anterior. Vá até <EM4>[LOCATION]</EM4> e se encarregue do membro da People’s Alliance chamado <EM4>[TARGET]</EM4>. Minhas fontes dizem que eles podem ter um ou dois escoltas. Nada que você não aguente, claro.\\n\\nAtenciosamente,\\nVaughn"
+    },
     "Headhunters_SecurityPatrol_VH_Desc_001": {
       "en": "We’re getting pushback from folks who don’t seem happy that we’re here. Folks have gotten keen to our haunts and started sending out squads to hit our ships. You down to visit a few of those spots to show that we won’t be scared off? \\n\\nIf so, start by seeing what’s around the <EM4>location marker</EM4> on your HUD. From there I’ll guide you to a few other hotspots that we need checked. Better get your shit in order before heading out. I'd recommend loading up on ammo and convincing <EM4>two friends</EM4> to join the patrol.\\n\\nYou do this for the Headhunters and I'll see to it that the main contractor gets a bonus of <EM4>18 Council Scrip</EM4>. \\n\\nStows out.",
       "tr": "Estamos recebendo resistência de pessoas que não parecem felizes com nossa presença por aqui. A galera já pegou o nosso esquema e começou a mandar esquadrões para atacar nossas naves. Topa visitar alguns desses pontos e mostrar que não vamos ser intimidados? \\n\\nSe sim, comece dando uma olhada no que tem ao redor do <EM4>marcador do local</EM4> no seu HUD. Depois, vou te guiar para outros pontos quentes que precisamos checar. Melhor já deixar tudo pronto antes de sair. Eu recomendaria carregar munição e convencer <EM4>dois amigos</EM4> a se juntarem à patrulha.\\n\\nSe você fizer isso pelos Headhunters, vou garantir que o contratante principal ganhe um bônus de <EM4>[SCRIPAMOUNT] Council Scrip</EM4>.\\n\\nStows fora."
@@ -5699,6 +5935,10 @@
       "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Defend Ship\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nA high-profile client decided to tour Nyx system but got jumped by hostile ships around <EM4>[LOCATION]</EM4>. \\n\\nSounds like they’re overwhelmed. Any chance you could head to their location and provide support? \\n\\nPayment will be issued upon successful completion of contract.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
       "tr": "ECKHART SECURITY, LLC.\\nCONTRATOS & DESPACHO\\n\\nTIPO DE CONTRATO: Defender Nave\\nCÓDIGO DE APROVAÇÃO = [APPROVAL_CODE]\\n\\nPARA PROCESSAMENTO IMEDIATO\\n\\nUm cliente de alto perfil decidiu fazer um tour pelo sistema Nyx, mas foi atacado por naves hostis perto de <EM4>[LOCATION]</EM4>.\\n\\nParece que estão sobrecarregados. Você consegue ir até o local e fornecer suporte?\\n\\nO pagamento será feito após a conclusão bem-sucedida do contrato.\\n\\nEste contrato é inegociável.\\n\\nEsta mensagem pode conter informações confidenciais, proprietárias, privilegiadas e/ou privadas. A informação é destinada ao uso do indivíduo ou entidade designada acima."
     },
+    "cfp_defendship_MRT_SB_desc_001": {
+      "en": "A Citizens for Prosperity member who’s new to Nyx took out their ship to tour the system, and ran right into trouble. Based on their comms, it sure sounds like they ventured into Shattered Blade territory, got caught, and are now trying to escape.   \\n\\nThey’re putting up a decent fight, but don’t know how long they’ll last without support. Could you go to their aid at <EM4>[LOCATION]</EM4> before it’s too late? \\n\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
+      "tr": "Um membro dos Citizens for Prosperity, novo em Nyx, saiu para conhecer o sistema e acabou se metendo em problemas. Com base nas comunicações deles, parece que se aventuraram no território do Shattered Blade, foram capturados e agora estão tentando escapar.\\n\\nEles estão resistindo bem, mas não sei por quanto tempo conseguirão aguentar sem apoio. Você poderia ir em seu socorro em <EM4>[LOCATION]</EM4> antes que seja tarde?\\n\\nLima Endicott\\nDespachante Líder\\nCitizens for Prosperity"
+    },
     "eckhart_defendship_multi_VHRT_desc_001": {
       "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Defend Ship\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nDespite our warnings, a client decided to fly to <EM4>[LOCATION]</EM4>. Unsurprisingly, they just dropped a rescue beacon in the area, so we’re looking for a contractor to get on site, assess the situation, and hopefully rescue the client.\\n\\nWe warned them that extremely dangerous and well-equipped outlaws often strike ships there. That’s exactly what I assume happened here, so make sure you plan accordingly.  \\n\\nPayment will be issued upon successful completion of contract.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
       "tr": "ECKHART SECURITY, LLC.\\nCONTRATOS & DESPACHO\\n\\nTIPO DE CONTRATO: Defender Nave\\nCÓDIGO DE APROVAÇÃO = [APPROVAL_CODE]\\n\\nPARA PROCESSAMENTO IMEDIATO\\n\\nApesar de nossos avisos, um cliente decidiu voar até <EM4>[LOCATION]</EM4>. Não é surpresa que eles acabaram de ativar um sinal de resgate na área, então estamos procurando um contratante para chegar lá, avaliar a situação e, com sorte, resgatar o cliente.\\n\\nAvisamos que fora da lei bem equipados costumam atacar naves por lá. Isso é exatamente o que eu acho que aconteceu, então planeje adequadamente.\\n\\nO pagamento será feito após a conclusão bem-sucedida do contrato.\\n\\nEste contrato é inegociável.\\n\\nEsta mensagem pode conter informações confidenciais, proprietárias, privilegiadas e/ou privadas. A informação é destinada ao uso do indivíduo ou entidade designada acima."
@@ -5714,6 +5954,14 @@
     "headhunters_bombingrun_sabotage_servers_VH_desc_001": {
       "en": "When will people learn that they can't just do whatever they feel like on Headhunter turf? These idiots are planning a big job and thought that I'd just let them get away with it? No way in hell.\\n\\nI want you to fly to [LOCATION] and destroy their fuel tanks and data servers. Show them what the Headhunters really think of them.\\n\\nLet's see them try to pull off anything after that.\\n\\n-Stows out",
       "tr": "Quando as pessoas aprenderão que não podem fazer o que bem entendem no território dos Headhunters? Esses idiotas estão planejando um grande trabalho e pensaram que eu os deixaria fazer isso? De jeito nenhum.\\n\\nEu quero que você voe para [LOCATION] e destrua seus tanques de combustível e servidores de dados. Mostre a eles o que os Headhunters realmente pensam deles.\\n\\nVamos vê-los tentar fazer alguma coisa depois disso.\\n\\n-Stows Desliga"
+    },
+    "cfp_defendship_multi_SRT_SB_desc_001": {
+      "en": "One of our convoys got caught in a bad situation and is in desperate need of help. The Shattered Blade launched a brutal attack on our ships in an area that we thought was safe. That convoy is mainly carrying supplies and new recruits. From the comms I’m receiving, they’re putting up a hell of a fight but might not last much longer. \\n\\nIf available, we need you at <EM4>[LOCATION]</EM4> ready to go toe-to-toe with some serious forces.    \\n\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
+      "tr": "Um de nossos comboios se meteu em uma situação difícil e está desesperado por ajuda. O Shattered Blade lançou um ataque brutal contra nossas naves em uma área que pensávamos ser segura. Esse comboio está transportando principalmente suprimentos e novos recrutas. Pelas comunicações que estou recebendo, estão resistindo bem, mas não sei por quanto tempo durarão.\\n\\nSe estiver disponível, precisamos de você em <EM4>[LOCATION]</EM4> pronto para enfrentar algumas forças sérias.\\n\\nLima Endicott\\nDespachante Líder\\nCitizens for Prosperity"
+    },
+    "eckhart_defendship_VLRT_SB_desc_001": {
+      "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Defend Ship\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nWe’re getting comms from a client who accidentally disturbed a Shattered Blade deal and are now under attack. Last update I got placed their ship near <EM4>[LOCATION]</EM4>.\\n\\nLooking for a contractor who can provide dogfighting support for our client.\\n\\nPayment will be issued upon successful completion of contract.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
+      "tr": "ECKHART SECURITY, LLC.\\nCONTRATOS & DESPACHO\\n\\nTIPO DE CONTRATO: Defender Nave\\nCÓDIGO DE APROVAÇÃO = [APPROVAL_CODE]\\n\\nPARA PROCESSAMENTO IMEDIATO\\n\\nEstamos recebendo comunicações de um cliente que acidentalmente interrompeu um acordo do Shattered Blade e agora está sendo atacado. A última atualização que recebi indicava que a nave deles está próxima a <EM4>[LOCATION]</EM4>.\\n\\nEstamos procurando um contratante que possa fornecer suporte de dogfight para nosso cliente.\\n\\nO pagamento será feito após a conclusão bem-sucedida do contrato.\\n\\nEste contrato é inegociável.\\n\\nEsta mensagem pode conter informações confidenciais, proprietárias, privilegiadas e/ou privadas. A informação é destinada ao uso do indivíduo ou entidade designada acima."
     },
     "headhunters_bombingrun_M_desc_001": {
       "en": "Feels like everyone wants a piece of our pie these days. Scouts are reporting that <EM4>[LOCATION]</EM4> is crawling with some new gang who've got it in for us.\\n\\nSo let's show them why you don't mess with us. Take out their fuel stores and leave them stranded.\\n\\nThat oughta send a message.\\n\\n-Stows out",
@@ -5738,6 +5986,10 @@
     "eckhart_defendship_LRT_desc_001": {
       "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Defend Ship\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nOne of our clients got the brilliant idea to test their dogfighting skills in a real world scenario. Doesn’t sound like it’s going well, because they comm’d us asking for some support. \\n\\nHead to <EM4>[LOCATION]</EM4> and help clean up the mess they created.\\n\\nPayment will be issued upon successful completion of contract.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
       "tr": "ECKHART SECURITY, LLC.\\nCONTRATOS & DESPACHO\\n\\nTIPO DE CONTRATO: Defender Nave\\nCÓDIGO DE APROVAÇÃO = [APPROVAL_CODE]\\n\\nPARA PROCESSAMENTO IMEDIATO\\n\\nUm de nossos clientes teve a brilhante ideia de testar suas habilidades em dogfight em uma situação real. Parece que não está indo bem, porque eles nos contataram pedindo apoio.\\n\\nDirija-se até <EM4>[LOCATION]</EM4> e ajude a limpar a bagunça que eles causaram.\\n\\nO pagamento será feito após a conclusão bem-sucedida do contrato.\\n\\nEste contrato é inegociável.\\n\\nEsta mensagem pode conter informações confidenciais, proprietárias, privilegiadas e/ou privadas. A informação é destinada ao uso do indivíduo ou entidade designada acima."
+    },
+    "cfp_defendship_VLRT_SB_desc_001": {
+      "en": "Received an emergency comm from a ship saying that the Shattered Blade are harassing them. Believe the pilot got their attention by getting a little too close to their territory. The pilot admitted that they don’t have a lot of combat experience, so I’m not sure how much longer they can hold out.\\n\\nCould you head to <EM4>[LOCATION]</EM4> now to help them survive the attack?\\n\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
+      "tr": "Recebemos uma comunicação de emergência de uma nave dizendo que o Shattered Blade está os assediando. Acredita-se que o piloto tenha chamado a atenção deles se aproximando demais de seu território. O piloto admitiu que não tem muita experiência em combate, então não sei por quanto tempo eles conseguirão resistir.\\n\\nVocê poderia ir até <EM4>[LOCATION]</EM4> agora para ajudá-los a sobreviver ao ataque?\\n\\nLima Endicott\\nDespachante Líder\\nCitizens for Prosperity"
     },
     "HeadHunters_ShipAmbush_VE_desc_001": {
       "en": "Some numskull flying a <EM4>[TARGET]</EM4> was caught spying on our ops. We ran ‘em off with a warning only to spot ‘em doing the same shit someplace else. Since they didn’t get the message, seems we gotta send a stronger one.    \\n\\nThere’s an emission cloud near <EM4>[LOCATION]</EM4> that they fly by frequently. Primo place to power down, hide, and launch a surprise attack. Sometimes they fly solo, sometimes there’s other single-seaters with them. It’ll be all you for that first hit, but we’ll put some support ships nearby to help finish the job. \\n\\nAnd if you needed some extra motivation, there's a bonus of <EM4>1 Council Scrip</EM4> for the main contractor at the end of the job. \\n\\nStows out.",
@@ -8955,6 +9207,18 @@
       "en": "Drake Cutter",
       "tr": "Drake Cutter"
     },
+    "vehicle_NameANVL_C8_Pisces": {
+      "en": "Anvil C8 Pisces",
+      "tr": "Anvil C8 Pisces"
+    },
+    "vehicle_NameANVL_C8R_Pisces_Rescue": {
+      "en": "Anvil C8R Pisces Rescue",
+      "tr": "Anvil C8R Pisces Rescue"
+    },
+    "vehicle_NameANVL_C8X_Pisces_Expedition": {
+      "en": "Anvil C8X Pisces Expedition",
+      "tr": "Anvil C8X Pisces Expedition"
+    },
     "vehicle_NameAEGS_Avenger_Stalker": {
       "en": "Aegis Avenger Stalker",
       "tr": "Aegis Avenger Stalker"
@@ -9002,18 +9266,6 @@
     "vehicle_NameAEGS_Sabre_Raven": {
       "en": "Aegis Sabre Raven",
       "tr": "Aegis Sabre Raven"
-    },
-    "vehicle_NameANVL_C8_Pisces": {
-      "en": "Anvil C8 Pisces",
-      "tr": "Anvil C8 Pisces"
-    },
-    "vehicle_NameANVL_C8R_Pisces_Rescue": {
-      "en": "Anvil C8R Pisces Rescue",
-      "tr": "Anvil C8R Pisces Rescue"
-    },
-    "vehicle_NameANVL_C8X_Pisces_Expedition": {
-      "en": "Anvil C8X Pisces Expedition",
-      "tr": "Anvil C8X Pisces Expedition"
     },
     "vehicle_nameANVL_Carrack": {
       "en": "Anvil Carrack",
@@ -9363,13 +9615,13 @@
       "en": "Wreckage",
       "tr": "DESTROÇOS"
     },
-    "vehicle_Nameprobe_comms_1_a": {
-      "en": "CHCO Auris PDC Monitor",
-      "tr": "Monitor PDC CHCO Auris"
-    },
     "vehicle_NameDRAK_Cutlass_Red": {
       "en": "Drake Cutlass Red",
       "tr": "Drake Cutlass Red"
+    },
+    "vehicle_Nameprobe_comms_1_a": {
+      "en": "CHCO Auris PDC Monitor",
+      "tr": "Monitor PDC CHCO Auris"
     },
     "vehicle_NameKRIG_P52_Merlin": {
       "en": "Kruger P-52 Merlin",
