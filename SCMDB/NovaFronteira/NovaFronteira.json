@@ -1,20 +1,21 @@
 {
-  "version": "4.8.0-live.11875683",
+  "version": "4.8.2-live.12030094",
   "sourceLanguage": "en",
   "targetLanguage": "unknown",
-  "keyCount": 2693,
+  "keyCount": 2659,
   "stats": {
-    "total": 2693,
-    "translated": 2548,
+    "total": 2659,
+    "translated": 2529,
     "missing": 1,
-    "noLocKey": 75,
+    "noLocKey": 60,
     "placeholderFallback": 69,
     "lengthFallback": 0,
-    "mismatch": 217,
+    "mismatch": 218,
     "missingKeys": [
       "UDM_LocalDelivery_desc"
     ],
     "mismatchKeys": [
+      "CFP_Delivery_Outpost_Multi_title_001",
       "CFP_SecurityPatrol_E_Desc_001",
       "CFP_SecurityPatrol_H_Desc_001",
       "CFP_SecurityPatrol_M_Desc_001",
@@ -1496,7 +1497,7 @@
       "tr": "ENTREGA INTER-OUTPOST EM [DESTINATION]"
     },
     "CFP_Delivery_Outpost_Multi_title_001": {
-      "en": "Inter-Outpost Delivery at [DESTINATION] - Multiple Boxes",
+      "en": "Inter-Outpost Delivery at Jackson's Swap - Multiple Boxes",
       "tr": "ENTREGA INTER-OUTPOST EM [DESTINATION] - MÚLTIPLAS CAIXAS"
     },
     "CFP_RecoverCargo_Easy_Title": {
@@ -3917,7 +3918,7 @@
     },
     "DeadSaints_RecoverCargo_Easy_Description": {
       "en": "You know when you ask someone a question and you have a feeling they’re lying, but you choose to give them the benefit of the doubt? Yeah. That’s what I’m dealing with right now.\\n\\nTwo “expert” haulers I hired to transport some gear for me ran into some trouble and ended up ditching my goods over at <EM4>[LOCATION]</EM4>. Needless to say, I’ve ordered a hit on them, but what I need from you is to go recover that cargo. The tracker says the cargo’s still on the ship, so you’ll just need a <EM4>a heavy-duty tractor beam</EM4> and your own ship to recover it.\\n\\nYou might run into a couple of scavengers lurking around there, but I doubt you’ll have any trouble with them.\\n\\nWhen you’re done, take the stuff to <EM4>[DESTINATION]</EM4> and I’ll sort you out with a reward.\\n\\n-Twitch",
-      "tr": "Sabe quando você pergunta algo pra alguém e sente que a pessoa tá mentindo, mas mesmo assim dá um voto de confiança? É isso que tô lidando agora.\\n\\nDois “especialistas” em transporte que eu contratei pra levar umas mercadorias se meteram em confusão e largaram minha carga em <EM4>[LOCATION]</EM4>. Já mandei caçar os dois, mas o que preciso de você é que recupere a carga. O rastreador mostra que ela ainda tá na nave, então só vai precisar de um <EM4>raio trator pesado</EM4> e da sua própria nave pra fazer a recuperação.\\n\\nPode ter uns catadores por lá, mas duvido que te deem trabalho.\\n\\nDepois que pegar tudo, leva pra <EM4>[DESTINATION]</EM4> que eu te pago direitinho.\\n\\n-Twitch"
+      "tr": "Sabe quando você pergunta algo pra alguém e sente que a pessoa tá mentindo, mas mesmo assim dá um voto de confiança? É isso que tô lidando agora.\\n\\nDois “especialistas” em transporte que eu contratei pra levar umas mercadorias se meteram em confusão e largaram minha carga em <EM4>[LOCATION]</EM4>. Já mandei caçar os dois, mas o que preciso de você é que recupere a carga. O rastreador mostra que ela ainda tá na nave, então só vai precisar de um <EM4>Tractor Beam pesado</EM4> e da sua própria nave pra fazer a recuperação.\\n\\nPode ter uns catadores por lá, mas duvido que te deem trabalho.\\n\\nDepois que pegar tudo, leva pra <EM4>[DESTINATION]</EM4> que eu te pago direitinho.\\n\\n-Twitch"
     },
     "CFP_ShipWaveAttack_ClearHostiles_Desc_E_001": {
       "en": "To help protect our pilots, Citizens for Prosperity will often recommend the use of less traditional routes through the system. However, it seems that a gang of outlaws has gotten word and has begun to stage repeated ambushes along one such flightpath. Rather than just go around the problem and risk it persisting along the new route, we feel it we be prudent to meet these outlaws head on.\\n\\nYou and whatever support ships you enlist will head to [LOCATION] and neutralize any hostiles you find laying in wait there. They have been known to operate in smaller packs, so it's vital that you wait until all of the hostiles have been dealt with.\\n\\nYour assistance is much appreciated,\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
@@ -4161,7 +4162,7 @@
     },
     "DeadSaints_HaulCargo_AToB_intro_desc": {
       "en": "Call me Twitch. I run the Dead Saints. \\n\\nI doubt this is the first time you've heard of us, but in case you haven't, we do a lot of things, but one of them is transporting goods that need discreet handling. \\n\\nI got your info from one of my contacts. They say you've got the stuff we like in a hauler, which works for me, because we're looking for one. \\n\\nHere's my proposal – we're offering creds to the pilot that can transport some special cargo for us. Your ship’s hold will need room for <EM4>2 SCU cargo containers</EM4>, and you'll need a <EM4>handheld tractor beam</EM4> for loading and unloading. All you have to do is get everything from <EM4>[LOCATION]</EM4> to <EM4>[DESTINATION]</EM4> without getting security involved. \\n \\nIf you can pull the job off, the Saints will have more contracts for you down the line. \\n\\n-Twitch",
-      "tr": "Me chama de Twitch. Eu comando os Dead Saints.\\n\\nDuvido que seja a primeira vez que ouve falar da gente, mas caso seja, nós cuidamos de muitos tipos de serviço — um deles é transporte de cargas que exigem discrição.\\n\\nConsegui suas informações com um contato. Disseram que você tem a nave que a gente curte pra esse tipo de trampo, e isso é perfeito, porque estamos precisando de um piloto.\\n\\nA proposta é simples: estamos pagando bem pra quem puder transportar uma carga especial pra gente. Seu porão precisa ter espaço pra <EM4>[MAX_SCU] contêineres</EM4>, e você vai precisar de um <EM4>raio trator portátil</EM4> pra carregar e descarregar. Só tem que levar tudo de <EM4>[LOCATION]</EM4> pra <EM4>[DESTINATION]</EM4> sem chamar atenção da segurança.\\n\\nSe fizer o trabalho direito, os Saints terão mais contratos pra você no futuro.\\n\\n-Twitch"
+      "tr": "Me chama de Twitch. Eu comando os Dead Saints.\\n\\nDuvido que seja a primeira vez que ouve falar da gente, mas caso seja, nós cuidamos de muitos tipos de serviço — um deles é transporte de cargas que exigem discrição.\\n\\nConsegui suas informações com um contato. Disseram que você tem a nave que a gente curte pra esse tipo de trampo, e isso é perfeito, porque estamos precisando de um piloto.\\n\\nA proposta é simples: estamos pagando bem pra quem puder transportar uma carga especial pra gente. Seu porão precisa ter espaço pra <EM4>[MAX_SCU] contêineres</EM4>, e você vai precisar de um <EM4>Tractor Beam portátil</EM4> pra carregar e descarregar. Só tem que levar tudo de <EM4>[LOCATION]</EM4> pra <EM4>[DESTINATION]</EM4> sem chamar atenção da segurança.\\n\\nSe fizer o trabalho direito, os Saints terão mais contratos pra você no futuro.\\n\\n-Twitch"
     },
     "DeadSaints_HaulCargo_AToB_desc_ToGrimHEX_Danger": {
       "en": "If you're looking for creds, the Saints need someone with hauling experience to do a supply run from <EM4>[LOCATION]</EM4> to <EM4>[DESTINATION]</EM4>. \\n\\nYou're gonna need a ship that can hold size <EM4>16 SCU cargo containers</EM4> and a <EM4>handheld tractor beam</EM4> to move the boxes around. \\n\\nDon't open the crates but just so you know, most of this stuff is legal but not all of it. Try not to cross paths with anyone who might make that a problem for you. Get me?\\n\\n-Twitch",
@@ -4401,11 +4402,11 @@
     },
     "DeadSaints_RecoverCargo_VeryEasy_Description": {
       "en": "One of my haulers has run into some trouble over at <EM4>[LOCATION]</EM4> and was forced to ditch their ship. I need someone to go there with <EM4>a heavy-duty tractor beam</EM4> to grab the cargo and finish the job.\\n\\nThey were carrying a decent supply of gear for me, and the last thing I need is for some do-gooder to come across it and trace it back to us.\\n\\nIf you do run into anybody, no need to be friendly. Just shoot the asshole and get my gear. Understood?\\n\\nTake it to the freight elevator over at <EM4>[DESTINATION]</EM4> and I’ll make sure you get a cut of the sale.\\n\\n-Twitch",
-      "tr": "Um dos meus transportadores teve problema em <EM4>[LOCATION]</EM4> e teve que abandonar a nave. Preciso que vá lá com um <EM4>raio trator pesado</EM4> pra recuperar a carga e concluir o trabalho.\\n\\nEles estavam levando um bom lote de equipamentos pra mim, e a última coisa que quero é algum “herói” achar e rastrear de volta até a gente.\\n\\nSe encontrar alguém, sem conversa — atira e pega a carga. Entendido?\\n\\nLeva pro elevador de carga em <EM4>[DESTINATION]</EM4> e eu te dou sua parte na venda.\\n\\n-Twitch"
+      "tr": "Um dos meus transportadores teve problema em <EM4>[LOCATION]</EM4> e teve que abandonar a nave. Preciso que vá lá com um <EM4>Tractor Beam pesado</EM4> pra recuperar a carga e concluir o trabalho.\\n\\nEles estavam levando um bom lote de equipamentos pra mim, e a última coisa que quero é algum “herói” achar e rastrear de volta até a gente.\\n\\nSe encontrar alguém, sem conversa — atira e pega a carga. Entendido?\\n\\nLeva pro elevador de carga em <EM4>[DESTINATION]</EM4> e eu te dou sua parte na venda.\\n\\n-Twitch"
     },
     "DeadSaints_RecoverCargo_VeryHard_Description": {
       "en": "We got a situation. Some gang that no one’s heard of are trying to make a name for themselves by targeting our transport ships. They think they can make a big show of how tough they are raiding our haulers and acting like they’re big shots. Amateurs.\\n\\nProblem is, they got lucky during their last attack. Our pilot barely made it out alive, but their ship is still sitting full of supplies over at <EM4>[LOCATION]</EM4>.\\n\\nGrab a crew you can trust and your <EM4>heavy-duty tractor beam</EM4> and get your ass over there.\\n\\nAfter, drop the gear off at the freight elevator in <EM4>[DESTINATION]</EM4>. You do this for me and I’ll give you a good cut of the sale.\\n\\n-Twitch",
-      "tr": "Temos um problema. Uma gangue desconhecida tá tentando se mostrar atacando nossos transportes. Acham que podem posar de durões saqueando nossos pilotos. Amadores.\\n\\nO problema é que deram sorte no último ataque. Nosso piloto quase morreu, mas a nave ainda tá cheia de carga em <EM4>[LOCATION]</EM4>.\\n\\nMonta uma equipe de confiança, pega seu <EM4>raio trator pesado</EM4> e vai pra lá.\\n\\nDepois leva tudo pro elevador de carga em <EM4>[DESTINATION]</EM4>. Faz isso pra mim e te dou uma bela parte da venda.\\n\\n-Twitch"
+      "tr": "Temos um problema. Uma gangue desconhecida tá tentando se mostrar atacando nossos transportes. Acham que podem posar de durões saqueando nossos pilotos. Amadores.\\n\\nO problema é que deram sorte no último ataque. Nosso piloto quase morreu, mas a nave ainda tá cheia de carga em <EM4>[LOCATION]</EM4>.\\n\\nMonta uma equipe de confiança, pega seu <EM4>Tractor Beam pesado</EM4> e vai pra lá.\\n\\nDepois leva tudo pro elevador de carga em <EM4>[DESTINATION]</EM4>. Faz isso pra mim e te dou uma bela parte da venda.\\n\\n-Twitch"
     },
     "TheCollector_Ships_Firebird_Desc": {
       "en": "Been digging into Aegis Sabre ship. Firebird is very bomb-y. Good build but could make some fun change to it. If you want, I can do. Have a look and tell me. Bye.",
@@ -4657,7 +4658,7 @@
     },
     "Hockrow_FacilityDelve_P3M1_desc": {
       "en": "Hockrow Agency \\nCase File #JD10285\\nLead Investigator: Arken Mallor\\n\\nCase Update: \\nAll your digging around Onyx has paid off. I’ve been able to confirm that Jorrit has been operating an off-the-record lab in the facility’s Site-B in order to conduct an experiment he calls “Project Hyperion.” I’ll send his <EM4>lab notes to your mobiGlas journal</EM4> once you’re underway, but the long and short of it is the bastard is trying to make Humans evolve or some nonsense like that.\\n\\nThe client wants the experimental data, so you’re going back to Onyx and do everything needed to get Project Hyperion up and running. \\n\\nContract Investigator Actions:\\nPrep the experiment by collecting a <EM4>Reagent code from the Engineering wing</EM4> and a <EM4>Catalyst code from the Research wing</EM4>.\\n\\nOnce you have those, head down to the <EM4>Lab in Site-B</EM4> and <EM4>run the experiment</EM4> so you can <EM4>upload the results</EM4>.\\n\\nAdditional Notes:\\nSince this is an active lab, there might be ASD security on-site.\\n \\nTravel to Onyx in a vehicle that can be stored in a large hangar.",
-      "tr": "Agência Hockrow \\nArquivo do Caso #JD10285\\nInvestigador Principal: Arken Mallor\\n\\nAtualização do Caso: \\nToda sua investigação em Onyx valeu a pena. Consegui confirmar que Jorrit vem operando um laboratório não oficial na Site-B da instalação para conduzir um experimento que ele chama de \"Projeto Hyperion\". Vou enviar as <EM4>anotações de laboratório dele para o seu mobiGlas</EM4> assim que você estiver a caminho, mas resumindo a história, o desgraçado está tentando fazer os Humanos evoluírem ou algum nonsense desse tipo.\\n\\nO cliente quer os dados experimentais, então você vai voltar para Onyx e fazer tudo o que for necessário para colocar o Projeto Hyperion em funcionamento. \\n\\nAções do Investigador de Contrato:\\nPrepare o experimento coletando um <EM4>código de Reagente na ala de Engenharia</EM4> e um <EM4>código de Catalisador na ala de Pesquisa</EM4>.\\n\\nUma vez que você tenha esses, desça para o <EM4>Laboratório na Site-B</EM4> e <EM4>execute o experimento</EM4> para que você possa <EM4>fazer upload dos resultados</EM4>.\\n\\nNotas Adicionais:\\nComo este é um laboratório ativo, pode haver segurança da ASD no local.\\n \\nViaje para Onyx em um veículo que possa ser armazenado em um hangar grande."
+      "tr": "Agência Hockrow \\nArquivo do Caso #JD10285\\nInvestigador Principal: Arken Mallor\\n\\nAtualização do Caso: \\nToda sua investigação em Onyx valeu a pena. Consegui confirmar que Jorrit vem operando um laboratório não oficial no Site-B da instalação para conduzir um experimento que ele chama de \"Projeto Hyperion\". Vou enviar as <EM4>anotações de laboratório dele para o seu mobiGlas</EM4> assim que você estiver a caminho, mas resumindo a história, o desgraçado está tentando fazer os Humanos evoluírem ou algum nonsense desse tipo.\\n\\nO cliente quer os dados experimentais, então você vai voltar para Onyx e fazer tudo o que for necessário para colocar o Projeto Hyperion em funcionamento. \\n\\nAções do Investigador de Contrato:\\nPrepare o experimento coletando um <EM4>código de Reagente na ala de Engenharia</EM4> e um <EM4>código de Catalisador na ala de Pesquisa</EM4>.\\n\\nUma vez que você tenha esses, desça para o <EM4>Laboratório no Site-B</EM4> e <EM4>execute o experimento</EM4> para que você possa <EM4>fazer upload dos resultados</EM4>.\\n\\nNotas Adicionais:\\nComo este é um laboratório ativo, pode haver segurança da ASD no local.\\n \\nViaje para Onyx em um veículo que possa ser armazenado em um hangar grande."
     },
     "Hockrow_FacilityDelve_P2M1_desc": {
       "en": "Hockrow Agency \\nCase File #JD10285\\nLead Investigator: Arken Mallor\\n\\nCase Update: \\nReviewing Dr. Jorrit’s recent files that you uploaded to me left us with more questions than answers. While we know for a fact that the doctor had been inside Onyx, we don’t yet know the specifics of what he was doing. The client is eager for us to learn more about what exactly Jorrit’s up to, so I’m afraid you’re going to have to go back in.\\n\\nI have a few ideas on how we might be able to use the facility’s systems to pinpoint Dr. Jorrit’s activities, though you’ll have to physically bring me the data this time so we can properly analyze it. First up, are the energy sensors in Engineering. They’re still active and sensitive enough to pick up any anomalous readings.\\n\\nContract Investigator Actions:\\nExplore the <EM4>Engineering</EM4> wing and <EM4>retrieve the Energy Anomaly data</EM4> and deliver it to <EM4>[DESTINATION]</EM4>.\\n\\nAdditional Notes:\\nBe wary of possible hostile forces on site. \\n\\nTravel to Onyx in a vehicle that can be stored in a large hangar.",
@@ -4825,7 +4826,7 @@
     },
     "DeadSaints_RecoverCargo_Super_Description": {
       "en": "A rival crew was able to get their hands on our delivery routes and now they have one of my cargo ships pinned down at <EM4>[LOCATION]</EM4>.\\n\\nNow the ship’s sitting there being guarded by a full crew of these assholes. They must be waiting for someone to show up with a transport ship, but you’re going to get there first.\\n\\nHead there with a crew of your own and a <EM4>heavy-duty tractor beam</EM4> to take the goods away. Make sure they’re the best people you got. It’d be a mistake to underestimate these bastards.\\n\\nGhost them and bring my cargo back to the freight elevator at <EM4>[DESTINATION]</EM4> and I’ll make sure you’re seriously comp’d for this.\\n\\n-Twitch",
-      "tr": "Uma equipe rival conseguiu acesso às nossas rotas de entrega e agora prenderam uma das minhas naves em <EM4>[LOCATION]</EM4>.\\n\\nA nave tá lá, guardada por um bando completo desses otários. Devem estar esperando alguém aparecer com uma nave de transporte — mas você vai chegar primeiro.\\n\\nVai até lá com sua equipe e um <EM4>raio trator pesado</EM4> pra pegar as mercadorias. Leve os melhores com você. Seria burrice subestimar esses caras.\\n\\nApaga todos eles, leva a carga pro elevador de carga em <EM4>[DESTINATION]</EM4> e eu te pago muito bem por isso.\\n\\n-Twitch"
+      "tr": "Uma equipe rival conseguiu acesso às nossas rotas de entrega e agora prenderam uma das minhas naves em <EM4>[LOCATION]</EM4>.\\n\\nA nave tá lá, guardada por um bando completo desses otários. Devem estar esperando alguém aparecer com uma nave de transporte — mas você vai chegar primeiro.\\n\\nVai até lá com sua equipe e um <EM4>Tractor Beam pesado</EM4> pra pegar as mercadorias. Leve os melhores com você. Seria burrice subestimar esses caras.\\n\\nApaga todos eles, leva a carga pro elevador de carga em <EM4>[DESTINATION]</EM4> e eu te pago muito bem por isso.\\n\\n-Twitch"
     },
     "EckhartSecurity_RecoverCargo_VeryEasy_Description": {
       "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Recover Cargo\\nApproval code: = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nOne of my clients was in the process of transporting some cargo when they came under fire from a group of outlaws. We haven't been able to contact the crew onboard, but trackers indicate the cargo remains intact.\\n\\nWe need a contractor to head to <EM4>[LOCATION]</EM4>, recover the cargo, and deliver it to the freight elevator located at <EM4>[DESTINATION]</EM4>. A ship that can store <EM4>[MAX_SCU] cargo containers</EM4> and a <EM4>heavy-duty tractor beam</EM4> are essential for this. Presently, we're not detecting any hostiles, but that could change by the time you've arrived.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
@@ -4961,31 +4962,31 @@
     },
     "Covalex_HaulCargo_AtoB_desc_ToRuinStation": {
       "en": "Hiya, \\n\\nLooking for a hauler willing to make a run to Ruin Station. Know hauls to Pyro can give some people pause, but this is one we do regularly to help supply the station. I’ve also confirmed that everything on the cargo manifest is above board. \\n\\nIf you’re interested, the cargo is ready for pick up at <EM4>[LOCATION]</EM4>.  Make sure you bring a <EM4>handheld tractor beam</EM4> and a ship that can hold <EM4>24 SCU cargo containers</EM4> otherwise it might be a little rough.\\n\\nThanks in advance for ensuring prompt service,\\n\\nElla Tieno \\nJr. Logistics Coordinator \\nCovalex Shipping   \\n'Anything you need, anywhere you need it.' \\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "E aí,\\n\\nTô procurando um transportador disposto a fazer uma entrega pra Ruin Station. Sei que levar carga pra Pyro pode deixar alguns receosos, mas é uma rota que fazemos direto pra manter o posto abastecido. Já confirmei que tudo no manifesto da carga tá dentro das normas. \\n\\nSe topar, a carga tá pronta pra retirada em <EM4>[LOCATION]</EM4>. Só não esquece de levar um <EM4>raio trator portátil</EM4> e uma nave que caiba <EM4>[MAX_SCU] contêineres de carga</EM4>, senão vai ser complicado.\\n\\n[SIGN_OFF]\\n\\nElla Tieno \\nCoordenadora de Logística Jr. \\nCovalex Shipping   \\n“Tudo que você precisa, onde quer que precise.” \\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
+      "tr": "E aí,\\n\\nTô procurando um transportador disposto a fazer uma entrega pra Ruin Station. Sei que levar carga pra Pyro pode deixar alguns receosos, mas é uma rota que fazemos direto pra manter o posto abastecido. Já confirmei que tudo no manifesto da carga tá dentro das normas. \\n\\nSe topar, a carga tá pronta pra retirada em <EM4>[LOCATION]</EM4>. Só não esquece de levar um <EM4>Tractor Beam portátil</EM4> e uma nave que caiba <EM4>[MAX_SCU] contêineres de carga</EM4>, senão vai ser complicado.\\n\\n[SIGN_OFF]\\n\\nElla Tieno \\nCoordenadora de Logística Jr. \\nCovalex Shipping   \\n“Tudo que você precisa, onde quer que precise.” \\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
     },
     "Covalex_HaulCargo_AtoB_desc_DeliverAll": {
       "en": "Hiya, \\n\\nHere’s the deal, I need someone good for a special run. We’ve got an important client that’s threatening to take their business elsewhere, because their deliveries are consistently missing cargo. They’re demanding that 100% of the cargo be delivered on this run, or they won’t pay. Since this was before my time and my supervisor wants to show that it won’t happen again, they agreed with this. Anyway, I think you might be a good fit. \\n\\nIf you’re willing to take that risk too, here are all the pertinent details. The cargo can be collected from <EM4>[LOCATION]</EM4> and delivered to <EM4>[DESTINATION]</EM4>. Looks like the largest cargo container you’ll need to handle is <EM4>24 SCU</EM4>, so be sure to bring a ship big enough and a <EM4>handheld tractor beam</EM4> to help you move those containers around.  \\n \\nThanks in advance for ensuring prompt service, \\n\\nElla Tieno \\nJr. Logistics Coordinator \\nCovalex Shipping   \\n'Anything you need, anywhere you need it.'\\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "Fala aí, \\n\\nÉ o seguinte, preciso de alguém bom pra uma missão especial. Temos um cliente importante ameaçando levar o contrato pra outra empresa porque as entregas anteriores chegaram faltando carga. Eles exigiram que 100% da carga chegue nessa entrega, senão não pagam. Como isso aconteceu antes da minha gestão e meu supervisor quer provar que não vai acontecer de novo, aceitamos o desafio. Acho que você é a pessoa certa pra isso. \\n\\nSe topar o risco, aqui estão os detalhes. A carga pode ser coletada em <EM4>[LOCATION]</EM4> e entregue em <EM4>[DESTINATION]</EM4>. O maior contêiner que você vai precisar lidar é de <EM4>[MAX_SCU]</EM4>, então traga uma nave grande o bastante e um <EM4>raio trator portátil</EM4> pra ajudar a mover tudo.  \\n \\n[SIGN_OFF] \\n\\nElla Tieno \\nAssistente de Logística Jr. \\nCovalex Shipping   \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraude em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
+      "tr": "Fala aí, \\n\\nÉ o seguinte, preciso de alguém bom pra uma missão especial. Temos um cliente importante ameaçando levar o contrato pra outra empresa porque as entregas anteriores chegaram faltando carga. Eles exigiram que 100% da carga chegue nessa entrega, senão não pagam. Como isso aconteceu antes da minha gestão e meu supervisor quer provar que não vai acontecer de novo, aceitamos o desafio. Acho que você é a pessoa certa pra isso. \\n\\nSe topar o risco, aqui estão os detalhes. A carga pode ser coletada em <EM4>[LOCATION]</EM4> e entregue em <EM4>[DESTINATION]</EM4>. O maior contêiner que você vai precisar lidar é de <EM4>[MAX_SCU]</EM4>, então traga uma nave grande o bastante e um <EM4>Tractor Beam portátil</EM4> pra ajudar a mover tudo.  \\n \\n[SIGN_OFF] \\n\\nElla Tieno \\nAssistente de Logística Jr. \\nCovalex Shipping   \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraude em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
     },
     "Covalex_HaulCargo_AtoB_desc_FromRuinStation": {
       "en": "Hey, it’s El. \\n\\nGot a client at <EM4>[LOCATION]</EM4>, who needs their cargo picked up from Ruin Station. They’ve been waiting there a while and are starting to get a bit impatient. Any chance you could handle this for us? \\n\\nYou’ll need a ship that can fit <EM4>24 SCU cargo containers</EM4> and a <EM4>handheld tractor beam</EM4> to be able to move them. \\n\\nThanks in advance for ensuring prompt service,\\n\\nElla Tieno \\nJr. Logistics Coordinator \\nCovalex Shipping   \\n'Anything you need, anywhere you need it.' \\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "E aí, aqui é a El. \\n\\nTemos um cliente em <EM4>[LOCATION]</EM4> que precisa que a carga dele seja retirada da Ruin Station. Já estão esperando faz um tempo e estão ficando impacientes. Consegue dar conta disso pra gente? \\n\\nVocê vai precisar de uma nave que caiba <EM4>[MAX_SCU] contêineres de carga</EM4> e um <EM4>raio trator portátil</EM4> pra movimentá-los. \\n\\n[SIGN_OFF]\\n\\nElla Tieno \\nAssistente de Logística Jr. \\nCovalex Shipping   \\n“Tudo que você precisa, onde quer que precise.” \\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraude em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
+      "tr": "E aí, aqui é a El. \\n\\nTemos um cliente em <EM4>[LOCATION]</EM4> que precisa que a carga dele seja retirada da Ruin Station. Já estão esperando faz um tempo e estão ficando impacientes. Consegue dar conta disso pra gente? \\n\\nVocê vai precisar de uma nave que caiba <EM4>[MAX_SCU] contêineres de carga</EM4> e um <EM4>Tractor Beam portátil</EM4> pra movimentá-los. \\n\\n[SIGN_OFF]\\n\\nElla Tieno \\nAssistente de Logística Jr. \\nCovalex Shipping   \\n“Tudo que você precisa, onde quer que precise.” \\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraude em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
     },
     "Covalex_HaulCargo_AtoB_desc_FromLevski": {
       "en": "Hey there, \\n\\nSo the People’s Alliance hired us to move a load of cargo from Levski to <EM4>[DESTINATION]</EM4>. Honestly, I’m surprised that they export some of this stuff, but I guess they must sell something to be able to afford everything they import. \\n\\nFor the run itself, you’ll need a ship that can hold <EM4>24 SCU cargo containers</EM4> and a <EM4>handheld tractor beam</EM4> to handle the containers. That should be it.  \\n\\nThanks in advance for ensuring prompt service,\\n  \\nElla Tieno \\nJr. Logistics Coordinator \\nCovalex Shipping   \\n'Anything you need, anywhere you need it.' \\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "E aí, \\n\\nA People's Alliance nos contratou pra mover uma carga de Levski até <EM4>[DESTINATION]</EM4>. Pra ser sincera, tô surpresa que eles exportem esse tipo de coisa, mas acho que precisam vender algo pra bancar o que importam. \\n\\nPra esse frete, você vai precisar de uma nave que possa carregar <EM4>[MAX_SCU] contêineres de carga</EM4> e um <EM4>raio trator portátil</EM4> pra manuseá-los. É só isso.  \\n\\n[SIGN_OFF]\\n  \\nElla Tieno \\nAssistente de Logística Jr. \\nCovalex Shipping   \\n“Tudo que você precisa, onde quer que precise.” \\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraude em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
+      "tr": "E aí, \\n\\nA People's Alliance nos contratou pra mover uma carga de Levski até <EM4>[DESTINATION]</EM4>. Pra ser sincera, tô surpresa que eles exportem esse tipo de coisa, mas acho que precisam vender algo pra bancar o que importam. \\n\\nPra esse frete, você vai precisar de uma nave que possa carregar <EM4>[MAX_SCU] contêineres de carga</EM4> e um <EM4>Tractor Beam portátil</EM4> pra manuseá-los. É só isso.  \\n\\n[SIGN_OFF]\\n  \\nElla Tieno \\nAssistente de Logística Jr. \\nCovalex Shipping   \\n“Tudo que você precisa, onde quer que precise.” \\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraude em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
     },
     "Covalex_HaulCargo_AtoB_desc_ToLevski": {
       "en": "Hi, \\n\\nThere’s a bunch of cargo at <EM4>[LOCATION]</EM4> that needs to be moved to Levski. The People’s Alliance has a standing order for this stuff because they desperately need it, but it’s not easy to get in Nyx. Funny how they don’t want to be part of the UEE but still rely on us for their survival.  \\n\\nAnyway, you’ll need a <EM4>handheld tractor beam</EM4> and a ship that can hold <EM4>24 SCU cargo containers</EM4> to knock this one out. \\n\\nThanks in advance for ensuring prompt service, \\n \\nElla Tieno \\nJr. Logistics Coordinator \\nCovalex Shipping   \\n'Anything you need, anywhere you need it.' \\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "Oi,\\n\\nTem uma carga em <EM4>[LOCATION]</EM4> que precisa ser levada pra Levski. A People's Alliance tem um pedido fixo desse material porque tão precisando muito, mas não é fácil conseguir isso em Nyx. Engraçado como eles não querem fazer parte da UEE, mas ainda dependem da gente pra sobreviver.  \\n\\nEnfim, você vai precisar de um <EM4>raio trator portátil</EM4> e de uma nave que possa carregar <EM4>[MAX_SCU] contêineres de carga</EM4> pra dar conta desse frete. \\n\\n[SIGN_OFF] \\n \\nElla Tieno \\nCoordenadora de Logística Jr. \\nCovalex Shipping   \\n“Tudo que você precisa, onde quer que precise.” \\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
+      "tr": "Oi,\\n\\nTem uma carga em <EM4>[LOCATION]</EM4> que precisa ser levada pra Levski. A People's Alliance tem um pedido fixo desse material porque tão precisando muito, mas não é fácil conseguir isso em Nyx. Engraçado como eles não querem fazer parte da UEE, mas ainda dependem da gente pra sobreviver.  \\n\\nEnfim, você vai precisar de um <EM4>Tractor Beam portátil</EM4> e de uma nave que possa carregar <EM4>[MAX_SCU] contêineres de carga</EM4> pra dar conta desse frete. \\n\\n[SIGN_OFF] \\n \\nElla Tieno \\nCoordenadora de Logística Jr. \\nCovalex Shipping   \\n“Tudo que você precisa, onde quer que precise.” \\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
     },
     "Covalex_HaulCargo_SingleToMulti_desc_ToCFP_Danger": {
       "en": "Hi, \\n\\nSeveral Citizens for Prosperity outposts in Pyro need supplies. It seems like we regularly do runs like this for them, but this one looks like it might be a bit riskier. A CFP rep let me know that outlaw activity around these sites has spiked recently, but they desperately need these outposts restocked, so we’re going ahead with the delivery. <EM4>Just a head’s up that you could run into trouble, so come prepared</EM4>.       \\n\\nAll the cargo’s waiting at <EM4>[LOCATION]</EM4> and here’s where it’s heading:  \\n\\nDROP OFF LOCATIONS (ANY ORDER) \\n\\n[SINGLETOMULTITOKEN]  \\n\\nAccording to the manifest, the largest cargo container you’ll need to deal with is <EM4>16 SCU</EM4>. Aside from that, remember to bring a <EM4>handheld tractor beam</EM4> along.    \\n\\nThanks in advance for ensuring prompt service, \\n  \\nElla Tieno \\nJr. Logistics Coordinator \\nCovalex Shipping   \\n'Anything you need, anywhere you need it.'\\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "Oi,\\n\\nAlguns postos da Citizens for Prosperity em Pyro tão precisando de suprimentos. Parece que fazemos entregas pra eles com frequência, mas essa aqui tá um pouco mais arriscada. Um representante da CFP avisou que a atividade de fora-da-lei na área aumentou bastante, mas eles precisam muito desse reabastecimento, então vamos seguir em frente com a entrega. <EM4>Só um aviso: você pode encontrar problema no caminho, então vá preparado</EM4>.       \\n\\nToda a carga tá esperando em <EM4>[LOCATION]</EM4> e aqui estão os destinos:  \\n\\nLOCAIS DE ENTREGA (QUALQUER ORDEM) \\n\\n[SINGLETOMULTITOKEN]  \\n\\nSegundo o manifesto, o maior contêiner que você vai lidar é de <EM4>[MAX_SCU]</EM4>. Além disso, não esquece de levar um <EM4>raio trator portátil</EM4> junto.    \\n\\n[SIGN_OFF] \\n  \\nElla Tieno \\nCoordenadora de Logística Jr. \\nCovalex Shipping   \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
+      "tr": "Oi,\\n\\nAlguns postos da Citizens for Prosperity em Pyro tão precisando de suprimentos. Parece que fazemos entregas pra eles com frequência, mas essa aqui tá um pouco mais arriscada. Um representante da CFP avisou que a atividade de fora-da-lei na área aumentou bastante, mas eles precisam muito desse reabastecimento, então vamos seguir em frente com a entrega. <EM4>Só um aviso: você pode encontrar problema no caminho, então vá preparado</EM4>.       \\n\\nToda a carga tá esperando em <EM4>[LOCATION]</EM4> e aqui estão os destinos:  \\n\\nLOCAIS DE ENTREGA (QUALQUER ORDEM) \\n\\n[SINGLETOMULTITOKEN]  \\n\\nSegundo o manifesto, o maior contêiner que você vai lidar é de <EM4>[MAX_SCU]</EM4>. Além disso, não esquece de levar um <EM4>Tractor Beam portátil</EM4> junto.    \\n\\n[SIGN_OFF] \\n  \\nElla Tieno \\nCoordenadora de Logística Jr. \\nCovalex Shipping   \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
     },
     "Covalex_HaulCargo_SingleToMulti_desc_Valakkar_Timed": {
       "en": "Hi, \\n\\nOur client took down a Valakkar and processed it into organics. They've got buyers lined up and waiting for the stuff at a few different locations, so I need someone to go to <EM4>[LOCATION]</EM4>, grab it all, and then deliver it to the following spots:    \\n\\nDROP OFF LOCATIONS (ANY ORDER) \\n\\n[SINGLETOMULTITOKEN]  \\n\\nAccording to the manifest, the largest cargo container you’ll need to deal with is <EM4>16 SCU</EM4>. Don’t forget to bring your <EM4>handheld tractor beam</EM4>. Not sure how you’d move this stuff without it.    \\n\\nThanks in advance for ensuring prompt service,   \\n\\nElla Tieno \\nJr. Logistics Coordinator \\nCovalex Shipping   \\n'Anything you need, anywhere you need it.'\\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "Oi,\\n\\nNosso cliente abateu um Valakkar e processou em material orgânico. Já tem compradores esperando por isso em alguns locais diferentes, então preciso de alguém pra ir até <EM4>[LOCATION]</EM4>, pegar tudo e fazer as entregas nesses pontos:    \\n\\nLOCAIS DE ENTREGA (QUALQUER ORDEM) \\n\\n[SINGLETOMULTITOKEN]  \\n\\nSegundo o manifesto, o maior contêiner que você vai lidar é de <EM4>[MAX_SCU]</EM4>. E não esquece o <EM4>raio trator portátil</EM4> — sem ele, vai ser difícil mover essa carga.    \\n\\n[SIGN_OFF]   \\n\\nElla Tieno \\nCoordenadora de Logística Jr. \\nCovalex Shipping   \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
+      "tr": "Oi,\\n\\nNosso cliente abateu um Valakkar e processou em material orgânico. Já tem compradores esperando por isso em alguns locais diferentes, então preciso de alguém pra ir até <EM4>[LOCATION]</EM4>, pegar tudo e fazer as entregas nesses pontos:    \\n\\nLOCAIS DE ENTREGA (QUALQUER ORDEM) \\n\\n[SINGLETOMULTITOKEN]  \\n\\nSegundo o manifesto, o maior contêiner que você vai lidar é de <EM4>[MAX_SCU]</EM4>. E não esquece o <EM4>Tractor Beam portátil</EM4> — sem ele, vai ser difícil mover essa carga.    \\n\\n[SIGN_OFF]   \\n\\nElla Tieno \\nCoordenadora de Logística Jr. \\nCovalex Shipping   \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
     },
     "BHG_Certification_Super_Desc": {
       "en": "--------------------------------------------------------\\n----------------- BOUNTY CONTRACT -----------------\\n--------------------------------------------------------\\n\\nBOUNTY HUNTERS GUILD\\nPROCESSING & DISTRIBUTION\\n\\nThe Bounty Hunters Guild has authorized an official bounty.\\n\\nNAME: [TARGET] \\nSYSTEM: [SYSTEM] \\nRISK ASSESSMENT: Extreme\\nLAST KNOWN LOCATION: [LOCATION]\\nKNOWN AFFILIATIONS: <None>\\nNOTES: As acknowledgment of your expertise in the craft, the Bounty Hunters Guild would like to offer you the chance to earn a Master Tracker License.\\n\\nThis license would signify that you are qualified to track and apprehend Extreme-Risk Targets (ERT). These are criminals who travel in sub-capital ships with heavy escorts. This class of bounty only gets assigned to the most experienced of trackers.\\n\\nTo successfully complete this certification process, you must apprehend an ERT ranked criminal by the name of <EM4>[TARGET]</EM4> last seen at <EM4>[LOCATION]</EM4>.\\n\\nBOUNTY HUNTERS GUILD\\nIn Pursuit of Justice\\n\\nThe Bounty Hunters Guild is a security service sanctioned by the Mercenary Guild and authorized to operate in both the UEE and beyond in accordance with Xenotrade Authority Acts.",
@@ -5161,7 +5162,7 @@
     },
     "Covalex_HaulCargo_AToB_Intro_desc": {
       "en": "Earning such accolades as 'Imperial Finances' Top 10 Shipping Companies' and 'Delivery Digest's 2945's Most Trusted Transport,' Covalex is busier than ever. And that means more cargo going to more places. That's where you come in.  \\n\\nCovalex is looking for dependable and industrious pilots to join our expanding family. Do you have access to a ship that can hold <EM4>1 SCU cargo containers</EM4>? Can you pass an Advocacy background check if required? Then a universe of opportunity is waiting for you. \\n\\nSimply complete an 'Evaluation Trial’ by picking up a shipment of <EM4>Quartz</EM4> from a freight elevator at <EM4>[LOCATION]</EM4> and successfully delivering it to a freight elevator at <EM4>[DESTINATION]</EM4>.\\n\\nUpon satisfactory completion, you'll be eligible to become part of Covalex Shipping's vast network of independent transport specialists*.\\n\\nBy the way, we strongly encourage contractors to bring a <EM4>handheld tractor beam</EM4> along.   \\n\\nCovalex Shipping  \\n'Anything you need, anywhere you need it.'\\n\\n*Covalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "Ganhando prêmios como “Top 10 Empresas de Transporte da Imperial Finances” e “Transporte Mais Confiável de 2945 pela Delivery Digest”, a Covalex está mais ocupada do que nunca. E isso significa mais carga indo para mais lugares. É aí que você entra.  \\n\\nA Covalex está procurando pilotos confiáveis e trabalhadores para se juntar à nossa família em expansão. Você tem acesso a uma nave que pode carregar <EM4>[MAX_SCU] contêineres de carga</EM4>? Consegue passar por uma checagem de antecedentes da Advocacy se for necessário? Então, um universo de oportunidades está esperando por você. \\n\\nBasta completar um “Teste de Avaliação” pegando uma carga de <EM4>[ITEM]</EM4> em um elevador de carga em <EM4>[LOCATION]</EM4> e entregando com sucesso em um elevador de carga em <EM4>[DESTINATION]</EM4>.\\n\\nApós a conclusão satisfatória, você estará apto a fazer parte da vasta rede de especialistas independentes em transporte da Covalex Shipping*.\\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>raio trator portátil</EM4> com eles.   \\n\\n\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\n*A Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraude em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
+      "tr": "Ganhando prêmios como “Top 10 Empresas de Transporte da Imperial Finances” e “Transporte Mais Confiável de 2945 pela Delivery Digest”, a Covalex está mais ocupada do que nunca. E isso significa mais carga indo para mais lugares. É aí que você entra.  \\n\\nA Covalex está procurando pilotos confiáveis e trabalhadores para se juntar à nossa família em expansão. Você tem acesso a uma nave que pode carregar <EM4>[MAX_SCU] contêineres de carga</EM4>? Consegue passar por uma checagem de antecedentes da Advocacy se for necessário? Então, um universo de oportunidades está esperando por você. \\n\\nBasta completar um “Teste de Avaliação” pegando uma carga de <EM4>[ITEM]</EM4> em um elevador de carga em <EM4>[LOCATION]</EM4> e entregando com sucesso em um elevador de carga em <EM4>[DESTINATION]</EM4>.\\n\\nApós a conclusão satisfatória, você estará apto a fazer parte da vasta rede de especialistas independentes em transporte da Covalex Shipping*.\\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>Tractor Beam portátil</EM4> com eles.   \\n\\n\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\n*A Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraude em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
     },
     "foxwell_DefendShip_M_desc_001": {
       "en": "Got an orange level contract for any available combat pilots. A [SHIP] is under attack around [LOCATION] and is in desperate need for assistance. We're not sure how many perpetrators there are, but they seem motivated and dangerous so exercise caution.\\n\\nOnce on site, engage and destroy any hostiles you encounter and protect the client. Once they've transferred the credits, we'll route you your payment.\\n\\nMarcus Clenn\\nFoxwell Enforcement\\n'Security, Your Way'\\n\\nFoxwell Enforcement is a bonded security specialist licensed to operate throughout the UEE. We are always looking for new operators to join our family. If you or anyone you know is interested, please reach out to one of our contract representatives.",
@@ -5657,35 +5658,35 @@
     },
     "Adagio_Industrial_Component_Salvage_Levski_H_Desc_001": {
       "en": "Adagio Holdings\\nA Proud Equal Opportunity Employer\\n\\n> About the job <\\nTo help satisfy a recent special order, we are seeking contractors to help source Recycled Material Composite (RMC), unrefined Construction Materials (Rubble, Pieces, or Salvage), and components by stripping and fracturing abandoned ships; removing the requested parts by hand with a <EM4>tractor beam</EM4>.  \\n\\nWe recommend searching for wreckage at Lagrange points, maybe in one of Nyx's asteroid belts, or you could purchase a salvage claim from us in your Contract Manager. We advise extra caution since there have been Vanduul sightings in the system, especially with how long it might take for you to track down this specific order.  \\n\\nOnce acquired, deliver the materials to the freight elevator located at <EM4>[DESTINATION]</EM4>.\\n\\nFor advice on salvaging, consult <EM4>A Salvager's Guide to Material Collection</EM4> in your mobiGlas journal.\\n\\n> Requirements <\\n     - Any class/size of salvage ship\\n     - A handheld tractor beam\\n\\n> Disclaimer <\\nContractors are responsible for ensuring that they are collecting materials from vehicles that are considered fair salvage under the pursuant UEE laws. Adagio Holdings is in no way liable for any crimes or misdemeanors committed by contractors and will offer no compensation or reparation for any persons affected by these actions.",
-      "tr": "Adagio Holdings\\nUm Orgulhoso Empregador de Oportunidades Iguais\\n\\n> Sobre o trabalho <\\nPara dar conta de um pedido especial recente, estamos procurando contratados para ajudar a obter Compósito de Material Reciclado (RMC), Materiais de Construção não refinados (Entulho, Peças ou Salvado) e componentes, desmontando e fraturando naves abandonadas; removendo as peças solicitadas manualmente com um <EM4>Tractor Beam</EM4>.  \\n\\nRecomendamos procurar destroços em pontos de Lagrange, talvez em um dos cinturões de asteroides de Nyx, ou você pode comprar uma reivindicação de sucateamento conosco no seu Gerenciador de Contratos. Aconselhamos cautela extra, já que houve avistamentos de Vanduul no sistema, principalmente considerando o tempo que pode levar para rastrear esse pedido específico.  \\n\\nDepois de adquirir, entregue os materiais no elevador de carga localizado em <EM4>[DESTINATION]</EM4>.\\n\\nPara dicas sobre sucateamento, consulte <EM4>Guia do Sucateiro para Coleta de Materiais</EM4> no seu diário do mobiGlas.\\n\\n> Requisitos <\\n     - Qualquer classe/tamanho de nave de sucateamento\\n     - Um tractor beam portátil\\n\\n> Aviso Legal <\\nOs contratados são responsáveis por garantir que estão coletando materiais de veículos considerados sucateamento legítimo conforme as leis vigentes da UEE. A Adagio Holdings não se responsabiliza por quaisquer crimes ou contravenções cometidos pelos contratados e não oferecerá compensação ou reparação a quaisquer pessoas afetadas por essas ações."
+      "tr": "Adagio Holdings\\nUm Orgulhoso Empregador de Oportunidades Iguais\\n\\n> Sobre o trabalho <\\nPara dar conta de um pedido especial recente, estamos procurando contratados para ajudar a obter Compósito de Material Reciclado (RMC), Materiais de Construção não refinados (Rubble, Pieces, ou Salvage) e componentes, desmontando e fraturando naves abandonadas; removendo as peças solicitadas manualmente com um <EM4>Tractor Beam</EM4>.  \\n\\nRecomendamos procurar destroços em pontos de Lagrange, talvez em um dos cinturões de asteroides de Nyx, ou você pode comprar uma reivindicação de sucateamento conosco no seu Gerenciador de Contratos. Aconselhamos cautela extra, já que houve avistamentos de Vanduul no sistema, principalmente considerando o tempo que pode levar para rastrear esse pedido específico.  \\n\\nDepois de adquirir, entregue os materiais no elevador de carga localizado em <EM4>[DESTINATION]</EM4>.\\n\\nPara dicas sobre sucateamento, consulte <EM4>Guia do Sucateiro para Coleta de Materiais</EM4> no seu diário do mobiGlas.\\n\\n> Requisitos <\\n     - Qualquer classe/tamanho de nave de sucateamento\\n     - Um tractor beam portátil\\n\\n> Aviso Legal <\\nOs contratados são responsáveis por garantir que estão coletando materiais de veículos considerados sucateamento legítimo conforme as leis vigentes da UEE. A Adagio Holdings não se responsabiliza por quaisquer crimes ou contravenções cometidos pelos contratados e não oferecerá compensação ou reparação a quaisquer pessoas afetadas por essas ações."
     },
     "Adagio_Industrial_Component_Salvage_Pyro_H_Desc_001": {
       "en": "Adagio Holdings\\nA Proud Equal Opportunity Employer\\n\\n> About the job <\\nTo help satisfy a recent special order, we are seeking contractors to help source Recycled Material Composite (RMC), unrefined Construction Materials (Rubble, Pieces, or Salvage), and components by stripping and fracturing abandoned ships; removing the requested parts by hand with a <EM4>tractor beam</EM4>. \\n\\nWe recommend searching for wreckage at Lagrange points or you could purchase a salvage claim from us in your Contract Manager. This request probably won't be as easy to satisfy as our normal contracts, partly in thanks to how many outlaws are flying around in Pyro and partly because this request isn't for your average everyday component. But lucky for you, the extra effort will be rewarded.\\n\\nOnce acquired, deliver the materials to the freight elevator located at <EM4>[DESTINATION]</EM4>.\\n\\nFor advice on salvaging, consult <EM4>A Salvager's Guide to Material Collection</EM4> in your mobiGlas journal.\\n\\n> Requirements <\\n     - Any class/size of salvage ship\\n     - A handheld tractor beam\\n\\n> Disclaimer <\\nContractors are responsible for ensuring that they are collecting materials from vehicles that are considered fair salvage under the pursuant UEE laws. Adagio Holdings is in no way liable for any crimes or misdemeanors committed by contractors and will offer no compensation or reparation for any persons affected by these actions.",
-      "tr": "Adagio Holdings\\nUm Orgulhoso Empregador de Oportunidades Iguais\\n\\n> Sobre o trabalho <\\nPara dar conta de um pedido especial recente, estamos procurando contratados para ajudar a obter Compósito de Material Reciclado (RMC), Materiais de Construção não refinados (Entulho, Peças ou Salvado) e componentes, desmontando e fraturando naves abandonadas; removendo as peças solicitadas manualmente com um <EM4>Tractor Beam</EM4>. \\n\\nRecomendamos procurar destroços em pontos de Lagrange ou você pode comprar uma reivindicação de sucateamento conosco no seu Gerenciador de Contratos. Esse pedido provavelmente não vai ser tão moleza quanto nossos contratos normais, em parte pela quantidade de fora da lei voando por Pyro e em parte porque esse pedido não é de um componente qualquer do dia a dia. Mas a boa notícia é que o esforço extra vai valer a pena.\\n\\nDepois de adquirir, entregue os materiais no elevador de carga localizado em <EM4>[DESTINATION]</EM4>.\\n\\nPara dicas sobre sucateamento, consulte <EM4>Guia do Sucateiro para Coleta de Materiais</EM4> no seu diário do mobiGlas.\\n\\n> Requisitos <\\n     - Qualquer classe/tamanho de nave de sucateamento\\n     - Um tractor beam portátil\\n\\n> Aviso Legal <\\nOs contratados são responsáveis por garantir que estão coletando materiais de veículos considerados sucateamento legítimo conforme as leis vigentes da UEE. A Adagio Holdings não se responsabiliza por quaisquer crimes ou contravenções cometidos pelos contratados e não oferecerá compensação ou reparação a quaisquer pessoas afetadas por essas ações."
+      "tr": "Adagio Holdings\\nUm Orgulhoso Empregador de Oportunidades Iguais\\n\\n> Sobre o trabalho <\\nPara dar conta de um pedido especial recente, estamos procurando contratados para ajudar a obter Compósito de Material Reciclado (RMC), Materiais de Construção não refinados (Rubble, Pieces, ou Salvage) e componentes, desmontando e fraturando naves abandonadas; removendo as peças solicitadas manualmente com um <EM4>Tractor Beam</EM4>. \\n\\nRecomendamos procurar destroços em pontos de Lagrange ou você pode comprar uma reivindicação de sucateamento conosco no seu Gerenciador de Contratos. Esse pedido provavelmente não vai ser tão moleza quanto nossos contratos normais, em parte pela quantidade de fora da lei voando por Pyro e em parte porque esse pedido não é de um componente qualquer do dia a dia. Mas a boa notícia é que o esforço extra vai valer a pena.\\n\\nDepois de adquirir, entregue os materiais no elevador de carga localizado em <EM4>[DESTINATION]</EM4>.\\n\\nPara dicas sobre sucateamento, consulte <EM4>Guia do Sucateiro para Coleta de Materiais</EM4> no seu diário do mobiGlas.\\n\\n> Requisitos <\\n     - Qualquer classe/tamanho de nave de sucateamento\\n     - Um tractor beam portátil\\n\\n> Aviso Legal <\\nOs contratados são responsáveis por garantir que estão coletando materiais de veículos considerados sucateamento legítimo conforme as leis vigentes da UEE. A Adagio Holdings não se responsabiliza por quaisquer crimes ou contravenções cometidos pelos contratados e não oferecerá compensação ou reparação a quaisquer pessoas afetadas por essas ações."
     },
     "Adagio_Industrial_Component_Salvage_Stanton_H_Desc_001": {
       "en": "Adagio Holdings\\nA Proud Equal Opportunity Employer\\n\\n> About the job <\\nTo help satisfy a recent special order, we are seeking contractors to help source Recycled Material Composite (RMC), unrefined Construction Materials (Rubble, Pieces, or Salvage), and components by stripping and fracturing abandoned ships; removing the requested parts by hand with a <EM4>tractor beam</EM4>.  \\n\\nWe recommend searching for wreckage at Lagrange points or you could purchase a salvage claim from us in your Contract Manager. This request probably won't be as easy to satisfy as our normal contracts, even with the amount of ships buzzing through a system as populated as Stanton, so don't be surprised if you have to put a bit more effort into hunting down what's needed.\\n\\nOnce acquired, deliver the materials to the freight elevator located at <EM4>[DESTINATION]</EM4>.\\n\\nFor advice on salvaging, consult <EM4>A Salvager's Guide to Material Collection</EM4> in your mobiGlas journal.\\n\\n> Requirements <\\n     - Any class/size of salvage ship\\n     - A handheld tractor beam\\n\\n> Disclaimer <\\nContractors are responsible for ensuring that they are collecting materials from vehicles that are considered fair salvage under the pursuant UEE laws. Adagio Holdings is in no way liable for any crimes or misdemeanors committed by contractors and will offer no compensation or reparation for any persons affected by these actions.",
-      "tr": "Adagio Holdings\\nUm Orgulhoso Empregador de Oportunidades Iguais\\n\\n> Sobre o trabalho <\\nPara dar conta de um pedido especial recente, estamos procurando contratados para ajudar a obter Compósito de Material Reciclado (RMC), Materiais de Construção não refinados (Entulho, Peças ou Salvado) e componentes, desmontando e fraturando naves abandonadas; removendo as peças solicitadas manualmente com um <EM4>Tractor Beam</EM4>.  \\n\\nRecomendamos procurar destroços em pontos de Lagrange ou você pode comprar uma reivindicação de sucateamento conosco no seu Gerenciador de Contratos. Esse pedido provavelmente não vai ser tão simples quanto nossos contratos normais, mesmo com a quantidade de naves circulando em um sistema tão movimentado quanto Stanton, então não estranhe se tiver que ralar um pouco mais para achar o que é preciso.\\n\\nDepois de adquirir, entregue os materiais no elevador de carga localizado em <EM4>[DESTINATION]</EM4>.\\n\\nPara dicas sobre sucateamento, consulte <EM4>Guia do Sucateiro para Coleta de Materiais</EM4> no seu diário do mobiGlas.\\n\\n> Requisitos <\\n     - Qualquer classe/tamanho de nave de sucateamento\\n     - Um tractor beam portátil\\n\\n> Aviso Legal <\\nOs contratados são responsáveis por garantir que estão coletando materiais de veículos considerados sucateamento legítimo conforme as leis vigentes da UEE. A Adagio Holdings não se responsabiliza por quaisquer crimes ou contravenções cometidos pelos contratados e não oferecerá compensação ou reparação a quaisquer pessoas afetadas por essas ações."
+      "tr": "Adagio Holdings\\nUm Orgulhoso Empregador de Oportunidades Iguais\\n\\n> Sobre o trabalho <\\nPara dar conta de um pedido especial recente, estamos procurando contratados para ajudar a obter Compósito de Material Reciclado (RMC), Materiais de Construção não refinados (Rubble, Pieces, ou Salvage) e componentes, desmontando e fraturando naves abandonadas; removendo as peças solicitadas manualmente com um <EM4>Tractor Beam</EM4>.  \\n\\nRecomendamos procurar destroços em pontos de Lagrange ou você pode comprar uma reivindicação de sucateamento conosco no seu Gerenciador de Contratos. Esse pedido provavelmente não vai ser tão simples quanto nossos contratos normais, mesmo com a quantidade de naves circulando em um sistema tão movimentado quanto Stanton, então não estranhe se tiver que ralar um pouco mais para achar o que é preciso.\\n\\nDepois de adquirir, entregue os materiais no elevador de carga localizado em <EM4>[DESTINATION]</EM4>.\\n\\nPara dicas sobre sucateamento, consulte <EM4>Guia do Sucateiro para Coleta de Materiais</EM4> no seu diário do mobiGlas.\\n\\n> Requisitos <\\n     - Qualquer classe/tamanho de nave de sucateamento\\n     - Um tractor beam portátil\\n\\n> Aviso Legal <\\nOs contratados são responsáveis por garantir que estão coletando materiais de veículos considerados sucateamento legítimo conforme as leis vigentes da UEE. A Adagio Holdings não se responsabiliza por quaisquer crimes ou contravenções cometidos pelos contratados e não oferecerá compensação ou reparação a quaisquer pessoas afetadas por essas ações."
     },
     "Adagio_Industrial_Component_Salvage_Universal_H_Desc_001": {
       "en": "Adagio Holdings\\nA Proud Equal Opportunity Employer\\n\\n> About the job <\\nTo help satisfy a recent order, we are seeking contractors to help source Recycled Material Composite (RMC), unrefined Construction Materials (Rubble, Pieces, or Salvage), and components by stripping and fracturing abandoned ships; removing the requested parts by hand with a <EM4>tractor beam</EM4>.  We recommend searching for wreckage at Lagrange points or you could purchase a salvage claim from us in your Contract Manager.\\n\\nOnce acquired, deliver the materials to the freight elevator located at <EM4>[DESTINATION]</EM4>.\\n\\nFor advice on salvaging, consult <EM4>A Salvager's Guide to Material Collection</EM4> in your mobiGlas journal.\\n\\n> Requirements <\\n     - Any class/size of salvage ship\\n     - A handheld tractor beam\\n\\n> Disclaimer <\\nContractors are responsible for ensuring that they are collecting materials from vehicles that are considered fair salvage under the pursuant UEE laws. Adagio Holdings is in no way liable for any crimes or misdemeanors committed by contractors and will offer no compensation or reparation for any persons affected by these actions.",
-      "tr": "Adagio Holdings\\nUm Orgulhoso Empregador de Oportunidades Iguais\\n\\n> Sobre o trabalho <\\nPara atender um pedido recente, estamos procurando contratados para ajudar a obter Compósito de Material Reciclado (RMC), Materiais de Construção não refinados (Entulho, Peças ou Salvado) e componentes, desmontando e fraturando naves abandonadas; retirando as peças solicitadas manualmente com um <EM4>Tractor Beam</EM4>. Recomendamos procurar destroços em pontos de Lagrange ou você pode comprar uma reivindicação de sucateamento conosco no seu Gerenciador de Contratos.\\n\\nDepois de adquirir, entregue os materiais no elevador de carga localizado em <EM4>[DESTINATION]</EM4>.\\n\\nPara dicas sobre sucateamento, consulte <EM4>Guia do Sucateiro para Coleta de Materiais</EM4> no seu diário do mobiGlas.\\n\\n> Requisitos <\\n     - Qualquer classe/tamanho de nave de sucateamento\\n     - Um tractor beam portátil\\n\\n> Aviso Legal <\\nOs contratados são responsáveis por garantir que estão coletando materiais de veículos considerados sucateamento legítimo conforme as leis vigentes da UEE. A Adagio Holdings não se responsabiliza por quaisquer crimes ou contravenções cometidos pelos contratados e não oferecerá compensação ou reparação a quaisquer pessoas afetadas por essas ações."
+      "tr": "Adagio Holdings\\nUm Orgulhoso Empregador de Oportunidades Iguais\\n\\n> Sobre o trabalho <\\nPara atender um pedido recente, estamos procurando contratados para ajudar a obter Compósito de Material Reciclado (RMC), Materiais de Construção não refinados (Rubble, Pieces, ou Salvage) e componentes, desmontando e fraturando naves abandonadas; retirando as peças solicitadas manualmente com um <EM4>Tractor Beam</EM4>. Recomendamos procurar destroços em pontos de Lagrange ou você pode comprar uma reivindicação de sucateamento conosco no seu Gerenciador de Contratos.\\n\\nDepois de adquirir, entregue os materiais no elevador de carga localizado em <EM4>[DESTINATION]</EM4>.\\n\\nPara dicas sobre sucateamento, consulte <EM4>Guia do Sucateiro para Coleta de Materiais</EM4> no seu diário do mobiGlas.\\n\\n> Requisitos <\\n     - Qualquer classe/tamanho de nave de sucateamento\\n     - Um tractor beam portátil\\n\\n> Aviso Legal <\\nOs contratados são responsáveis por garantir que estão coletando materiais de veículos considerados sucateamento legítimo conforme as leis vigentes da UEE. A Adagio Holdings não se responsabiliza por quaisquer crimes ou contravenções cometidos pelos contratados e não oferecerá compensação ou reparação a quaisquer pessoas afetadas por essas ações."
     },
     "Adagio_Industrial_Component_Salvage_Levski_M_Desc_001": {
       "en": "Adagio Holdings\\nA Proud Equal Opportunity Employer\\n\\n> About the job <\\nTo help satisfy a recent special order, we are seeking contractors to help source Recycled Material Composite (RMC), unrefined Construction Materials (Rubble, Pieces, or Salvage), and components by stripping and fracturing abandoned ships; removing the requested parts by hand with a <EM4>tractor beam</EM4>. \\n\\nWe recommend searching for wreckage at Lagrange points, maybe in one of Nyx's asteroid belts, or you could purchase a salvage claim from us in your Contract Manager. We advise extra caution since there have been Vanduul sightings in the system, especially with how long it might take for you to track down this specific order.  \\n\\nOnce acquired, deliver the materials to the freight elevator located at <EM4>[DESTINATION]</EM4>.\\n\\nFor advice on salvaging, consult <EM4>A Salvager's Guide to Material Collection</EM4> in your mobiGlas journal.\\n\\n> Requirements <\\n     - Any class/size of salvage ship\\n     - A handheld tractor beam\\n\\n> Disclaimer <\\nContractors are responsible for ensuring that they are collecting materials from vehicles that are considered fair salvage under the pursuant UEE laws. Adagio Holdings is in no way liable for any crimes or misdemeanors committed by contractors and will offer no compensation or reparation for any persons affected by these actions.",
-      "tr": "Adagio Holdings\\nUm Orgulhoso Empregador de Oportunidades Iguais\\n\\n> Sobre o trabalho <\\nPara dar conta de um pedido especial recente, estamos procurando contratados para ajudar a obter Compósito de Material Reciclado (RMC), Materiais de Construção não refinados (Entulho, Peças ou Salvado) e componentes, desmontando e fraturando naves abandonadas; removendo as peças solicitadas manualmente com um <EM4>Tractor Beam</EM4>. \\n\\nRecomendamos procurar destroços em pontos de Lagrange, talvez em um dos cinturões de asteroides de Nyx, ou você pode comprar uma reivindicação de sucateamento conosco no seu Gerenciador de Contratos. Aconselhamos cautela extra, já que houve avistamentos de Vanduul no sistema, principalmente considerando o tempo que pode levar para rastrear esse pedido específico.  \\n\\nDepois de adquirir, entregue os materiais no elevador de carga localizado em <EM4>[DESTINATION]</EM4>.\\n\\nPara dicas sobre sucateamento, consulte <EM4>Guia do Sucateiro para Coleta de Materiais</EM4> no seu diário do mobiGlas.\\n\\n> Requisitos <\\n     - Qualquer classe/tamanho de nave de sucateamento\\n     - Um tractor beam portátil\\n\\n> Aviso Legal <\\nOs contratados são responsáveis por garantir que estão coletando materiais de veículos considerados sucateamento legítimo conforme as leis vigentes da UEE. A Adagio Holdings não se responsabiliza por quaisquer crimes ou contravenções cometidos pelos contratados e não oferecerá compensação ou reparação a quaisquer pessoas afetadas por essas ações."
+      "tr": "Adagio Holdings\\nUm Orgulhoso Empregador de Oportunidades Iguais\\n\\n> Sobre o trabalho <\\nPara dar conta de um pedido especial recente, estamos procurando contratados para ajudar a obter Compósito de Material Reciclado (RMC), Materiais de Construção não refinados (Rubble, Pieces, ou Salvage) e componentes, desmontando e fraturando naves abandonadas; removendo as peças solicitadas manualmente com um <EM4>Tractor Beam</EM4>. \\n\\nRecomendamos procurar destroços em pontos de Lagrange, talvez em um dos cinturões de asteroides de Nyx, ou você pode comprar uma reivindicação de sucateamento conosco no seu Gerenciador de Contratos. Aconselhamos cautela extra, já que houve avistamentos de Vanduul no sistema, principalmente considerando o tempo que pode levar para rastrear esse pedido específico.  \\n\\nDepois de adquirir, entregue os materiais no elevador de carga localizado em <EM4>[DESTINATION]</EM4>.\\n\\nPara dicas sobre sucateamento, consulte <EM4>Guia do Sucateiro para Coleta de Materiais</EM4> no seu diário do mobiGlas.\\n\\n> Requisitos <\\n     - Qualquer classe/tamanho de nave de sucateamento\\n     - Um tractor beam portátil\\n\\n> Aviso Legal <\\nOs contratados são responsáveis por garantir que estão coletando materiais de veículos considerados sucateamento legítimo conforme as leis vigentes da UEE. A Adagio Holdings não se responsabiliza por quaisquer crimes ou contravenções cometidos pelos contratados e não oferecerá compensação ou reparação a quaisquer pessoas afetadas por essas ações."
     },
     "Adagio_Industrial_Component_Salvage_Pyro_M_Desc_001": {
       "en": "Adagio Holdings\\nA Proud Equal Opportunity Employer\\n\\n> About the job <\\nTo help satisfy a recent special order, we are seeking contractors to help source Recycled Material Composite (RMC), unrefined Construction Materials (Rubble, Pieces, or Salvage), and components by stripping and fracturing abandoned ships; removing the requested parts by hand with a <EM4>tractor beam</EM4>. \\n\\nWe recommend searching for wreckage at Lagrange points or you could purchase a salvage claim from us in your Contract Manager. This request probably won't be as easy to satisfy as our normal contracts, partly in thanks to how many outlaws are flying around in Pyro and partly because this request isn't for your average everyday component. But lucky for you, the extra effort will be rewarded.\\n\\nOnce acquired, deliver the materials to the freight elevator located at <EM4>[DESTINATION]</EM4>.\\n\\nFor advice on salvaging, consult <EM4>A Salvager's Guide to Material Collection</EM4> in your mobiGlas journal.\\n\\n> Requirements <\\n     - Any class/size of salvage ship\\n     - A handheld tractor beam\\n\\n> Disclaimer <\\nContractors are responsible for ensuring that they are collecting materials from vehicles that are considered fair salvage under the pursuant UEE laws. Adagio Holdings is in no way liable for any crimes or misdemeanors committed by contractors and will offer no compensation or reparation for any persons affected by these actions.",
-      "tr": "Adagio Holdings\\nUm Orgulhoso Empregador de Oportunidades Iguais\\n\\n> Sobre o trabalho <\\nPara dar conta de um pedido especial recente, estamos procurando contratados para ajudar a obter Compósito de Material Reciclado (RMC), Materiais de Construção não refinados (Entulho, Peças ou Salvado) e componentes, desmontando e fraturando naves abandonadas; removendo as peças solicitadas manualmente com um <EM4>Tractor Beam</EM4>. \\n\\nRecomendamos procurar destroços em pontos de Lagrange ou você pode comprar uma reivindicação de sucateamento conosco no seu Gerenciador de Contratos. Esse pedido provavelmente não vai ser tão moleza quanto nossos contratos normais, em parte pela quantidade de fora da lei voando por Pyro e em parte porque esse pedido não é de um componente qualquer do dia a dia. Mas a boa notícia é que o esforço extra vai valer a pena.\\n\\nDepois de adquirir, entregue os materiais no elevador de carga localizado em <EM4>[DESTINATION]</EM4>.\\n\\nPara dicas sobre sucateamento, consulte <EM4>Guia do Sucateiro para Coleta de Materiais</EM4> no seu diário do mobiGlas.\\n\\n> Requisitos <\\n     - Qualquer classe/tamanho de nave de sucateamento\\n     - Um tractor beam portátil\\n\\n> Aviso Legal <\\nOs contratados são responsáveis por garantir que estão coletando materiais de veículos considerados sucateamento legítimo conforme as leis vigentes da UEE. A Adagio Holdings não se responsabiliza por quaisquer crimes ou contravenções cometidos pelos contratados e não oferecerá compensação ou reparação a quaisquer pessoas afetadas por essas ações."
+      "tr": "Adagio Holdings\\nUm Orgulhoso Empregador de Oportunidades Iguais\\n\\n> Sobre o trabalho <\\nPara dar conta de um pedido especial recente, estamos procurando contratados para ajudar a obter Compósito de Material Reciclado (RMC), Materiais de Construção não refinados (Rubble, Pieces, ou Salvage) e componentes, desmontando e fraturando naves abandonadas; removendo as peças solicitadas manualmente com um <EM4>Tractor Beam</EM4>. \\n\\nRecomendamos procurar destroços em pontos de Lagrange ou você pode comprar uma reivindicação de sucateamento conosco no seu Gerenciador de Contratos. Esse pedido provavelmente não vai ser tão moleza quanto nossos contratos normais, em parte pela quantidade de fora da lei voando por Pyro e em parte porque esse pedido não é de um componente qualquer do dia a dia. Mas a boa notícia é que o esforço extra vai valer a pena.\\n\\nDepois de adquirir, entregue os materiais no elevador de carga localizado em <EM4>[DESTINATION]</EM4>.\\n\\nPara dicas sobre sucateamento, consulte <EM4>Guia do Sucateiro para Coleta de Materiais</EM4> no seu diário do mobiGlas.\\n\\n> Requisitos <\\n     - Qualquer classe/tamanho de nave de sucateamento\\n     - Um tractor beam portátil\\n\\n> Aviso Legal <\\nOs contratados são responsáveis por garantir que estão coletando materiais de veículos considerados sucateamento legítimo conforme as leis vigentes da UEE. A Adagio Holdings não se responsabiliza por quaisquer crimes ou contravenções cometidos pelos contratados e não oferecerá compensação ou reparação a quaisquer pessoas afetadas por essas ações."
     },
     "Adagio_Industrial_Component_Salvage_Stanton_M_Desc_001": {
       "en": "Adagio Holdings\\nA Proud Equal Opportunity Employer\\n\\n> About the job <\\nTo help satisfy a recent special order, we are seeking contractors to help source Recycled Material Composite (RMC), unrefined Construction Materials (Rubble, Pieces, or Salvage), and components by stripping and fracturing abandoned ships; removing the requested parts by hand with a <EM4>tractor beam</EM4>. \\n\\nWe recommend searching for wreckage at Lagrange points or you could purchase a salvage claim from us in your Contract Manager. This request probably won't be as easy to satisfy as our normal contracts, even with the amount of ships buzzing through a system as populated as Stanton, so don't be surprised if you have to put a bit more effort into hunting down what's needed.\\n\\nOnce acquired, deliver the materials to the freight elevator located at <EM4>[DESTINATION]</EM4>.\\n\\nFor advice on salvaging, consult <EM4>A Salvager's Guide to Material Collection</EM4> in your mobiGlas journal.\\n\\n> Requirements <\\n     - Any class/size of salvage ship\\n     - A handheld tractor beam\\n\\n> Disclaimer <\\nContractors are responsible for ensuring that they are collecting materials from vehicles that are considered fair salvage under the pursuant UEE laws. Adagio Holdings is in no way liable for any crimes or misdemeanors committed by contractors and will offer no compensation or reparation for any persons affected by these actions.",
-      "tr": "Adagio Holdings\\nUm Orgulhoso Empregador de Oportunidades Iguais\\n\\n> Sobre o trabalho <\\nPara dar conta de um pedido especial recente, estamos procurando contratados para ajudar a obter Compósito de Material Reciclado (RMC), Materiais de Construção não refinados (Entulho, Peças ou Salvado) e componentes, desmontando e fraturando naves abandonadas; removendo as peças solicitadas manualmente com um <EM4>Tractor Beam</EM4>. \\n\\nRecomendamos procurar destroços em pontos de Lagrange ou você pode comprar uma reivindicação de sucateamento conosco no seu Gerenciador de Contratos. Esse pedido provavelmente não vai ser tão simples quanto nossos contratos normais, mesmo com a quantidade de naves circulando em um sistema tão populoso quanto Stanton, então não estranhe se tiver que ralar um pouco mais para caçar o que é preciso.\\n\\nDepois de adquirir, entregue os materiais no elevador de carga localizado em <EM4>[DESTINATION]</EM4>.\\n\\nPara dicas sobre sucateamento, consulte <EM4>Guia do Sucateiro para Coleta de Materiais</EM4> no seu diário do mobiGlas.\\n\\n> Requisitos <\\n     - Qualquer classe/tamanho de nave de sucateamento\\n     - Um tractor beam portátil\\n\\n> Aviso Legal <\\nOs contratados são responsáveis por garantir que estão coletando materiais de veículos considerados sucateamento legítimo conforme as leis vigentes da UEE. A Adagio Holdings não se responsabiliza por quaisquer crimes ou contravenções cometidos pelos contratados e não oferecerá compensação ou reparação a quaisquer pessoas afetadas por essas ações."
+      "tr": "Adagio Holdings\\nUm Orgulhoso Empregador de Oportunidades Iguais\\n\\n> Sobre o trabalho <\\nPara dar conta de um pedido especial recente, estamos procurando contratados para ajudar a obter Compósito de Material Reciclado (RMC), Materiais de Construção não refinados (Rubble, Pieces, ou Salvage) e componentes, desmontando e fraturando naves abandonadas; removendo as peças solicitadas manualmente com um <EM4>Tractor Beam</EM4>. \\n\\nRecomendamos procurar destroços em pontos de Lagrange ou você pode comprar uma reivindicação de sucateamento conosco no seu Gerenciador de Contratos. Esse pedido provavelmente não vai ser tão simples quanto nossos contratos normais, mesmo com a quantidade de naves circulando em um sistema tão populoso quanto Stanton, então não estranhe se tiver que ralar um pouco mais para caçar o que é preciso.\\n\\nDepois de adquirir, entregue os materiais no elevador de carga localizado em <EM4>[DESTINATION]</EM4>.\\n\\nPara dicas sobre sucateamento, consulte <EM4>Guia do Sucateiro para Coleta de Materiais</EM4> no seu diário do mobiGlas.\\n\\n> Requisitos <\\n     - Qualquer classe/tamanho de nave de sucateamento\\n     - Um tractor beam portátil\\n\\n> Aviso Legal <\\nOs contratados são responsáveis por garantir que estão coletando materiais de veículos considerados sucateamento legítimo conforme as leis vigentes da UEE. A Adagio Holdings não se responsabiliza por quaisquer crimes ou contravenções cometidos pelos contratados e não oferecerá compensação ou reparação a quaisquer pessoas afetadas por essas ações."
     },
     "Adagio_Industrial_Component_Salvage_Universal_M_Desc_001": {
       "en": "Adagio Holdings\\nA Proud Equal Opportunity Employer\\n\\n> About the job <\\nTo help satisfy a recent order,we are seeking contractors to help source Recycled Material Composite (RMC), unrefined Construction Materials (Rubble, Pieces, or Salvage), and components by stripping and fracturing abandoned ships; removing the requested parts by hand with a <EM4>tractor beam</EM4>. We recommend searching for wreckage at Lagrange points or you could purchase a salvage claim from us in your Contract Manager.\\n\\nOnce acquired, deliver the materials to the freight elevator located at <EM4>[DESTINATION]</EM4>.\\n\\nFor advice on salvaging, consult <EM4>A Salvager's Guide to Material Collection</EM4> in your mobiGlas journal.\\n\\n> Requirements <\\n     - Any class/size of salvage ship\\n     - A handheld tractor beam\\n\\n> Disclaimer <\\nContractors are responsible for ensuring that they are collecting materials from vehicles that are considered fair salvage under the pursuant UEE laws. Adagio Holdings is in no way liable for any crimes or misdemeanors committed by contractors and will offer no compensation or reparation for any persons affected by these actions.",
-      "tr": "Adagio Holdings\\nUm Orgulhoso Empregador de Oportunidades Iguais\\n\\n> Sobre o trabalho <\\nPara atender um pedido recente, estamos procurando contratados para ajudar a obter Compósito de Material Reciclado (RMC), Materiais de Construção não refinados (Entulho, Peças ou Salvado) e componentes, desmontando e fraturando naves abandonadas; retirando as peças solicitadas manualmente com um <EM4>Tractor Beam</EM4>. Recomendamos procurar destroços em pontos de Lagrange ou você pode comprar uma reivindicação de sucateamento conosco no seu Gerenciador de Contratos.\\n\\nDepois de adquirir, entregue os materiais no elevador de carga localizado em <EM4>[DESTINATION]</EM4>.\\n\\nPara dicas sobre sucateamento, consulte <EM4>Guia do Sucateiro para Coleta de Materiais</EM4> no seu diário do mobiGlas.\\n\\n> Requisitos <\\n     - Qualquer classe/tamanho de nave de sucateamento\\n     - Um tractor beam portátil\\n\\n> Aviso Legal <\\nOs contratados são responsáveis por garantir que estão coletando materiais de veículos considerados sucateamento legítimo conforme as leis vigentes da UEE. A Adagio Holdings não se responsabiliza por quaisquer crimes ou contravenções cometidos pelos contratados e não oferecerá compensação ou reparação a quaisquer pessoas afetadas por essas ações."
+      "tr": "Adagio Holdings\\nUm Orgulhoso Empregador de Oportunidades Iguais\\n\\n> Sobre o trabalho <\\nPara atender um pedido recente, estamos procurando contratados para ajudar a obter Compósito de Material Reciclado (RMC), Materiais de Construção não refinados (Rubble, Pieces, ou Salvage) e componentes, desmontando e fraturando naves abandonadas; retirando as peças solicitadas manualmente com um <EM4>Tractor Beam</EM4>. Recomendamos procurar destroços em pontos de Lagrange ou você pode comprar uma reivindicação de sucateamento conosco no seu Gerenciador de Contratos.\\n\\nDepois de adquirir, entregue os materiais no elevador de carga localizado em <EM4>[DESTINATION]</EM4>.\\n\\nPara dicas sobre sucateamento, consulte <EM4>Guia do Sucateiro para Coleta de Materiais</EM4> no seu diário do mobiGlas.\\n\\n> Requisitos <\\n     - Qualquer classe/tamanho de nave de sucateamento\\n     - Um tractor beam portátil\\n\\n> Aviso Legal <\\nOs contratados são responsáveis por garantir que estão coletando materiais de veículos considerados sucateamento legítimo conforme as leis vigentes da UEE. A Adagio Holdings não se responsabiliza por quaisquer crimes ou contravenções cometidos pelos contratados e não oferecerá compensação ou reparação a quaisquer pessoas afetadas por essas ações."
     },
     "Adagio_Industrial_Salvage_Universal_M_Desc_001": {
       "en": "Adagio Holdings\\nA Proud Equal Opportunity Employer\\n\\n> About the job <\\nTo help satisfy a recent average-sized order, we are seeking contractors to help source Recycled Material Composite (RMC) by stripping abandoned ships. We recommend searching for wreckage at Lagrange points or you could purchase a salvage claim from us in your Contract Manager.\\n\\nOnce acquired, deliver the materials to the freight elevator located at <EM4>[DESTINATION]</EM4>.\\n\\nFor advice on salvaging, consult <EM4>A Salvager's Guide to Material Collection</EM4> in your mobiGlas journal.\\n\\n> Requirements <\\n     - Any class/size of salvage ship\\n\\n> Disclaimer <\\nContractors are responsible for ensuring that they are collecting materials from vehicles that are considered fair salvage under the pursuant UEE laws. Adagio Holdings is in no way liable for any crimes or misdemeanors committed by contractors and will offer no compensation or reparation for any persons affected by these actions.",
@@ -6025,7 +6026,7 @@
     },
     "DeadSaints_RecoverCargo_Hard_Description": {
       "en": "Some upstarts hit my hauling crew on their way to do a delivery. Our tracker is telling us that our ship’s still located at <EM4>[LOCATION]</EM4> so I need you to head over there and get the cargo. You’ll need <EM4>a heavy-duty tractor beam</EM4> to lug the goods from the ship.\\n\\nI’d bet that whoever attacked us is still there waiting. Arm up, bring your crew, and if you can, give them one from me.\\n\\nOnce you’ve taken back our goods, drop it off at the freight elevator located at <EM4>[DESTINATION]</EM4>.\\n\\n-Twitch",
-      "tr": "Um grupo de novatos atacou minha equipe de transporte durante uma entrega. O rastreador indica que a nave ainda tá em <EM4>[LOCATION]</EM4>, então preciso que vá até lá e recupere a carga. Vai precisar de um <EM4>raio trator pesado</EM4> pra puxar as mercadorias da nave.\\n\\nAposto que quem atacou ainda tá lá esperando. Vá armado, leve sua equipe e, se der, manda um recado da minha parte.\\n\\nDepois de recuperar tudo, deixa a carga no elevador de carga em <EM4>[DESTINATION]</EM4>.\\n\\n-Twitch"
+      "tr": "Um grupo de novatos atacou minha equipe de transporte durante uma entrega. O rastreador indica que a nave ainda tá em <EM4>[LOCATION]</EM4>, então preciso que vá até lá e recupere a carga. Vai precisar de um <EM4>Tractor Beam pesado</EM4> pra puxar as mercadorias da nave.\\n\\nAposto que quem atacou ainda tá lá esperando. Vá armado, leve sua equipe e, se der, manda um recado da minha parte.\\n\\nDepois de recuperar tudo, deixa a carga no elevador de carga em <EM4>[DESTINATION]</EM4>.\\n\\n-Twitch"
     },
     "headhunters_ChainElimAll_3C_ElimSpec_AttackXT_VH_desc_001": {
       "en": "Got a juicy assignment for any big-time enforcers who want to clear a big payday. Over at [LOCATION] we got some XenoThreat turf run by a real bastard named [TARGET]. Now if you've been in the system long enough, you've probably either heard of [TARGET] or at least seen their work. Skag has a tendency to leaves bodies wherever they go.\\n\\nAnyway, Judge wants this area swept clean, that means you gotta hit all three clusters and kill every XenoThreat dirt you find. Kill enough and [TARGET] won't be able to hide.\\n\\nTake them all out and have one on us.\\n\\nStows out.",
@@ -6441,7 +6442,7 @@
     },
     "Covalex_HaulCargo_AToB_Rehire_desc": {
       "en": "Hey,\\n\\nHave a bit of good news for you. Covalex recently finished an evaluation of our contractor pool, and decided to reconsider your status as a cargo hauler. To requalify, all you need is to successfully complete the following delivery.\\n\\nPick up <EM4>Quartz</EM4> from a freight elevator at <EM4>[LOCATION]</EM4> and deliver it to a freight elevator at <EM4>[DESTINATION]</EM4>. In order to complete this haul in a fast and efficient manner, you'll need a ship that can haul <EM4>1 SCU cargo containers</EM4>.\\n\\nHopefully everything goes smoothly so we can welcome you back to the team.\\n\\nBy the way, we strongly encourage contractors to bring a <EM4>handheld tractor beam</EM4> along.   \\n\\nCovalex Shipping  \\n'Anything you need, anywhere you need it.'\\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "E aí,\\n\\nTenho boas notícias pra você. A Covalex acabou de finalizar uma avaliação do nosso grupo de contratados e decidiu reconsiderar seu status como transportador de carga. Pra se requalificar, tudo o que precisa fazer é completar com sucesso a seguinte entrega.\\n\\nPegue <EM4>[ITEM]</EM4> em um elevador de carga em <EM4>[LOCATION]</EM4> e entregue em um elevador de carga em <EM4>[DESTINATION]</EM4>. Pra concluir esse transporte de forma rápida e eficiente, você vai precisar de uma nave que possa carregar <EM4>[MAX_SCU] contêineres de carga</EM4>.\\n\\nEspero que tudo corra tranquilo pra podermos te dar boas-vindas de volta ao time.\\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>raio trator portátil</EM4> com eles.   \\n\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraude em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
+      "tr": "E aí,\\n\\nTenho boas notícias pra você. A Covalex acabou de finalizar uma avaliação do nosso grupo de contratados e decidiu reconsiderar seu status como transportador de carga. Pra se requalificar, tudo o que precisa fazer é completar com sucesso a seguinte entrega.\\n\\nPegue <EM4>[ITEM]</EM4> em um elevador de carga em <EM4>[LOCATION]</EM4> e entregue em um elevador de carga em <EM4>[DESTINATION]</EM4>. Pra concluir esse transporte de forma rápida e eficiente, você vai precisar de uma nave que possa carregar <EM4>[MAX_SCU] contêineres de carga</EM4>.\\n\\nEspero que tudo corra tranquilo pra podermos te dar boas-vindas de volta ao time.\\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>Tractor Beam portátil</EM4> com eles.   \\n\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraude em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
     },
     "HaulCargo_AtoB_desc": {
       "en": "Hello,\\n\\nNeed a contractor for a simple cargo haul going from a freight elevator at <EM4>[LOCATION]</EM4> to a freight elevator at <EM4>[DESTINATION]</EM4>. At most the containers will be <EM4>4 SCU</EM4> in size. \\n\\nAlso, we strongly encourage contractors to bring a <EM4>handheld tractor beam</EM4> along. \\n\\nAny chance you’re available to take care of it for us?\\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nJr. Logistics Coordinator\\nCovalex Shipping  \\n'Anything you need, anywhere you need it.'\\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
@@ -6449,7 +6450,7 @@
     },
     "Covalex_HaulCargo_AToB_desc_01": {
       "en": "Hello,\\n\\nNeed a contractor for a simple cargo haul going from a freight elevator at <EM4>[LOCATION]</EM4> to a freight elevator at <EM4>[DESTINATION]</EM4>. At most the containers will be <EM4>4 SCU</EM4> in size. \\n\\nAlso, we strongly encourage contractors to bring a <EM4>handheld tractor beam</EM4> along. \\n\\nAny chance you’re available to take care of it for us?\\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nJr. Logistics Coordinator\\nCovalex Shipping  \\n'Anything you need, anywhere you need it.'\\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "Olá,\\n\\nPrecisamos de um contratado pra um transporte simples indo de um elevador de carga em <EM4>[LOCATION]</EM4> pra outro elevador de carga em <EM4>[DESTINATION]</EM4>. No máximo, os contêineres terão tamanho <EM4>[MAX_SCU]</EM4>. \\n\\nTambém recomendamos fortemente que os contratados levem um <EM4>raio trator portátil</EM4> com eles. \\n\\nTem chance de você assumir essa pra gente?\\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nAssistente de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraude em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
+      "tr": "Olá,\\n\\nPrecisamos de um contratado pra um transporte simples indo de um elevador de carga em <EM4>[LOCATION]</EM4> pra outro elevador de carga em <EM4>[DESTINATION]</EM4>. No máximo, os contêineres terão tamanho <EM4>[MAX_SCU]</EM4>. \\n\\nTambém recomendamos fortemente que os contratados levem um <EM4>Tractor Beam portátil</EM4> com eles. \\n\\nTem chance de você assumir essa pra gente?\\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nAssistente de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraude em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
     },
     "HaulCargo_MultiToSingle_desc": {
       "en": "Hello!\\n\\nThere’s a load of cargo (<EM4>32 SCU</EM4> or smaller) that needs to be delivered to a freight elevator at <EM4>[DESTINATION]</EM4>. The only thing is that the cargo is spread across a few locations, which I’ve listed out below.  \\n\\nPICK UP LOCATIONS (ANY ORDER)\\n\\n- Freight elevator at <EM4>[LOCATION]</EM4>\\n- Freight elevator at <EM4>[LOCATION1]</EM4>\\n- Freight elevator at <EM4>[LOCATION2]</EM4>\\n\\nMakes no difference what order you grab the stuff, as long as it’s all delivered.\\n\\nBy the way, we strongly encourage contractors to bring a <EM4>handheld tractor beam</EM4> along.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nJr. Logistics Coordinator\\nCovalex Shipping  \\n'Anything you need, anywhere you need it.'\\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
@@ -6457,7 +6458,7 @@
     },
     "Covalex_HaulCargo_MultiToSingle_desc_01": {
       "en": "Hello!\\n\\nThere’s a load of cargo (<EM4>32 SCU</EM4> or smaller) that needs to be delivered to a freight elevator at <EM4>[DESTINATION]</EM4>. The only thing is that the cargo is spread across a few locations, which I’ve listed out below.  \\n\\nPICK UP LOCATIONS (ANY ORDER)\\n\\n- Freight elevator at <EM4>[LOCATION]</EM4>\\n- Freight elevator at <EM4>[LOCATION1]</EM4>\\n- Freight elevator at <EM4>[LOCATION2]</EM4>\\n\\nMakes no difference what order you grab the stuff, as long as it’s all delivered.\\n\\nBy the way, we strongly encourage contractors to bring a <EM4>handheld tractor beam</EM4> along.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nJr. Logistics Coordinator\\nCovalex Shipping  \\n'Anything you need, anywhere you need it.'\\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "Olá!\\n\\nTem uma carga (<EM4>[MAX_SCU]</EM4> ou menor) que precisa ser entregue num elevador de carga em <EM4>[DESTINATION]</EM4>. O detalhe é que ela tá espalhada por alguns locais, listados abaixo.  \\n\\nLOCAIS DE COLETA (QUALQUER ORDEM)\\n\\n[MULTITOSINGLETOKEN]\\n\\nPode pegar na ordem que quiser, o importante é entregar tudo.\\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>raio trator portátil</EM4> junto.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nCoordenador de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
+      "tr": "Olá!\\n\\nTem uma carga (<EM4>[MAX_SCU]</EM4> ou menor) que precisa ser entregue num elevador de carga em <EM4>[DESTINATION]</EM4>. O detalhe é que ela tá espalhada por alguns locais, listados abaixo.  \\n\\nLOCAIS DE COLETA (QUALQUER ORDEM)\\n\\n[MULTITOSINGLETOKEN]\\n\\nPode pegar na ordem que quiser, o importante é entregar tudo.\\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>Tractor Beam portátil</EM4> junto.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nCoordenador de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
     },
     "HaulCargo_SingleToMulti_desc": {
       "en": "Greetings, \\n\\nSeems like <EM4>[LOCATION]</EM4> currently has some <EM4>16 SCU</EM4> or smaller cargo that needs to be separated and delivered to a few different spots. \\n\\nDROP OFF LOCATIONS (ANY ORDER)\\n\\n- Freight elevator at <EM4>[DESTINATION]</EM4>\\n- Freight elevator at <EM4>[DESTINATION1]</EM4>\\n- Freight elevator at <EM4>[DESTINATION2]</EM4>\\n- Freight elevator at <EM4>[DESTINATION3]</EM4>\\n\\nDrop-offs can be done in whatever order works best for you.  \\n\\nBy the way, we strongly encourage contractors to bring a <EM4>handheld tractor beam</EM4> along.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nJr. Logistics Coordinator\\nCovalex Shipping  \\n'Anything you need, anywhere you need it.'\\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
@@ -6465,51 +6466,51 @@
     },
     "Covalex_HaulCargo_SingleToMulti_desc_01": {
       "en": "Greetings, \\n\\nSeems like <EM4>[LOCATION]</EM4> currently has some <EM4>16 SCU</EM4> or smaller cargo that needs to be separated and delivered to a few different spots. \\n\\nDROP OFF LOCATIONS (ANY ORDER)\\n\\n- Freight elevator at <EM4>[DESTINATION]</EM4>\\n- Freight elevator at <EM4>[DESTINATION1]</EM4>\\n- Freight elevator at <EM4>[DESTINATION2]</EM4>\\n- Freight elevator at <EM4>[DESTINATION3]</EM4>\\n\\nDrop-offs can be done in whatever order works best for you.  \\n\\nBy the way, we strongly encourage contractors to bring a <EM4>handheld tractor beam</EM4> along.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nJr. Logistics Coordinator\\nCovalex Shipping  \\n'Anything you need, anywhere you need it.'\\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "Saudações,\\n\\nParece que <EM4>[LOCATION]</EM4> tem umas cargas de <EM4>[MAX_SCU]</EM4> ou menores que precisam ser separadas e entregues em alguns lugares diferentes. \\n\\nLOCAIS DE ENTREGA (QUALQUER ORDEM)\\n\\n[SINGLETOMULTITOKEN]\\n\\nVocê pode fazer as entregas na ordem que achar melhor.  \\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>raio trator portátil</EM4> junto.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nCoordenador de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
+      "tr": "Saudações,\\n\\nParece que <EM4>[LOCATION]</EM4> tem umas cargas de <EM4>[MAX_SCU]</EM4> ou menores que precisam ser separadas e entregues em alguns lugares diferentes. \\n\\nLOCAIS DE ENTREGA (QUALQUER ORDEM)\\n\\n[SINGLETOMULTITOKEN]\\n\\nVocê pode fazer as entregas na ordem que achar melhor.  \\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>Tractor Beam portátil</EM4> junto.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nCoordenador de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
     },
     "Covalex_HaulCargo_MultiToSingle_Waste_Waste_Stanton1": {
       "en": "Hi,\\n\\nNeed the trash collected from a few Hurston locations and then taken to a freight elevator at <EM4>[DESTINATION]</EM4>. Don't worry, none of the containers are bigger than <EM4>1 SCU</EM4>.\\n\\nPICK UP LOCATIONS (ANY ORDER)\\n\\n- Freight elevator at <EM4>[LOCATION]</EM4>\\n- Freight elevator at <EM4>[LOCATION1]</EM4>\\n\\nFun fact for you. Hurston is the only planet in Stanton that doesn’t separate their trash and scrap. One of their workers told me that the company did a cost-benefit analysis on it decades ago that determined it wasn’t worth putting a planet-wide system in place to facilitate it. Isn’t that the most Hurston thing ever?   \\n\\nBy the way, we strongly encourage contractors to bring a <EM4>handheld tractor beam</EM4> along.   \\n\\nThanks in advance for ensuring prompt service,\\n\\nChase Hewitt\\nJr. Logistics Coordinator\\nCovalex Shipping  \\n'Anything you need, anywhere you need it.'\\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "Oi,\\n\\nPrecisamos que o lixo seja recolhido de alguns locais da Hurston e levado até o elevador de carga em <EM4>[DESTINATION]</EM4>. Pode ficar tranquilo, nenhum contêiner é maior que <EM4>[MAX_SCU]</EM4>.\\n\\nLOCAIS DE COLETA (QUALQUER ORDEM)\\n\\n[MULTITOSINGLETOKEN]\\n\\nCuriosidade: Hurston é o único planeta em Stanton que não separa lixo e sucata. Um dos funcionários me contou que décadas atrás fizeram uma análise de custo-benefício e decidiram que não valia a pena implementar um sistema planetário pra isso. Bem a cara da Hurston, né?   \\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>raio trator portátil</EM4> junto.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nCoordenador de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
+      "tr": "Oi,\\n\\nPrecisamos que o lixo seja recolhido de alguns locais da Hurston e levado até o elevador de carga em <EM4>[DESTINATION]</EM4>. Pode ficar tranquilo, nenhum contêiner é maior que <EM4>[MAX_SCU]</EM4>.\\n\\nLOCAIS DE COLETA (QUALQUER ORDEM)\\n\\n[MULTITOSINGLETOKEN]\\n\\nCuriosidade: Hurston é o único planeta em Stanton que não separa lixo e sucata. Um dos funcionários me contou que décadas atrás fizeram uma análise de custo-benefício e decidiram que não valia a pena implementar um sistema planetário pra isso. Bem a cara da Hurston, né?   \\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>Tractor Beam portátil</EM4> junto.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nCoordenador de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
     },
     "Covalex_HaulCargo_SingleToMulti_Processed_Mixed_QTFuelHydroFuelShipAmmo": {
       "en": "Hey,\\n\\nThe folks at <EM4>[LOCATION]</EM4> have what I like to call a “pilot’s special” waiting to be distributed - a haul of quantum fuel, hydrogen fuel, and ship ammo. Load it up from a freight elevator and deliver it to the following spots in whatever order works best for you. Expect the containers to all be <EM4>16 SCU</EM4> or smaller.   \\n\\nDROP OFF LOCATIONS (ANY ORDER)\\n\\n- Freight elevator at <EM4>[DESTINATION]</EM4>\\n- Freight elevator at <EM4>[DESTINATION1]</EM4>\\n- Freight elevator at <EM4>[DESTINATION2]</EM4>\\n- Freight elevator at <EM4>[DESTINATION3]</EM4> \\n\\nBy the way, we strongly encourage contractors to bring a <EM4>handheld tractor beam</EM4> along.   \\n\\nThanks in advance for ensuring prompt service,\\n\\nChase Hewitt\\nJr. Logistics Coordinator\\nCovalex Shipping  \\n'Anything you need, anywhere you need it.'\\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "E aí,\\n\\nO pessoal de <EM4>[LOCATION]</EM4> tem o que eu gosto de chamar de “combo do piloto” pronto pra distribuir — um carregamento de combustível quântico, hidrogênio e munição de nave. É só carregar tudo no elevador de carga e entregar nos seguintes pontos, na ordem que for melhor pra você. Todos os contêineres são de <EM4>[MAX_SCU]</EM4> ou menores.   \\n\\nLOCAIS DE ENTREGA (QUALQUER ORDEM)\\n\\n[SINGLETOMULTITOKEN] \\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>raio trator portátil</EM4> junto.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nCoordenador de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
+      "tr": "E aí,\\n\\nO pessoal de <EM4>[LOCATION]</EM4> tem o que eu gosto de chamar de “combo do piloto” pronto pra distribuir — um carregamento de combustível quântico, hidrogênio e munição de nave. É só carregar tudo no elevador de carga e entregar nos seguintes pontos, na ordem que for melhor pra você. Todos os contêineres são de <EM4>[MAX_SCU]</EM4> ou menores.   \\n\\nLOCAIS DE ENTREGA (QUALQUER ORDEM)\\n\\n[SINGLETOMULTITOKEN] \\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>Tractor Beam portátil</EM4> junto.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nCoordenador de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
     },
     "Covalex_HaulCargo_MultiToSingle_desc_ScrapWaste_Stanton3": {
       "en": "Hi there,\\n\\nThere’s a few sites on ArcCorp that need their waste and scrap collected (all boxes <EM4>4 SCU</EM4> or smaller) and taken to a freight elevator at <EM4>[DESTINATION]</EM4>. Doesn’t matter what order you do the run, as long as you grab it all.    \\n\\nPICK UP LOCATIONS (ANY ORDER)\\n\\n- Freight elevator at <EM4>[LOCATION]</EM4>\\n- Freight elevator at <EM4>[LOCATION1]</EM4>\\n\\nYou know, my mom was a hauler who specialized in runs like this. It might not be the most glamorous stuff, but she claimed these runs had the best pay-to-risk ratio. Pirates never gave her any trouble when they found out what was on board.  \\n\\nBy the way, we strongly encourage contractors to bring a <EM4>handheld tractor beam</EM4> along.   \\n\\nThanks in advance for ensuring prompt service,\\n\\nChase Hewitt\\nJr. Logistics Coordinator\\nCovalex Shipping  \\n'Anything you need, anywhere you need it.'\\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "Oi,\\n\\nTem alguns pontos em ArcCorp que precisam recolher lixo e sucata (todas as caixas <EM4>[MAX_SCU]</EM4> ou menores) e levar até o elevador de carga em <EM4>[DESTINATION]</EM4>. Não importa a ordem, contanto que recolha tudo.    \\n\\nLOCAIS DE COLETA (QUALQUER ORDEM)\\n\\n[MULTITOSINGLETOKEN]\\n\\nSabia que minha mãe era transportadora especializada nesse tipo de rota? Pode não ser o serviço mais glamuroso, mas ela jurava que era o melhor equilíbrio entre risco e pagamento. Piratas nem se davam ao trabalho quando viam o que ela tava levando.  \\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>raio trator portátil</EM4> junto.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nCoordenador de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
+      "tr": "Oi,\\n\\nTem alguns pontos em ArcCorp que precisam recolher lixo e sucata (todas as caixas <EM4>[MAX_SCU]</EM4> ou menores) e levar até o elevador de carga em <EM4>[DESTINATION]</EM4>. Não importa a ordem, contanto que recolha tudo.    \\n\\nLOCAIS DE COLETA (QUALQUER ORDEM)\\n\\n[MULTITOSINGLETOKEN]\\n\\nSabia que minha mãe era transportadora especializada nesse tipo de rota? Pode não ser o serviço mais glamuroso, mas ela jurava que era o melhor equilíbrio entre risco e pagamento. Piratas nem se davam ao trabalho quando viam o que ela tava levando.  \\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>Tractor Beam portátil</EM4> junto.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nCoordenador de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
     },
     "Covalex_HaulCargo_SingleToMulti_Processed_Stims": {
       "en": "Hi,\\n\\nThere’s a load of stims at <EM4>[LOCATION]</EM4> ready to be picked up from a freight elevator and delivered to a few spots. They will be packaged up in containers <EM4>4 SCU</EM4> or smaller. Any chance you can knock this one out for me? \\n\\nDoesn’t matter what order you drop them off.    \\n\\nDROP OFF LOCATIONS (ANY ORDER)\\n\\n- Freight elevator at <EM4>[DESTINATION]</EM4>\\n- Freight elevator at <EM4>[DESTINATION1]</EM4>\\n\\nGlad I never picked up the habit myself because I swear I get more delivery update requests for “where are my stims?!?” than any other kind of shipment. \\n\\nBy the way, we strongly encourage contractors to bring a <EM4>handheld tractor beam</EM4> along.   \\n\\nThanks in advance for ensuring prompt service,\\n\\nChase Hewitt\\nJr. Logistics Coordinator\\nCovalex Shipping  \\n'Anything you need, anywhere you need it.'\\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "Oi,\\n\\nTem um carregamento de stims em <EM4>[LOCATION]</EM4> pronto pra ser retirado de um elevador de carga e entregue em alguns locais. Eles estão embalados em contêineres de <EM4>[MAX_SCU]</EM4> ou menores. Consegue dar conta dessa pra mim?  \\n\\nPode fazer as entregas na ordem que quiser.    \\n\\nLOCAIS DE ENTREGA (QUALQUER ORDEM)\\n\\n[SINGLETOMULTITOKEN]\\n\\nAinda bem que nunca peguei o vício, porque recebo mais mensagem de “cadê meus stims?!” do que de qualquer outro tipo de carga. \\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>raio trator portátil</EM4> junto.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nCoordenador de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
+      "tr": "Oi,\\n\\nTem um carregamento de stims em <EM4>[LOCATION]</EM4> pronto pra ser retirado de um elevador de carga e entregue em alguns locais. Eles estão embalados em contêineres de <EM4>[MAX_SCU]</EM4> ou menores. Consegue dar conta dessa pra mim?  \\n\\nPode fazer as entregas na ordem que quiser.    \\n\\nLOCAIS DE ENTREGA (QUALQUER ORDEM)\\n\\n[SINGLETOMULTITOKEN]\\n\\nAinda bem que nunca peguei o vício, porque recebo mais mensagem de “cadê meus stims?!” do que de qualquer outro tipo de carga. \\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>Tractor Beam portátil</EM4> junto.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nCoordenador de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
     },
     "Covalex_HaulCargo_SingleToMulti_RefinedOre": {
       "en": "Hi there,\\n\\nThe refinery at <EM4>[LOCATION]</EM4> has been busy. They’ve processed a bunch of <EM4>Tungsten</EM4> into containers <EM4>16 SCU</EM4> or smaller, and are looking to get it shipped out from a freight elevator. I just checked with the LEOs to see which ones needed this stuff and was able to put together this run.  \\n\\nDROP OFF LOCATIONS (ANY ORDER)\\n\\n- Freight elevator at <EM4>[DESTINATION]</EM4>\\n- Freight elevator at <EM4>[DESTINATION1]</EM4>\\n- Freight elevator at <EM4>[DESTINATION2]</EM4>\\n- Freight elevator at <EM4>[DESTINATION3]</EM4>\\n\\nShould be an easy run for you, if you’re free. \\n\\nBy the way, we strongly encourage contractors to bring a <EM4>handheld tractor beam</EM4> along.   \\n\\nThanks in advance for ensuring prompt service,\\n\\nChase Hewitt\\nJr. Logistics Coordinator\\nCovalex Shipping  \\n'Anything you need, anywhere you need it.'\\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "Oi,\\n\\nA refinaria em <EM4>[LOCATION]</EM4> tá a todo vapor. Eles processaram um monte de <EM4>[ITEM]</EM4> em contêineres de <EM4>[MAX_SCU]</EM4> ou menores e precisam despachar tudo pelo elevador de carga. Dei uma olhada com o pessoal das estações orbitais pra ver quem tá precisando disso e montei essa rota pra você.  \\n\\nLOCAIS DE ENTREGA (QUALQUER ORDEM)\\n\\n[SINGLETOMULTITOKEN]\\n\\nVai ser um frete tranquilo, se tiver tempo livre. \\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>raio trator portátil</EM4> junto.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nCoordenador de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
+      "tr": "Oi,\\n\\nA refinaria em <EM4>[LOCATION]</EM4> tá a todo vapor. Eles processaram um monte de <EM4>[ITEM]</EM4> em contêineres de <EM4>[MAX_SCU]</EM4> ou menores e precisam despachar tudo pelo elevador de carga. Dei uma olhada com o pessoal das estações orbitais pra ver quem tá precisando disso e montei essa rota pra você.  \\n\\nLOCAIS DE ENTREGA (QUALQUER ORDEM)\\n\\n[SINGLETOMULTITOKEN]\\n\\nVai ser um frete tranquilo, se tiver tempo livre. \\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>Tractor Beam portátil</EM4> junto.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nCoordenador de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
     },
     "Covalex_HaulCargo_AToB_Scrap": {
       "en": "Hello,\\n\\nThere’s some junk waiting at a freight elevator in <EM4>[LOCATION]</EM4> that needs to go to a freight elevator at <EM4>[DESTINATION]</EM4> for processing. I've confirmed that the containers won't be bigger than <EM4>4 SCU</EM4>. \\n\\nMy mom would’ve loved this run. She’s one of those who thinks every scrapyard is filled with hidden treasures. Can’t even tell you how many hours I spent bored out of my mind following her around one. If that’s your thing, here’s a chance to actually make credits going to one.\\n\\nBy the way, we strongly encourage contractors to bring a <EM4>handheld tractor beam</EM4> along.   \\n \\nThanks in advance for ensuring prompt service,\\n\\nChase Hewitt\\nJr. Logistics Coordinator\\nCovalex Shipping  \\n'Anything you need, anywhere you need it.'\\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "Olá,\\n\\nTem umas sucatas esperando em um elevador de carga em <EM4>[LOCATION]</EM4> que precisam ir pra um elevador de carga em <EM4>[DESTINATION]</EM4> pra processamento. Confirmei que os contêineres não vão ser maiores que <EM4>[MAX_SCU]</EM4>. \\n\\nMinha mãe teria adorado esse frete. Ela é daquelas que acha que todo ferro-velho tem tesouros escondidos. Nem te conto quantas horas eu passei entediado seguindo ela por um desses. Se isso é sua praia, aqui tá sua chance de ganhar uns créditos enquanto faz isso.\\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>raio trator portátil</EM4> com eles.   \\n \\n[SIGN_OFF]\\n\\nChase Hewitt\\nAssistente de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraude em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
+      "tr": "Olá,\\n\\nTem umas sucatas esperando em um elevador de carga em <EM4>[LOCATION]</EM4> que precisam ir pra um elevador de carga em <EM4>[DESTINATION]</EM4> pra processamento. Confirmei que os contêineres não vão ser maiores que <EM4>[MAX_SCU]</EM4>. \\n\\nMinha mãe teria adorado esse frete. Ela é daquelas que acha que todo ferro-velho tem tesouros escondidos. Nem te conto quantas horas eu passei entediado seguindo ela por um desses. Se isso é sua praia, aqui tá sua chance de ganhar uns créditos enquanto faz isso.\\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>Tractor Beam portátil</EM4> com eles.   \\n \\n[SIGN_OFF]\\n\\nChase Hewitt\\nAssistente de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraude em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
     },
     "Covalex_HaulCargo_AtoB_desc_RawOre_Stanton1": {
       "en": "Hey,\\n\\nA Hurston logistics manager just requested priority pick up from their facility. Sounds like they struck a new vein of ore and need to make room for what they're extracting.\\n\\nThe raw ore needs to be moved from a freight elevator at <EM4>[LOCATION]</EM4> to a freight elevator at <EM4>[DESTINATION]</EM4>. Will be containers <EM4>4 SCU</EM4> or smaller. Sound like something you could handle? \\n\\nBy the way, we strongly encourage contractors to bring a <EM4>handheld tractor beam</EM4> along.   \\n\\nThanks in advance for ensuring prompt service,\\n\\nChase Hewitt\\nJr. Logistics Coordinator\\nCovalex Shipping  \\n'Anything you need, anywhere you need it.'\\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "E aí,\\n\\nUm gerente de logística da Hurston acabou de solicitar uma coleta prioritária da instalação deles. Parece que encontraram uma nova veia de minério e precisam liberar espaço pro que estão extraindo.\\n\\nO minério bruto precisa ser transportado de um elevador de carga em <EM4>[LOCATION]</EM4> pra um elevador de carga em <EM4>[DESTINATION]</EM4>. Serão contêineres de <EM4>[MAX_SCU]</EM4> ou menores. Topa esse serviço? \\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>raio trator portátil</EM4> com eles.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nAssistente de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraude em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
+      "tr": "E aí,\\n\\nUm gerente de logística da Hurston acabou de solicitar uma coleta prioritária da instalação deles. Parece que encontraram uma nova veia de minério e precisam liberar espaço pro que estão extraindo.\\n\\nO minério bruto precisa ser transportado de um elevador de carga em <EM4>[LOCATION]</EM4> pra um elevador de carga em <EM4>[DESTINATION]</EM4>. Serão contêineres de <EM4>[MAX_SCU]</EM4> ou menores. Topa esse serviço? \\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>Tractor Beam portátil</EM4> com eles.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nAssistente de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraude em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
     },
     "Covalex_HaulCargo_MultiToSingle_desc_RawOre_Stanton1": {
       "en": "Hi,\\n\\nHurston is requesting that we prioritize pick ups from the local mining facilities to free up space for what they’re extracting. Here’s everywhere you need to go:  \\n\\nPICK UP LOCATIONS (ANY ORDER)\\n\\n- Freight elevator at <EM4>[LOCATION]</EM4>\\n- Freight elevator at <EM4>[LOCATION1]</EM4>\\n- Freight elevator at <EM4>[LOCATION2]</EM4>\\n\\nOnce collected, everything needs to get to a freight elevator at <EM4>[DESTINATION]</EM4>. They've said that all the containers will be at most <EM4>4 SCU</EM4> in size. Sound like something you could handle? \\n\\nBy the way, we strongly encourage contractors to bring a <EM4>handheld tractor beam</EM4> along.   \\n\\nThanks in advance for ensuring prompt service,\\n\\nChase Hewitt\\nJr. Logistics Coordinator\\nCovalex Shipping  \\n'Anything you need, anywhere you need it.'\\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "Oi,\\n\\nHurston pediu pra priorizarmos a coleta nos postos de mineração locais pra liberar espaço pro que eles tão extraindo. Aqui estão os locais que você precisa visitar:  \\n\\nLOCAIS DE COLETA (QUALQUER ORDEM)\\n\\n[MULTITOSINGLETOKEN]\\n\\nDepois de recolher tudo, leve pro elevador de carga em <EM4>[DESTINATION]</EM4>. Disseram que todos os contêineres terão no máximo <EM4>[MAX_SCU]</EM4> de tamanho. Topa encarar essa? \\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>raio trator portátil</EM4> junto.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nCoordenador de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
+      "tr": "Oi,\\n\\nHurston pediu pra priorizarmos a coleta nos postos de mineração locais pra liberar espaço pro que eles tão extraindo. Aqui estão os locais que você precisa visitar:  \\n\\nLOCAIS DE COLETA (QUALQUER ORDEM)\\n\\n[MULTITOSINGLETOKEN]\\n\\nDepois de recolher tudo, leve pro elevador de carga em <EM4>[DESTINATION]</EM4>. Disseram que todos os contêineres terão no máximo <EM4>[MAX_SCU]</EM4> de tamanho. Topa encarar essa? \\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>Tractor Beam portátil</EM4> junto.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nCoordenador de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
     },
     "Covalex_HaulCargo_SingleToMulti_desc_ProcessedFood_Stanton2": {
       "en": "Hi, \\n\\nThere’s a few Crusader facilities that need to be restocked with processed food and pressurized ice. Don’t know why but I’m always surprised when I see how much of this stuff they need delivered.\\n\\nAnyways, there’s a haul of containers no bigger than <EM4>4 SCU</EM4> waiting at <EM4>[LOCATION]</EM4>. Once you grab the goods from a freight elevator, these are the facilities where it needs to go:\\n\\nDROP OFF LOCATIONS (ANY ORDER)\\n\\n- Freight elevator at <EM4>[DESTINATION]</EM4>\\n- Freight elevator at <EM4>[DESTINATION1]</EM4>\\n- Freight elevator at <EM4>[DESTINATION2]</EM4> \\n\\nBy the way, we strongly encourage contractors to bring a <EM4>handheld tractor beam</EM4> along.   \\n\\nThanks in advance for ensuring prompt service,\\n\\nChase Hewitt\\nJr. Logistics Coordinator\\nCovalex Shipping  \\n'Anything you need, anywhere you need it.'\\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "Oi,\\n\\nAlgumas instalações da Crusader precisam ser reabastecidas com comida processada e gelo pressurizado. Não sei por quê, mas sempre me surpreendo com a quantidade que eles consomem disso.\\n\\nTem um carregamento de contêineres de no máximo <EM4>[MAX_SCU]</EM4> esperando em <EM4>[LOCATION]</EM4>. Depois de pegar a carga no elevador, leve pra esses locais:\\n\\nLOCAIS DE ENTREGA (QUALQUER ORDEM)\\n\\n[SINGLETOMULTITOKEN] \\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>raio trator portátil</EM4> junto.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nCoordenador de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
+      "tr": "Oi,\\n\\nAlgumas instalações da Crusader precisam ser reabastecidas com comida processada e gelo pressurizado. Não sei por quê, mas sempre me surpreendo com a quantidade que eles consomem disso.\\n\\nTem um carregamento de contêineres de no máximo <EM4>[MAX_SCU]</EM4> esperando em <EM4>[LOCATION]</EM4>. Depois de pegar a carga no elevador, leve pra esses locais:\\n\\nLOCAIS DE ENTREGA (QUALQUER ORDEM)\\n\\n[SINGLETOMULTITOKEN] \\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>Tractor Beam portátil</EM4> junto.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nCoordenador de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
     },
     "Covalex_HaulCargo_SingleToMulti_desc_RefinedOre_Mixed": {
       "en": "Hey,\\n\\nThe refinery at <EM4>[LOCATION]</EM4> has been busy. They’ve processed a mix of refined ores and are looking to get the containers (<EM4>16 SCU</EM4> or smaller) shipped out from a freight elevator. I just checked with the LEOs to see where this stuff is needed and was able to put together this run.  \\n\\nDROP OFF LOCATIONS (ANY ORDER)\\n\\n- Freight elevator at <EM4>[DESTINATION]</EM4>\\n- Freight elevator at <EM4>[DESTINATION1]</EM4>\\n- Freight elevator at <EM4>[DESTINATION2]</EM4>\\n\\nShould be an easy run for you, if you’re free. \\n\\nBy the way, we strongly encourage contractors to bring a <EM4>handheld tractor beam</EM4> along.   \\n\\nThanks in advance for ensuring prompt service,\\n\\nChase Hewitt\\nJr. Logistics Coordinator\\nCovalex Shipping  \\n'Anything you need, anywhere you need it.'\\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "E aí,\\n\\nA refinaria em <EM4>[LOCATION]</EM4> tá produzindo a todo vapor. Eles processaram uma mistura de minérios refinados e querem despachar os contêineres (<EM4>[MAX_SCU]</EM4> ou menores) pelo elevador de carga. Falei com o pessoal das estações orbitais pra ver onde esse material é mais necessário e montei essa rota pra você.  \\n\\nLOCAIS DE ENTREGA (QUALQUER ORDEM)\\n\\n[SINGLETOMULTITOKEN]\\n\\nVai ser um frete tranquilo, se tiver livre. \\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>raio trator portátil</EM4> junto.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nCoordenador de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
+      "tr": "E aí,\\n\\nA refinaria em <EM4>[LOCATION]</EM4> tá produzindo a todo vapor. Eles processaram uma mistura de minérios refinados e querem despachar os contêineres (<EM4>[MAX_SCU]</EM4> ou menores) pelo elevador de carga. Falei com o pessoal das estações orbitais pra ver onde esse material é mais necessário e montei essa rota pra você.  \\n\\nLOCAIS DE ENTREGA (QUALQUER ORDEM)\\n\\n[SINGLETOMULTITOKEN]\\n\\nVai ser um frete tranquilo, se tiver livre. \\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>Tractor Beam portátil</EM4> junto.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nCoordenador de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraudes em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
     },
     "Covalex_HaulCargo_AtoB_desc_ProcessedFood_Stanton2": {
       "en": "Hi, \\n\\nLooks like Orison needs another resupply of processed food and pressurized ice. They have this stuff on a standard delivery schedule but they just requested a shipment as soon as possible.  \\n\\nAre you available to make the run? The stuff (<EM4>4 SCU containers</EM4> or smaller) is waiting to be picked up from a freight elevator at <EM4>[LOCATION]</EM4>. Should be a quick and easy run for you to a freight elevator at <EM4>[DESTINATION]</EM4>. \\n\\nBy the way, we strongly encourage contractors to bring a <EM4>handheld tractor beam</EM4> along.   \\n\\nThanks in advance for ensuring prompt service,\\n\\nChase Hewitt\\nJr. Logistics Coordinator\\nCovalex Shipping  \\n'Anything you need, anywhere you need it.'\\n\\nCovalex Shipping is a limited liability corporation. To encourage timely deliveries and prevent fraud on cargo hauls, Covalex Shipping will set a delivery time limit and upon expiration, any undelivered cargo will be considered stolen and treated as such. Total payment will be prorated according to the percentage of cargo successfully delivered.",
-      "tr": "Oi, \\n\\nParece que Orison precisa de mais um reabastecimento de comida processada e gelo pressurizado. Eles têm isso num cronograma padrão, mas pediram uma entrega o quanto antes.  \\n\\nVocê pode fazer essa rota? A carga (<EM4>[MAX_SCU]</EM4> ou menor) está pronta pra ser coletada em um elevador de carga em <EM4>[LOCATION]</EM4>. Deve ser uma corrida rápida e fácil até um elevador de carga em <EM4>[DESTINATION]</EM4>. \\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>raio trator portátil</EM4> com eles.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nAssistente de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraude em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
+      "tr": "Oi, \\n\\nParece que Orison precisa de mais um reabastecimento de comida processada e gelo pressurizado. Eles têm isso num cronograma padrão, mas pediram uma entrega o quanto antes.  \\n\\nVocê pode fazer essa rota? A carga (<EM4>[MAX_SCU]</EM4> ou menor) está pronta pra ser coletada em um elevador de carga em <EM4>[LOCATION]</EM4>. Deve ser uma corrida rápida e fácil até um elevador de carga em <EM4>[DESTINATION]</EM4>. \\n\\nAh, e recomendamos fortemente que os contratados levem um <EM4>Tractor Beam portátil</EM4> com eles.   \\n\\n[SIGN_OFF]\\n\\nChase Hewitt\\nAssistente de Logística Jr.\\nCovalex Shipping  \\n“Tudo que você precisa, onde quer que precise.”\\n\\n\\n\\n\\n\\n\\n\\nA Covalex Shipping é uma corporação de responsabilidade limitada. Para incentivar entregas pontuais e evitar fraude em transportes de carga, a Covalex estabelecerá um limite de tempo para entrega e, ao expirar, qualquer carga não entregue será considerada roubada e tratada como tal. O pagamento total será ajustado proporcionalmente à porcentagem de carga entregue com sucesso."
     },
     "Stanton": {
       "en": "Stanton",
@@ -6667,9 +6668,9 @@
       "en": "Pyro",
       "tr": "Pyro"
     },
-    "mission_location_pyro_132": {
-      "en": "Checkmate Habs",
-      "tr": "Checkmate Habs"
+    "Pyro6_L1_Habs": {
+      "en": "P6 L1_Habs",
+      "tr": "P6 L1_Habs"
     },
     "RR_P2_L4_Clinic": {
       "en": "Checkmate Clinic",
@@ -6695,10 +6696,6 @@
       "en": "Orbituary Clinic",
       "tr": "Orbituary Clinic"
     },
-    "mission_location_pyro_133": {
-      "en": "Orbituary Habs",
-      "tr": "Orbituary Habs"
-    },
     "RR_P6": {
       "en": "Ruin Station",
       "tr": "Ruin Station"
@@ -6706,10 +6703,6 @@
     "Pyro6": {
       "en": "Terminus",
       "tr": "Terminus"
-    },
-    "mission_location_pyro_146": {
-      "en": "Ruin Station Habs",
-      "tr": "Ruin Station Habs"
     },
     "mission_location_pyro_106": {
       "en": "Ruin Station Clinic",
@@ -6727,17 +6720,9 @@
       "en": "Starlight Service Station Clinic",
       "tr": "Starlight Service Station Clinic"
     },
-    "mission_location_pyro_134": {
-      "en": "Starlight Service Station Habs",
-      "tr": "Starlight Service Station Habs"
-    },
     "RR_P3_L3": {
       "en": "Patch City",
       "tr": "Patch City"
-    },
-    "mission_location_pyro_135": {
-      "en": "Patch City Habs",
-      "tr": "Patch City Habs"
     },
     "RR_P3_L3_Clinic": {
       "en": "Patch City Clinic",
@@ -6746,10 +6731,6 @@
     "RR_P5_L2": {
       "en": "Gaslight",
       "tr": "Gaslight"
-    },
-    "mission_location_pyro_138": {
-      "en": "Gaslight Habs",
-      "tr": "Gaslight Habs"
     },
     "RR_P5_L2_Clinic": {
       "en": "Gaslight Clinic",
@@ -6763,10 +6744,6 @@
       "en": "Rod's Fuel 'N Supplies Clinic",
       "tr": "Rod's Fuel 'N Supplies Clinic"
     },
-    "mission_location_pyro_140": {
-      "en": "Rod's Fuel 'N Supplies Habs",
-      "tr": "Rod's Fuel 'N Supplies Habs"
-    },
     "RR_P5_L5": {
       "en": "Rat's Nest",
       "tr": "Rat's Nest"
@@ -6775,17 +6752,9 @@
       "en": "Rat's Nest Clinic",
       "tr": "Rat's Nest Clinic"
     },
-    "mission_location_pyro_141": {
-      "en": "Rat's Nest Habs",
-      "tr": "Rat's Nest Habs"
-    },
     "RR_P6_L3": {
       "en": "Endgame",
       "tr": "Endgame"
-    },
-    "mission_location_pyro_143": {
-      "en": "Endgame Habs",
-      "tr": "Endgame Habs"
     },
     "RR_P6_L3_Clinic": {
       "en": "Endgame Clinic",
@@ -6799,10 +6768,6 @@
       "en": "Dudley & Daughters Clinic",
       "tr": "Dudley & Daughters Clinic"
     },
-    "mission_location_pyro_144": {
-      "en": "Dudley & Daughters Habs",
-      "tr": "Dudley & Daughters Habs"
-    },
     "RR_P6_L5": {
       "en": "Megumi Refueling",
       "tr": "Megumi Refueling"
@@ -6810,10 +6775,6 @@
     "mission_location_pyro_105": {
       "en": "Megumi Refueling Clinic",
       "tr": "Megumi Refueling Clinic"
-    },
-    "mission_location_pyro_145": {
-      "en": "Megumi Refueling Habs",
-      "tr": "Megumi Refueling Habs"
     },
     "Collector_Station_02_Name": {
       "en": "Wikelo Emporium Selo Station",
@@ -7163,9 +7124,9 @@
       "en": "Rayari Deltana Research Outpost",
       "tr": "Rayari Deltana Research Outpost"
     },
-    "mission_location_stanton_0081": {
-      "en": "the Rayari lab on Cellin",
-      "tr": "o Laboratório Rayari em Cellin"
+    "Stanton2a_Rayari_001": {
+      "en": "Hickes Research Outpost",
+      "tr": "Hickes Research Outpost"
     },
     "Stanton2c_Rayari_001": {
       "en": "Deakins Research Outpost",
@@ -7247,21 +7208,17 @@
       "en": "HUR-L1 Green Glade Station",
       "tr": "HUR-L1 Green Glade Station"
     },
-    "DC_room_fob": {
-      "en": "Security Compound",
-      "tr": "Complexo de Segurança"
+    "Stanton1_DistributionCenter_Covalex_01": {
+      "en": "Covalex Distribution Centre S1DC06",
+      "tr": "Covalex Distribution Center S1DC06"
     },
-    "DC_room_cargo_lounge": {
-      "en": "On-Call Area",
-      "tr": "Área de plantão"
+    "mission_location_stanton_763": {
+      "en": "Sakura Sun Magnolia Workcenter",
+      "tr": "Sakura Sun Magnolia Workcenter"
     },
-    "DC_room_lobby": {
-      "en": "Lobby",
-      "tr": "Lobby"
-    },
-    "DC_room_warehouse": {
-      "en": "Inventory Center",
-      "tr": "Central de inventário"
+    "Stanton1_HRST_UGF_001": {
+      "en": "HDPC-Cassillo",
+      "tr": "HDPC-Cassillo"
     },
     "DC_room_shipping": {
       "en": "Shipping Area",
@@ -7271,9 +7228,9 @@
       "en": "Teasa Spaceport",
       "tr": "Teasa Spaceport"
     },
-    "DC_room_strorage": {
-      "en": "Storehouse",
-      "tr": "Armazem"
+    "Stanton1_HRST_UGF_003": {
+      "en": "HDPC-Farnesway",
+      "tr": "HDPC-Farnesway"
     },
     "Intersec_TSG_location": {
       "en": "QV Extraction Station",
@@ -7695,13 +7652,13 @@
       "en": "microTech Logistics Depot S4LD01",
       "tr": "microTech Logistics Depot S4LD01"
     },
-    "DC_room_refinery": {
-      "en": "Exterior Zone 2",
-      "tr": "Zona Externa 2"
-    },
     "mission_location_stanton_0199": {
       "en": "L19 Habs in Lorville",
       "tr": "L19 Habs em Lorville"
+    },
+    "DC_room_warehouse": {
+      "en": "Inventory Center",
+      "tr": "Central de inventário"
     },
     "_noloc_location_Cave_Unoccupied_Stanton2": {
       "en": "Cave_Unoccupied_Stanton2",
@@ -7739,9 +7696,9 @@
       "en": "Inhabited_Derelict_Civilian_Stanton4_Drlct_Stmnt_001",
       "tr": "Inhabited_Derelict_Civilian_Stanton4_Drlct_Stmnt_001"
     },
-    "DC_room_security": {
-      "en": "Security Checkpoint",
-      "tr": "Security Checkpoint"
+    "mission_location_stanton_777": {
+      "en": "microTech Logistics Depot S4LD13",
+      "tr": "microTech Logistics Depot S4LD13"
     },
     "Stanton1_Lorville": {
       "en": "Lorville",
@@ -7763,6 +7720,10 @@
       "en": "ARC-L3 Modern Express Station",
       "tr": "ARC-L3 Modern Express Station"
     },
+    "DC_room_cargo_lounge": {
+      "en": "On-Call Area",
+      "tr": "Área de plantão"
+    },
     "mission_location_stanton_797": {
       "en": "Dupree Industrial Manufacturing Facility",
       "tr": "Dupree Industrial Manufacturing Facility"
@@ -7783,6 +7744,14 @@
       "en": "Wala Cave",
       "tr": "Caverna de Wala"
     },
+    "stanton2_Shipping_Covalex": {
+      "en": "Covalex Shipping Hub Gundo",
+      "tr": "Covalex Shipping Hub Gundo"
+    },
+    "Stanton4_DistributionCenter_Covalex_01": {
+      "en": "Covalex Distribution Centre S4DC05",
+      "tr": "Covalex Distribution Center S4DC05"
+    },
     "mission_location_stanton_891": {
       "en": "Cellin Cave",
       "tr": "Caverna de Cellin"
@@ -7791,17 +7760,9 @@
       "en": "Inhabited_Derelict_Civilian_Stanton1a_Drlct_Stmnt_003",
       "tr": "Inhabited_Derelict_Civilian_Stanton1a_Drlct_Stmnt_003"
     },
-    "_noloc_location_Inhabited_Derelict_Civilian_Stanton1d": {
-      "en": "Inhabited_Derelict_Civilian_Stanton1d",
-      "tr": "Inhabited_Derelict_Civilian_Stanton1d"
-    },
-    "Stanton1_HRST_UGF_003": {
-      "en": "HDPC-Farnesway",
-      "tr": "HDPC-Farnesway"
-    },
-    "Stanton1_HRST_UGF_001": {
-      "en": "HDPC-Cassillo",
-      "tr": "HDPC-Cassillo"
+    "LOC_UNINITIALIZED": {
+      "en": "<= UNINITIALIZED =>",
+      "tr": "<= UNINITIALIZED =>"
     },
     "mission_location_stanton_1103b": {
       "en": "Freelancer wreck site",
@@ -7827,9 +7788,9 @@
       "en": "Inhabited_Derelict_Civilian_Stanton3a_Drlct_Stmnt_001",
       "tr": "Inhabited_Derelict_Civilian_Stanton3a_Drlct_Stmnt_001"
     },
-    "mission_location_stanton_777": {
-      "en": "microTech Logistics Depot S4LD13",
-      "tr": "microTech Logistics Depot S4LD13"
+    "DC_room_fob": {
+      "en": "Security Compound",
+      "tr": "Complexo de Segurança"
     },
     "_noloc_location_Inhabited_Derelict_Civilian_Stanton1a_Drlct_Stmnt_002": {
       "en": "Inhabited_Derelict_Civilian_Stanton1a_Drlct_Stmnt_002",
@@ -7851,6 +7812,10 @@
       "en": "Inhabited_Derelict_Outlaw_Stanton1_Drlct_Stmnt_010",
       "tr": "Inhabited_Derelict_Outlaw_Stanton1_Drlct_Stmnt_010"
     },
+    "DC_room_refinery": {
+      "en": "Exterior Zone 2",
+      "tr": "Zona Externa 2"
+    },
     "_noloc_location_Inhabited_Derelict_Outlaw_NineTails_Stanton1": {
       "en": "Inhabited_Derelict_Outlaw_NineTails_Stanton1",
       "tr": "Inhabited_Derelict_Outlaw_NineTails_Stanton1"
@@ -7863,9 +7828,9 @@
       "en": "Inhabited_Derelict_Civilian_Stanton1c_Drlct_Stmnt_001",
       "tr": "Inhabited_Derelict_Civilian_Stanton1c_Drlct_Stmnt_001"
     },
-    "Stanton1_CVLC_UGF_002": {
-      "en": "Covalex Distribution Center S1DC06",
-      "tr": "Covalex Distribution Center S1DC06"
+    "Stanton4_SASU_UGF_001": {
+      "en": "Sakura Sun Goldenrod Workcenter",
+      "tr": "Sakura Sun Goldenrod Workcenter"
     },
     "_noloc_location_Inhabited_Derelict_Civilian_Stanton1d_Drlct_Stmnt_002": {
       "en": "Inhabited_Derelict_Civilian_Stanton1d_Drlct_Stmnt_002",
@@ -7875,18 +7840,6 @@
       "en": "Inhabited_Derelict_Outlaw_Stanton4_Drlct_Stmnt_003",
       "tr": "Inhabited_Derelict_Outlaw_Stanton4_Drlct_Stmnt_003"
     },
-    "_noloc_location_Inhabited_Derelict_Civilian_Stanton2a": {
-      "en": "Inhabited_Derelict_Civilian_Stanton2a",
-      "tr": "Inhabited_Derelict_Civilian_Stanton2a"
-    },
-    "mission_location_stanton_763": {
-      "en": "Sakura Sun Magnolia Workcenter",
-      "tr": "Sakura Sun Magnolia Workcenter"
-    },
-    "Stanton4_CVLX_UGF_001": {
-      "en": "Covalex Distribution Center S4DC05",
-      "tr": "Covalex Distribution Center S4DC05"
-    },
     "mission_location_stanton_789": {
       "en": "Magda Cave",
       "tr": "Caverna de Magda"
@@ -7895,10 +7848,6 @@
       "en": "Bloodshot Ridge",
       "tr": "Bloodshot Ridge"
     },
-    "DC_room_miniroom": {
-      "en": "Supply Room",
-      "tr": "Sala de suprimentos"
-    },
     "mission_location_stanton_731": {
       "en": "Ludlow",
       "tr": "Ludlow"
@@ -7906,10 +7855,6 @@
     "mission_location_stanton_416": {
       "en": "Clio Cave",
       "tr": "Caverna de Clio"
-    },
-    "_noloc_location_Inhabited_Derelict_Civilian_Stanton1c": {
-      "en": "Inhabited_Derelict_Civilian_Stanton1c",
-      "tr": "Inhabited_Derelict_Civilian_Stanton1c"
     },
     "RR_ARC_L5": {
       "en": "ARC-L5 Yellow Core Station",
@@ -7943,17 +7888,9 @@
       "en": "Inhabited_Derelict_Civilian_Stanton1d_Drlct_Stmnt_004",
       "tr": "Inhabited_Derelict_Civilian_Stanton1d_Drlct_Stmnt_004"
     },
-    "_noloc_location_Inhabited_Derelict_Civilian_Stanton1b": {
-      "en": "Inhabited_Derelict_Civilian_Stanton1b",
-      "tr": "Inhabited_Derelict_Civilian_Stanton1b"
-    },
-    "DC_room_dead_end": {
-      "en": "Staging Point",
-      "tr": "Ponto de Parada"
-    },
-    "Stanton4_SASU_UGF_001": {
-      "en": "Sakura Sun Goldenrod Workcenter",
-      "tr": "Sakura Sun Goldenrod Workcenter"
+    "DC_room_security": {
+      "en": "Security Checkpoint",
+      "tr": "Security Checkpoint"
     },
     "mission_location_stanton_769": {
       "en": "Cry-Astro Processing Plant 19-02",
@@ -8011,9 +7948,9 @@
       "en": "Inhabited_Derelict_Civilian_Stanton1_Drlct_Stmnt_010",
       "tr": "Inhabited_Derelict_Civilian_Stanton1_Drlct_Stmnt_010"
     },
-    "_noloc_location_Inhabited_Derelict_Civilian_Stanton1a": {
-      "en": "Inhabited_Derelict_Civilian_Stanton1a",
-      "tr": "Inhabited_Derelict_Civilian_Stanton1a"
+    "DC_room_lobby": {
+      "en": "Lobby",
+      "tr": "Lobby"
     },
     "_noloc_location_Inhabited_Derelict_Civilian_Stanton1_Drlct_Stmnt_009": {
       "en": "Inhabited_Derelict_Civilian_Stanton1_Drlct_Stmnt_009",
@@ -8051,13 +7988,17 @@
       "en": "Inhabited_Derelict_Outlaw_Stanton1",
       "tr": "Inhabited_Derelict_Outlaw_Stanton1"
     },
-    "_noloc_location_JumpPoint_Stanton-Magnus": {
-      "en": "JumpPoint_Stanton-Magnus",
-      "tr": "JumpPoint_Stanton-Magnus"
+    "Stanton_JumpPoint_Magnus": {
+      "en": "Stanton - Magnus Jump Point",
+      "tr": "Stanton - Magnus Jump Point"
     },
     "_noloc_location_Inhabited_Derelict_Civilian_Stanton1b_Drlct_Stmnt_001": {
       "en": "Inhabited_Derelict_Civilian_Stanton1b_Drlct_Stmnt_001",
       "tr": "Inhabited_Derelict_Civilian_Stanton1b_Drlct_Stmnt_001"
+    },
+    "DC_room_strorage": {
+      "en": "Storehouse",
+      "tr": "Armazem"
     },
     "_noloc_location_Inhabited_Derelict_Civilian_Stanton3a_Drlct_Stmnt_002": {
       "en": "Inhabited_Derelict_Civilian_Stanton3a_Drlct_Stmnt_002",
@@ -8095,10 +8036,6 @@
       "en": "Inhabited_Derelict_Civilian_Stanton2c_Drlct_Stmnt_001",
       "tr": "Inhabited_Derelict_Civilian_Stanton2c_Drlct_Stmnt_001"
     },
-    "_noloc_location_Inhabited_Derelict_Civilian_Stanton3b": {
-      "en": "Inhabited_Derelict_Civilian_Stanton3b",
-      "tr": "Inhabited_Derelict_Civilian_Stanton3b"
-    },
     "RR_ARC_L2": {
       "en": "ARC-L2 Lively Pathway Station",
       "tr": "ARC-L2 Lively Pathway Station"
@@ -8106,14 +8043,6 @@
     "_noloc_location_Inhabited_Derelict_Civilian_Stanton2a_Drlct_Stmnt_002": {
       "en": "Inhabited_Derelict_Civilian_Stanton2a_Drlct_Stmnt_002",
       "tr": "Inhabited_Derelict_Civilian_Stanton2a_Drlct_Stmnt_002"
-    },
-    "_noloc_location_Inhabited_Derelict_Civilian_Stanton1": {
-      "en": "Inhabited_Derelict_Civilian_Stanton1",
-      "tr": "Inhabited_Derelict_Civilian_Stanton1"
-    },
-    "_noloc_location_Inhabited_Derelict_Civilian_Stanton3a": {
-      "en": "Inhabited_Derelict_Civilian_Stanton3a",
-      "tr": "Inhabited_Derelict_Civilian_Stanton3a"
     },
     "_noloc_location_Inhabited_Derelict_Civilian_Stanton1d_Drlct_Stmnt_003": {
       "en": "Inhabited_Derelict_Civilian_Stanton1d_Drlct_Stmnt_003",
@@ -8146,14 +8075,6 @@
     "mission_location_stanton_0214": {
       "en": "L19 Admin Office in Lorville",
       "tr": "L19 Admin Office em Lorville"
-    },
-    "_noloc_location_Inhabited_Derelict_Civilian_Stanton4": {
-      "en": "Inhabited_Derelict_Civilian_Stanton4",
-      "tr": "Inhabited_Derelict_Civilian_Stanton4"
-    },
-    "_noloc_location_Inhabited_Derelict_Civilian_Stanton2c": {
-      "en": "Inhabited_Derelict_Civilian_Stanton2c",
-      "tr": "Inhabited_Derelict_Civilian_Stanton2c"
     },
     "_noloc_location_AsteroidClusters_Stanton": {
       "en": "AsteroidClusters_Stanton",
@@ -8198,10 +8119,6 @@
     "_noloc_location_Inhabited_Derelict_Civilian_Stanton1d_Drlct_Stmnt_001": {
       "en": "Inhabited_Derelict_Civilian_Stanton1d_Drlct_Stmnt_001",
       "tr": "Inhabited_Derelict_Civilian_Stanton1d_Drlct_Stmnt_001"
-    },
-    "mission_location_stanton_0120": {
-      "en": "Covalex Station Gundo",
-      "tr": "Covalex Station Gundo"
     },
     "mission_location_stanton_749": {
       "en": "Harper's Point",
@@ -8271,25 +8188,21 @@
       "en": "Shady Glen Farms",
       "tr": "Shady Glen Farms"
     },
-    "mission_location_stanton_0227": {
-      "en": "\"The Orphanage\"",
-      "tr": "\"The Orphanage\""
+    "Stanton3a_Stash_001": {
+      "en": "The Orphanage",
+      "tr": "The Orphanage"
     },
     "_noloc_location_Inhabited_Derelict_Outlaw": {
       "en": "Inhabited_Derelict_Outlaw",
       "tr": "Inhabited_Derelict_Outlaw"
     },
-    "mission_ship_0006": {
-      "en": "Caterpillar",
-      "tr": "Caterpillar"
+    "stanton1_surface_relay": {
+      "en": "Downded Relay AC-652",
+      "tr": "Downded Relay AC-652"
     },
     "mission_location_pyro_182": {
       "en": "Lazarus Complex Tithonus-II",
       "tr": "Lazarus Complex Tithonus-II"
-    },
-    "ShipName_Test_001": {
-      "en": "Freelancer",
-      "tr": "Freelancer"
     },
     "hangar_13": {
       "en": "Hangar 13",
@@ -8307,9 +8220,9 @@
       "en": "Euterpe Derelict Outpost",
       "tr": "Base Abandonada de Euterpe"
     },
-    "Stanton3a_Shubin_001": {
-      "en": "Shubin Mining Facility SAL-2",
-      "tr": "Shubin Mining Facility SAL-2"
+    "Stanton2_AdminCenter": {
+      "en": "Admin Center",
+      "tr": "Admin Center"
     },
     "mission_location_stanton_454": {
       "en": "the wreck site on microTech",
@@ -8318,6 +8231,10 @@
     "mission_location_stanton_592": {
       "en": "Hurston Derelict Outpost",
       "tr": "Base Abandonada de Hurston"
+    },
+    "mission_ship_0006": {
+      "en": "Caterpillar",
+      "tr": "Caterpillar"
     },
     "Stanton1d_HurDynMining_001": {
       "en": "HDMS-Woodruff",
@@ -8335,10 +8252,6 @@
       "en": "the Cellin wreck site",
       "tr": "o local dos destroços de Cellin"
     },
-    "ShipName_Test_002": {
-      "en": "Starfarer",
-      "tr": "Starfarer"
-    },
     "Pyro4_ASD_Data_Facility_8": {
       "en": "Farro Data Center VIII",
       "tr": "Farro Data Center VIII"
@@ -8346,10 +8259,6 @@
     "mission_location_stanton_449": {
       "en": "the Lyria wreck site",
       "tr": "o Local de destroços de Lyria"
-    },
-    "ShipName_Test_003": {
-      "en": "Constellation",
-      "tr": "Constallation"
     },
     "mission_location_stanton_443": {
       "en": "Aberdeen wreck site",
@@ -8367,10 +8276,6 @@
       "en": "the Magda wreck site",
       "tr": "o Local de destroços de Magda"
     },
-    "_noloc_location_Inhabited_Derelict": {
-      "en": "Inhabited_Derelict",
-      "tr": "Inhabited_Derelict"
-    },
     "mission_location_stanton_598": {
       "en": "Daymar Derelict Outpost",
       "tr": "Base Abandonada de Daymar"
@@ -8382,6 +8287,10 @@
     "Stanton1_HurDynMining_002": {
       "en": "HDMS-Oparei",
       "tr": "HDMS-Oparei"
+    },
+    "ShipName_Test_002": {
+      "en": "Starfarer",
+      "tr": "Starfarer"
     },
     "Stanton2b_EMShelter_001": {
       "en": "Tamdon Plains Aid Shelter",
@@ -8395,17 +8304,13 @@
       "en": "Aegis Reclaimer",
       "tr": "Aegis Reclaimer"
     },
-    "_noloc_location_Inhabited_Derelict_Civilian_Stanton": {
-      "en": "Inhabited_Derelict_Civilian_Stanton",
-      "tr": "Inhabited_Derelict_Civilian_Stanton"
-    },
-    "_noloc_location_Inhabited_Derelict_Civilian": {
-      "en": "Inhabited_Derelict_Civilian",
-      "tr": "Inhabited_Derelict_Civilian"
-    },
     "Stanton3b_SalvageYard_001": {
       "en": "Samson & Son's Salvage Center",
       "tr": "Samson & Son's Salvage Center"
+    },
+    "ShipName_Test_001": {
+      "en": "Freelancer",
+      "tr": "Freelancer"
     },
     "mission_location_stanton_0434": {
       "en": "the wreck site on Daymar",
@@ -8422,10 +8327,6 @@
     "Stanton3a_IndyMine_002": {
       "en": "Loveridge Mineral Reserve",
       "tr": "Loveridge Mineral Reserve"
-    },
-    "LOC_UNINITIALIZED": {
-      "en": "<= UNINITIALIZED =>",
-      "tr": "<= UNINITIALIZED =>"
     },
     "Stanton1a_HurDynMining_001": {
       "en": "HDMS-Bezdek",
@@ -8499,10 +8400,6 @@
       "en": "Clio Derelict Outpost",
       "tr": "Base Abandonada de Clio"
     },
-    "Stanton4a_Shubin_001": {
-      "en": "Shubin Mining Facility SMCa-6",
-      "tr": "Shubin Mining Facility SMCa-6"
-    },
     "_noloc_location_RestStop_Pyro_Rundown_RR_P3_LEO_Orb_Dealer": {
       "en": "RestStop_Pyro_Rundown_RR_P3_LEO_Orb_Dealer",
       "tr": "RestStop_Pyro_Rundown_RR_P3_LEO_Orb_Dealer"
@@ -8522,10 +8419,6 @@
     "xs_outpost_cave_001": {
       "en": "Cave near [LOCATION]",
       "tr": "Caverna perto de [LOCATION]"
-    },
-    "Stanton3a_Shubin_002": {
-      "en": "Shubin Mining Facility SAL-5",
-      "tr": "Shubin Mining Facility SAL-5"
     },
     "mission_location_pyro_075": {
       "en": "Bullock's Reach",
@@ -8574,10 +8467,6 @@
     "Pyro4_ASD_Data_Facility_7": {
       "en": "Farro Data Center VII",
       "tr": "Farro Data Center VII"
-    },
-    "Stanton2b_Shubin_001": {
-      "en": "Shubin Mining Facility SCD-1",
-      "tr": "Shubin Mining Facility SCD-1"
     },
     "mission_location_pyro_073": {
       "en": "Kabir's Post",
@@ -8643,6 +8532,10 @@
       "en": "Dunlow Ridge Aid Shelter",
       "tr": "Dunlow Ridge Aid Shelter"
     },
+    "ShipName_Test_003": {
+      "en": "Constellation",
+      "tr": "Constallation"
+    },
     "mission_location_pyro_124": {
       "en": "Dudley & Daughters Entrance",
       "tr": "Dudley & Daughters Entrance"
@@ -8674,10 +8567,6 @@
     "Stanton1_DrugLab_001": {
       "en": "Echo Isle",
       "tr": "Echo Isle"
-    },
-    "mission_location_stanton_0111": {
-      "en": "the abandoned outpost on Cellin",
-      "tr": "o Outpost Abandonado em Cellin"
     },
     "Stanton1_SalvageYard_001": {
       "en": "Reclamation & Disposal Orinth",
@@ -8823,9 +8712,9 @@
       "en": "Ruin Station Entrance",
       "tr": "Ruin Station Entrance"
     },
-    "mission_client_0036": {
-      "en": "Tram & Myers",
-      "tr": "Tram & Myers"
+    "mission_client_0035": {
+      "en": "Tram & Myers Mining",
+      "tr": "Tram & Myers Mining"
     },
     "Stanton3b_ArcCorp_004": {
       "en": "ArcCorp Mining Area 061",
@@ -8835,10 +8724,6 @@
       "en": "Stag's Rut",
       "tr": "Stag's Rut"
     },
-    "mission_location_stanton_0110": {
-      "en": "the abandoned outpost on Daymar",
-      "tr": "o Outpost Abandonado em Daymar"
-    },
     "mission_location_pyro_061": {
       "en": "Maintenance Area-01",
       "tr": "Área de manutenção"
@@ -8846,10 +8731,6 @@
     "mission_location_pyro_065": {
       "en": "Stonetree",
       "tr": "Stonetree"
-    },
-    "Stanton4a_Shubin_002": {
-      "en": "Shubin Mining Facility SMCa-8",
-      "tr": "Shubin Mining Facility SMCa-8"
     },
     "mission_location_pyro_180": {
       "en": "Lazarus Transport Hub Phoenix-III",
@@ -8866,6 +8747,10 @@
     "Stanton4c_IndyFarmer_001": {
       "en": "Bud's Growery",
       "tr": "Bud's Growery"
+    },
+    "Stanton2b_Stash_001": {
+      "en": "Nuen Waste Management",
+      "tr": "Nuen Waste Management"
     },
     "mission_location_stanton_427": {
       "en": "Wally's Bar in New Babbage",
@@ -8999,17 +8884,13 @@
       "en": "Pyro I Cave",
       "tr": "Pyro I Cave"
     },
-    "Stanton4_Shubin_004": {
-      "en": "Shubin Mining Facility SM0-10",
-      "tr": "Shubin Mining Facility SM0-10"
+    "DC_room_dead_end": {
+      "en": "Staging Point",
+      "tr": "Ponto de Parada"
     },
-    "_noloc_location_JumpPoint_Stanton-Pyro_SecurityDock": {
-      "en": "JumpPoint_Stanton-Pyro_SecurityDock",
-      "tr": "JumpPoint_Stanton-Pyro_SecurityDock"
-    },
-    "Stanton4_Shubin_003": {
-      "en": "Shubin Mining Facility SM0-18",
-      "tr": "Shubin Mining Facility SM0-18"
+    "ea_ui_map_JerichoStation": {
+      "en": "INS Jericho",
+      "tr": "INS Jericho"
     },
     "Stanton4_Transfer": {
       "en": "Port Tressler",
@@ -9019,17 +8900,9 @@
       "en": "Greycat Stanton IV Production Complex-A",
       "tr": "Greycat Stanton IV Production Complex-A"
     },
-    "Stanton4_Shubin_002": {
-      "en": "Shubin Mining Facility SM0-22",
-      "tr": "Shubin Mining Facility SM0-22"
-    },
     "mission_location_stanton_0066": {
       "en": "ArcCorp Mining Area157",
       "tr": "ArcCorp Mining Area157"
-    },
-    "Stanton4_Shubin_001": {
-      "en": "Shubin Mining Facility SM0-13",
-      "tr": "Shubin Mining Facility SM0-13"
     },
     "mission_location_stanton_881": {
       "en": "Ruptura PAF-I",
@@ -9219,110 +9092,6 @@
       "en": "Anvil C8X Pisces Expedition",
       "tr": "Anvil C8X Pisces Expedition"
     },
-    "vehicle_NameAEGS_Avenger_Stalker": {
-      "en": "Aegis Avenger Stalker",
-      "tr": "Aegis Avenger Stalker"
-    },
-    "vehicle_NameAEGS_Avenger_Titan_Renegade": {
-      "en": "Aegis Avenger Titan Renegade",
-      "tr": "Aegis Avenger Titan Renegade"
-    },
-    "vehicle_NameAEGS_Avenger_Warlock": {
-      "en": "Aegis Avenger Warlock",
-      "tr": "Aegis Avenger Warlock"
-    },
-    "vehicle_NameAEGS_Eclipse": {
-      "en": "Aegis Eclipse",
-      "tr": "Aegis Eclipse"
-    },
-    "vehicle_NameAEGS_Hammerhead": {
-      "en": "Aegis Hammerhead",
-      "tr": "Aegis Hammerhead"
-    },
-    "vehicle_NameAEGS_Idris_M": {
-      "en": "Aegis Idris-M",
-      "tr": "Aegis Idris-M"
-    },
-    "vehicle_NameAEGS_Idris_P": {
-      "en": "Aegis Idris-P",
-      "tr": "Aegis Idris-P"
-    },
-    "vehicle_NameAEGS_Retaliator": {
-      "en": "Aegis Retaliator",
-      "tr": "Aegis Retaliator"
-    },
-    "vehicle_NameAEGS_Sabre": {
-      "en": "Aegis Sabre",
-      "tr": "Aegis Sabre"
-    },
-    "vehicle_NameAEGS_Sabre_Comet": {
-      "en": "Aegis Sabre Comet",
-      "tr": "Aegis Sabre Comet"
-    },
-    "vehicle_NameAEGS_Sabre_Firebird": {
-      "en": "Aegis Sabre Firebird",
-      "tr": "Aegis Sabre Firebird"
-    },
-    "vehicle_NameAEGS_Sabre_Raven": {
-      "en": "Aegis Sabre Raven",
-      "tr": "Aegis Sabre Raven"
-    },
-    "vehicle_nameANVL_Carrack": {
-      "en": "Anvil Carrack",
-      "tr": "Anvil Carrack"
-    },
-    "vehicle_NameANVL_Hornet_F7C": {
-      "en": "Anvil F7C Hornet Mk I",
-      "tr": "Anvil F7C Hornet Mk I"
-    },
-    "vehicle_NameANVL_Hornet_F7CR": {
-      "en": "Anvil F7C-R Hornet Tracker Mk I",
-      "tr": "Anvil F7C-R Hornet Tracker Mk I"
-    },
-    "vehicle_NameANVL_Hornet_F7CS": {
-      "en": "Anvil F7C-S Hornet Ghost Mk I",
-      "tr": "Anvil F7C-S Hornet Ghost Mk I"
-    },
-    "vehicle_NameANVL_Lightning_F8": {
-      "en": "Anvil F8A Lightning",
-      "tr": "Anvil F8A Lightning"
-    },
-    "vehicle_NameANVL_Gladiator": {
-      "en": "Anvil Gladiator",
-      "tr": "Anvil Gladiator"
-    },
-    "vehicle_NameANVL_Hawk": {
-      "en": "Anvil Hawk",
-      "tr": "Anvil Hawk"
-    },
-    "vehicle_nameANVL_Paladin": {
-      "en": "Anvil Paladin",
-      "tr": "Anvil Paladin"
-    },
-    "vehicle_NameANVL_Terrapin": {
-      "en": "Anvil Terrapin",
-      "tr": "Anvil Terrapin"
-    },
-    "vehicle_NameANVL_Terrapin_Medic": {
-      "en": "Anvil Terrapin Medic",
-      "tr": "Anvil Terrapin Medic"
-    },
-    "vehicle_NameXIAN_Scout": {
-      "en": "Aopoa Khartu-al",
-      "tr": "Aopoa Khartu-al"
-    },
-    "vehicle_NameARGO_Mole": {
-      "en": "Argo MOLE",
-      "tr": "Argo MOLE"
-    },
-    "vehicle_NameBanu_Defender": {
-      "en": "Banu Defender",
-      "tr": "Banu Defender"
-    },
-    "vehicles_NameOrbital_Sentry": {
-      "en": "Broad & Rabiee Overseer Orbital Sentry",
-      "tr": "Supervisor Amplo e Rabiense Sentinela Orbital"
-    },
     "vehicle_NameCNOU_Mustang_Alpha": {
       "en": "C.O. Mustang Alpha",
       "tr": "C.O. Mustang Alpha"
@@ -9339,177 +9108,53 @@
       "en": "C.O. Mustang Gamma",
       "tr": "C.O. Mustang Gamma"
     },
-    "vehicle_NameCRUS_Starlifter_A2": {
-      "en": "Crusader A2 Hercules Starlifter",
-      "tr": "Crusader A2 Hercules Starlifter"
-    },
-    "vehicle_NameCRUS_Starfighter_Ion": {
-      "en": "Crusader Ares Star Fighter Ion",
-      "tr": "Crusader Ares Star Fighter Ion"
-    },
-    "vehicle_NameCRUS_Starlifter_C2": {
-      "en": "Crusader C2 Hercules Starlifter",
-      "tr": "Crusader C2 Hercules Starlifter"
-    },
-    "vehicle_NameCRUS_Starlifter_M2": {
-      "en": "Crusader M2 Hercules Starlifter",
-      "tr": "Crusader M2 Hercules Starlifter"
-    },
-    "vehicle_NameDRAK_Corsair": {
-      "en": "Drake Corsair",
-      "tr": "Drake Corsair"
-    },
-    "vehicle_NameDRAK_Cutter_Rambler": {
-      "en": "Drake Cutter Rambler",
-      "tr": "Drake Cutter Rambler"
-    },
-    "vehicle_NameDRAK_Cutter_Scout": {
-      "en": "Drake Cutter Scout",
-      "tr": "Drake Cutter Scout"
-    },
-    "vehicle_NameDRAK_Herald": {
-      "en": "Drake Herald",
-      "tr": "Drake Herald"
-    },
-    "vehicle_NameESPR_Talon": {
-      "en": "Esperia Talon",
-      "tr": "Esperia Talon"
-    },
-    "vehicle_NameMISC_Hull_A": {
-      "en": "MISC Hull A",
-      "tr": "MISC Hull A"
-    },
-    "vehicle_NameMISC_Hull_C": {
-      "en": "MISC Hull C",
-      "tr": "MISC Hull C"
-    },
-    "vehicle_NameMISC_Prospector": {
-      "en": "MISC Prospector",
-      "tr": "MISC Prospector"
-    },
-    "vehicle_NameMISC_Reliant_Mako": {
-      "en": "MISC Reliant Mako",
-      "tr": "MISC Reliant Mako"
-    },
-    "vehicle_NameMISC_Reliant_Sen": {
-      "en": "MISC Reliant Sen",
-      "tr": "MISC Reliant Sen"
-    },
-    "vehicle_NameMISC_Starfarer": {
-      "en": "MISC Starfarer",
-      "tr": "MISC Starfarer"
-    },
-    "vehicle_NameMISC_Starfarer_Gemini": {
-      "en": "MISC Starfarer Gemini",
-      "tr": "MISC Starfarer Gemini"
-    },
-    "vehicle_NameMISC_Razor": {
-      "en": "Mirai Razor",
-      "tr": "Mirai Razor"
+    "vehicle_NameANVL_Hornet_F7C": {
+      "en": "Anvil F7C Hornet Mk I",
+      "tr": "Anvil F7C Hornet Mk I"
     },
     "vehicle_NameMISC_Razor_EX": {
       "en": "Mirai Razor EX",
       "tr": "Mirai Razor EX"
     },
-    "vehicle_NameMISC_Razor_LX": {
-      "en": "Mirai Razor LX",
-      "tr": "Mirai Razor LX"
-    },
-    "vehicle_NameORIG_100i": {
-      "en": "Origin 100i",
-      "tr": "Origin 100i"
-    },
-    "vehicle_NameORIG_125a": {
-      "en": "Origin 125a",
-      "tr": "Origin 125a"
-    },
-    "vehicle_NameORIG_135c": {
-      "en": "Origin 135c",
-      "tr": "Origin 135c"
-    },
-    "vehicle_NameORIG_300i": {
-      "en": "Origin 300i",
-      "tr": "Origin 300i"
-    },
-    "vehicle_NameORIG_315p": {
-      "en": "Origin 315p",
-      "tr": "Origin 315p"
-    },
-    "vehicle_NameORIG_325a": {
-      "en": "Origin 325a",
-      "tr": "Origin 325a"
-    },
-    "vehicle_NameORIG_350r": {
-      "en": "Origin 350r",
-      "tr": "Origin 350r"
-    },
-    "vehicle_NameORIG_600i": {
-      "en": "Origin 600i",
-      "tr": "Origin 600i"
-    },
-    "vehicle_NameORIG_85X": {
-      "en": "Origin 85X Limited",
-      "tr": "Origin 85X Limited"
-    },
-    "vehicle_NameORIG_890Jump": {
-      "en": "Origin 890 Jump",
-      "tr": "Origin 890 Jump"
-    },
-    "vehicle_NameORIG_m50": {
-      "en": "Origin M50 Interceptor",
-      "tr": "Origin M50 Interceptor"
-    },
-    "vehicle_NameRSI_Aurora_LX": {
-      "en": "RSI Aurora Mk I  LX",
-      "tr": "RSI Aurora Mk I  LX"
-    },
-    "vehicle_NameRSI_Aurora_CL": {
-      "en": "RSI Aurora Mk I CL",
-      "tr": "RSI Aurora Mk I CL"
-    },
-    "vehicle_NameRSI_Aurora_ES": {
-      "en": "RSI Aurora Mk I ES",
-      "tr": "RSI Aurora Mk I ES"
-    },
-    "vehicle_NameRSI_Aurora_LN": {
-      "en": "RSI Aurora Mk I LN",
-      "tr": "RSI Aurora Mk I LN"
-    },
-    "vehicle_NameRSI_Aurora_MR": {
-      "en": "RSI Aurora Mk I MR",
-      "tr": "RSI Aurora Mk I MR"
+    "vehicle_NameAEGS_Sabre_Firebird": {
+      "en": "Aegis Sabre Firebird",
+      "tr": "Aegis Sabre Firebird"
     },
     "vehicle_NameRSI_Constellation_Andromeda": {
       "en": "RSI Constellation Andromeda",
       "tr": "RSI Constellation Andromeda"
     },
-    "vehicle_NameRSI_Constellation_Aquila": {
-      "en": "RSI Constellation Aquila",
-      "tr": "RSI Constellation Aquila"
-    },
-    "vehicle_NameRSI_Constellation_Phoenix": {
-      "en": "RSI Constellation Phoenix",
-      "tr": "RSI Constellation Phoenix"
-    },
-    "vehicle_NameRSI_Constellation_Taurus": {
-      "en": "RSI Constellation Taurus",
-      "tr": "RSI Constellation Taurus"
-    },
-    "vehicle_NameRSI_Mantis": {
-      "en": "RSI Mantis",
-      "tr": "RSI Mantis"
-    },
-    "vehicle_NameRSI_Perseus": {
-      "en": "RSI Perseus",
-      "tr": "RSI Perseus"
+    "vehicle_NameAEGS_Hammerhead": {
+      "en": "Aegis Hammerhead",
+      "tr": "Aegis Hammerhead"
     },
     "vehicle_NameRSI_Polaris": {
       "en": "RSI Polaris",
       "tr": "RSI Polaris"
     },
+    "vehicle_NameDRAK_Corsair": {
+      "en": "Drake Corsair",
+      "tr": "Drake Corsair"
+    },
+    "vehicle_NameAEGS_Avenger_Stalker": {
+      "en": "Aegis Avenger Stalker",
+      "tr": "Aegis Avenger Stalker"
+    },
     "vehicle_NameAEGS_Avenger_Titan": {
       "en": "Aegis Avenger Titan",
       "tr": "Aegis Avenger Titan"
+    },
+    "vehicle_NameAEGS_Avenger_Titan_Renegade": {
+      "en": "Aegis Avenger Titan Renegade",
+      "tr": "Aegis Avenger Titan Renegade"
+    },
+    "vehicle_NameAEGS_Avenger_Warlock": {
+      "en": "Aegis Avenger Warlock",
+      "tr": "Aegis Avenger Warlock"
+    },
+    "vehicle_NameAEGS_Eclipse": {
+      "en": "Aegis Eclipse",
+      "tr": "Aegis Eclipse"
     },
     "vehicle_NameAEGS_Gladius_Dunlevy": {
       "en": "Aegis Gladius Dunlevy",
@@ -9518,6 +9163,14 @@
     "vehicle_DescAEGS_Gladius_PIR": {
       "en": "Aegis Gladius Pirate",
       "tr": "Aegis Gladius Pirata"
+    },
+    "vehicle_NameAEGS_Sabre": {
+      "en": "Aegis Sabre",
+      "tr": "Aegis Sabre"
+    },
+    "vehicle_NameAEGS_Sabre_Comet": {
+      "en": "Aegis Sabre Comet",
+      "tr": "Aegis Sabre Comet"
     },
     "vehicle_NameAEGS_Firebird_Collector_Milt": {
       "en": "Aegis Sabre Firebird Wikelo War Special",
@@ -9535,9 +9188,29 @@
       "en": "Anvil F7C-M Hornet Heartseeker Mk I",
       "tr": "Anvil F7C-M Hornet Heartseeker Mk I"
     },
+    "vehicle_NameANVL_Hornet_F7CR": {
+      "en": "Anvil F7C-R Hornet Tracker Mk I",
+      "tr": "Anvil F7C-R Hornet Tracker Mk I"
+    },
+    "vehicle_NameANVL_Hornet_F7CS": {
+      "en": "Anvil F7C-S Hornet Ghost Mk I",
+      "tr": "Anvil F7C-S Hornet Ghost Mk I"
+    },
+    "vehicle_NameANVL_Gladiator": {
+      "en": "Anvil Gladiator",
+      "tr": "Anvil Gladiator"
+    },
+    "vehicle_NameANVL_Hawk": {
+      "en": "Anvil Hawk",
+      "tr": "Anvil Hawk"
+    },
     "vehicle_NameXNAA_SantokYai": {
       "en": "Aopoa San'tok.yāi",
       "tr": "Aopoa San'tok.yāi"
+    },
+    "vehicle_NameBanu_Defender": {
+      "en": "Banu Defender",
+      "tr": "Banu Defender"
     },
     "vehicle_NameCNOU_Nomad_Teach": {
       "en": "C.O. Nomad Teach's Special",
@@ -9555,6 +9228,10 @@
       "en": "Drake Cutlass Blue",
       "tr": "Drake Cutlass Blue"
     },
+    "vehicle_NameDRAK_Herald": {
+      "en": "Drake Herald",
+      "tr": "Drake Herald"
+    },
     "vehicle_NameESPR_Blade": {
       "en": "Esperia Blade",
       "tr": "Esperia Blade"
@@ -9562,6 +9239,10 @@
     "vehicle_NameESPR_Glaive": {
       "en": "Esperia Glaive",
       "tr": "Esperia Glaive"
+    },
+    "vehicle_NameESPR_Talon": {
+      "en": "Esperia Talon",
+      "tr": "Esperia Talon"
     },
     "vehicle_NameGAMA_Syulen": {
       "en": "Gatac Syulen",
@@ -9591,6 +9272,22 @@
       "en": "Mirai Guardian Wikelo War Special",
       "tr": "Mirai Guardian Wikelo War Special"
     },
+    "vehicle_NameORIG_300i": {
+      "en": "Origin 300i",
+      "tr": "Origin 300i"
+    },
+    "vehicle_NameORIG_315p": {
+      "en": "Origin 315p",
+      "tr": "Origin 315p"
+    },
+    "vehicle_NameORIG_325a": {
+      "en": "Origin 325a",
+      "tr": "Origin 325a"
+    },
+    "vehicle_NameRSI_Mantis": {
+      "en": "RSI Mantis",
+      "tr": "RSI Mantis"
+    },
     "vehicle_NameRSI_Scorpius_Collector_Stealth": {
       "en": "RSI Scorpius Wikelo Sneak Special",
       "tr": "RSI Scorpius Wikelo Sneak Special"
@@ -9615,6 +9312,158 @@
       "en": "Wreckage",
       "tr": "DESTROÇOS"
     },
+    "vehicle_NameCRUS_Starlifter_A2": {
+      "en": "Crusader A2 Hercules Starlifter",
+      "tr": "Crusader A2 Hercules Starlifter"
+    },
+    "vehicle_NameMISC_Prospector": {
+      "en": "MISC Prospector",
+      "tr": "MISC Prospector"
+    },
+    "vehicle_NameORIG_m50": {
+      "en": "Origin M50 Interceptor",
+      "tr": "Origin M50 Interceptor"
+    },
+    "vehicle_NameMISC_Starfarer": {
+      "en": "MISC Starfarer",
+      "tr": "MISC Starfarer"
+    },
+    "vehicle_NameDRAK_Cutter_Rambler": {
+      "en": "Drake Cutter Rambler",
+      "tr": "Drake Cutter Rambler"
+    },
+    "vehicle_NameDRAK_Cutter_Scout": {
+      "en": "Drake Cutter Scout",
+      "tr": "Drake Cutter Scout"
+    },
+    "vehicle_NameMISC_Hull_A": {
+      "en": "MISC Hull A",
+      "tr": "MISC Hull A"
+    },
+    "vehicle_NameMISC_Razor_LX": {
+      "en": "Mirai Razor LX",
+      "tr": "Mirai Razor LX"
+    },
+    "vehicle_NameORIG_100i": {
+      "en": "Origin 100i",
+      "tr": "Origin 100i"
+    },
+    "vehicle_NameORIG_125a": {
+      "en": "Origin 125a",
+      "tr": "Origin 125a"
+    },
+    "vehicle_NameORIG_135c": {
+      "en": "Origin 135c",
+      "tr": "Origin 135c"
+    },
+    "vehicle_NameORIG_85X": {
+      "en": "Origin 85X Limited",
+      "tr": "Origin 85X Limited"
+    },
+    "vehicle_NameRSI_Aurora_LX": {
+      "en": "RSI Aurora Mk I  LX",
+      "tr": "RSI Aurora Mk I  LX"
+    },
+    "vehicle_NameRSI_Aurora_CL": {
+      "en": "RSI Aurora Mk I CL",
+      "tr": "RSI Aurora Mk I CL"
+    },
+    "vehicle_NameRSI_Aurora_ES": {
+      "en": "RSI Aurora Mk I ES",
+      "tr": "RSI Aurora Mk I ES"
+    },
+    "vehicle_NameRSI_Aurora_MR": {
+      "en": "RSI Aurora Mk I MR",
+      "tr": "RSI Aurora Mk I MR"
+    },
+    "vehicle_NameANVL_Terrapin": {
+      "en": "Anvil Terrapin",
+      "tr": "Anvil Terrapin"
+    },
+    "vehicle_NameANVL_Terrapin_Medic": {
+      "en": "Anvil Terrapin Medic",
+      "tr": "Anvil Terrapin Medic"
+    },
+    "vehicle_NameARGO_Mole": {
+      "en": "Argo MOLE",
+      "tr": "Argo MOLE"
+    },
+    "vehicle_NameMISC_Reliant_Mako": {
+      "en": "MISC Reliant Mako",
+      "tr": "MISC Reliant Mako"
+    },
+    "vehicle_NameMISC_Reliant_Sen": {
+      "en": "MISC Reliant Sen",
+      "tr": "MISC Reliant Sen"
+    },
+    "vehicle_NameMISC_Razor": {
+      "en": "Mirai Razor",
+      "tr": "Mirai Razor"
+    },
+    "vehicle_NameORIG_350r": {
+      "en": "Origin 350r",
+      "tr": "Origin 350r"
+    },
+    "vehicle_NameAEGS_Retaliator": {
+      "en": "Aegis Retaliator",
+      "tr": "Aegis Retaliator"
+    },
+    "vehicle_nameANVL_Carrack": {
+      "en": "Anvil Carrack",
+      "tr": "Anvil Carrack"
+    },
+    "vehicle_NameANVL_Lightning_F8": {
+      "en": "Anvil F8A Lightning",
+      "tr": "Anvil F8A Lightning"
+    },
+    "vehicle_nameANVL_Paladin": {
+      "en": "Anvil Paladin",
+      "tr": "Anvil Paladin"
+    },
+    "vehicle_NameCRUS_Starfighter_Ion": {
+      "en": "Crusader Ares Star Fighter Ion",
+      "tr": "Crusader Ares Star Fighter Ion"
+    },
+    "vehicle_NameCRUS_Starlifter_C2": {
+      "en": "Crusader C2 Hercules Starlifter",
+      "tr": "Crusader C2 Hercules Starlifter"
+    },
+    "vehicle_NameCRUS_Starlifter_M2": {
+      "en": "Crusader M2 Hercules Starlifter",
+      "tr": "Crusader M2 Hercules Starlifter"
+    },
+    "vehicle_NameMISC_Starfarer_Gemini": {
+      "en": "MISC Starfarer Gemini",
+      "tr": "MISC Starfarer Gemini"
+    },
+    "vehicle_NameORIG_600i": {
+      "en": "Origin 600i",
+      "tr": "Origin 600i"
+    },
+    "vehicle_NameORIG_890Jump": {
+      "en": "Origin 890 Jump",
+      "tr": "Origin 890 Jump"
+    },
+    "vehicle_NameRSI_Constellation_Aquila": {
+      "en": "RSI Constellation Aquila",
+      "tr": "RSI Constellation Aquila"
+    },
+    "vehicle_NameRSI_Constellation_Taurus": {
+      "en": "RSI Constellation Taurus",
+      "tr": "RSI Constellation Taurus"
+    },
+    "vehicle_NameRSI_Perseus": {
+      "en": "RSI Perseus",
+      "tr": "RSI Perseus"
+    },
+    "vehicle_NameAEGS_Sabre_Raven": {
+      "en": "Aegis Sabre Raven",
+      "tr": "Aegis Sabre Raven"
+    },
+    "vehicle_NameRSI_Constellation_Phoenix": {
+      "en": "RSI Constellation Phoenix",
+      "tr": "RSI Constellation Phoenix"
+    },
     "vehicle_NameDRAK_Cutlass_Red": {
       "en": "Drake Cutlass Red",
       "tr": "Drake Cutlass Red"
@@ -9622,6 +9471,14 @@
     "vehicle_Nameprobe_comms_1_a": {
       "en": "CHCO Auris PDC Monitor",
       "tr": "Monitor PDC CHCO Auris"
+    },
+    "vehicle_NameXIAN_Scout": {
+      "en": "Aopoa Khartu-al",
+      "tr": "Aopoa Khartu-al"
+    },
+    "vehicle_NameRSI_Aurora_LN": {
+      "en": "RSI Aurora Mk I LN",
+      "tr": "RSI Aurora Mk I LN"
     },
     "vehicle_NameKRIG_P52_Merlin": {
       "en": "Kruger P-52 Merlin",
@@ -9631,9 +9488,17 @@
       "en": "Vanduul Stinger",
       "tr": "Vanduul Stinger"
     },
+    "vehicle_NameAEGS_Idris_P": {
+      "en": "Aegis Idris-P",
+      "tr": "Aegis Idris-P"
+    },
     "vehicle_NameVNCL_Mauler": {
       "en": "Vanduul Mauler Destroyer",
       "tr": "Vanduul Mauler Destroyer"
+    },
+    "vehicle_NameAEGS_Idris_M": {
+      "en": "Aegis Idris-M",
+      "tr": "Aegis Idris-M"
     },
     "vehicle_NameCRUS_Intrepid": {
       "en": "Crusader Intrepid",
