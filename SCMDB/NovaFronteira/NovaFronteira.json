@@ -1,17 +1,77 @@
 {
-  "version": "4.10.0-live.12519617",
+  "version": "4.10.1-live.12660092",
   "sourceLanguage": "en",
   "targetLanguage": "unknown",
-  "keyCount": 4418,
+  "keyCount": 4504,
   "stats": {
-    "total": 4418,
-    "translated": 2629,
-    "missing": 0,
-    "noLocKey": 1721,
-    "placeholderFallback": 68,
+    "total": 4504,
+    "translated": 2656,
+    "missing": 59,
+    "noLocKey": 1720,
+    "placeholderFallback": 69,
     "lengthFallback": 0,
     "mismatch": 222,
-    "missingKeys": [],
+    "missingKeys": [
+      "scmdb_ui_fab_dismantle_blacklist_filter_exclude_tt",
+      "scmdb_ui_fab_dismantle_blacklist_filter_include_tt",
+      "scmdb_ui_fab_dismantle_blacklist_filter_off_tt",
+      "scmdb_ui_fab_dismantle_blacklist_material_tt",
+      "scmdb_ui_fab_preset_base",
+      "scmdb_ui_fab_preset_base_tt",
+      "scmdb_ui_fab_preset_max",
+      "scmdb_ui_fab_preset_max_tt",
+      "scmdb_ui_fab_preset_mid",
+      "scmdb_ui_fab_preset_mid_tt",
+      "scmdb_ui_fab_preset_min",
+      "scmdb_ui_fab_preset_min_tt",
+      "scmdb_ui_fab_product_stats",
+      "scmdb_ui_fab_quality_presets",
+      "scmdb_ui_fab_slider_free",
+      "scmdb_ui_fab_slider_mode",
+      "scmdb_ui_fab_slider_snap",
+      "scmdb_ui_fab_slider_snap_tt",
+      "scmdb_ui_stat_ammo_speed",
+      "scmdb_ui_stat_dps",
+      "scmdb_ui_stat_fire_rate",
+      "scmdb_ui_stat_mag_tt",
+      "scmdb_ui_stat_phys_dmg_per_shot",
+      "scmdb_ui_stat_range_suffix",
+      "scmdb_ui_stat_recoil_pitch",
+      "scmdb_ui_stat_recoil_smooth",
+      "scmdb_ui_stat_recoil_yaw",
+      "scmdb_ui_stat_spread",
+      "scmdb_ui_tag_ace",
+      "scmdb_ui_tag_ace_suppressed",
+      "scmdb_ui_tag_ace_suppressed_full",
+      "scmdb_ui_tag_ace_suppressed_tt",
+      "scmdb_ui_tag_ace_tt",
+      "scmdb_ui_tag_cargo_tt",
+      "scmdb_ui_tag_chain",
+      "scmdb_ui_tag_chain_member_tt",
+      "scmdb_ui_tag_chain_starter_tt",
+      "scmdb_ui_tag_event_inactive",
+      "scmdb_ui_tag_event_inactive_tt",
+      "scmdb_ui_tag_evt",
+      "scmdb_ui_tag_illegal",
+      "scmdb_ui_tag_legal",
+      "scmdb_ui_tag_max",
+      "scmdb_ui_tag_min",
+      "scmdb_ui_tag_multi",
+      "scmdb_ui_tag_multi_tt",
+      "scmdb_ui_tag_new",
+      "scmdb_ui_tag_new_tt",
+      "scmdb_ui_tag_prereq",
+      "scmdb_ui_tag_ship_friendly_tt",
+      "scmdb_ui_tag_ship_hostile_tt",
+      "scmdb_ui_tag_solo",
+      "scmdb_ui_tag_starter",
+      "scmdb_ui_tag_unique",
+      "scmdb_ui_tag_variants_tt",
+      "scmdb_ui_tag_waves_tt",
+      "scmdb_ui_tag_wip",
+      "scmdb_ui_unit_ms",
+      "scmdb_ui_unit_rpm"
+    ],
     "mismatchKeys": [
       "CFP_Delivery_Outpost_Multi_title_001",
       "CFP_SecurityPatrol_E_Desc_001",
@@ -2104,15 +2164,15 @@
     },
     "ORS_Construct_Large_Title": {
       "en": "Orison Relief: Large Fabrication Order",
-      "tr": "ALÍVIO DE ORISON: PEDIDO GRANDE DE FABRICAÇÃO"
+      "tr": "ALÍVIO DE ORISON: GRANDE PEDIDO DE FABRICAÇÃO"
     },
     "ORS_ConstructionAid_ResourceGatherLarge_Title": {
       "en": "Orison Relief: Large Materials Order",
-      "tr": "ALÍVIO DE ORISON: PEDIDO GRANDE DE MATERIAIS"
+      "tr": "ALÍVIO DE ORISON: GRANDE PEDIDO DE MATERIAIS"
     },
     "ORS_MedicalAid_HaulingLarge_title": {
       "en": "Orison Relief: Large Supply Haul",
-      "tr": "ALÍVIO DE ORISON: TRANSPORTE DE GRANDES SUPRIMENTOS"
+      "tr": "ALÍVIO DE ORISON: TRANSPORTE GRANDE DE SUPRIMENTOS"
     },
     "ORS_MedicalAid_Delivery_Title": {
       "en": "Orison Relief: Medical Aid Delivery",
@@ -2120,15 +2180,15 @@
     },
     "ORS_Construct_Medium_Title": {
       "en": "Orison Relief: Medium Fabrication Order",
-      "tr": "ALÍVIO DE ORISON: PEDIDO MÉDIO DE FABRICAÇÃO"
+      "tr": "ALÍVIO DE ORISON: MÉDIO PEDIDO DE FABRICAÇÃO"
     },
     "ORS_ConstructionAid_ResourceGatherMedium_Title": {
       "en": "Orison Relief: Medium Materials Order",
-      "tr": "ALÍVIO DE ORISON: PEDIDO MÉDIO DE MATERIAIS"
+      "tr": "ALÍVIO DE ORISON: MÉDIO PEDIDO DE MATERIAIS"
     },
     "ORS_MedicalAid_HaulingMedium_Title": {
       "en": "Orison Relief: Medium Supply Haul",
-      "tr": "ALÍVIO DE ORISON: TRANSPORTE DE SUPRIMENTOS MÉDIOS"
+      "tr": "ALÍVIO DE ORISON: TRANSPORTE MÉDIO DE SUPRIMENTOS"
     },
     "ORS_BunkerRaid_Title": {
       "en": "Orison Relief: Neutralize Nine Tails Reprisal",
@@ -2136,11 +2196,11 @@
     },
     "ORS_Construct_Small_Title": {
       "en": "Orison Relief: Small Fabrication Order",
-      "tr": "ALÍVIO DE ORISON: PEDIDO PEQUENO DE FABRICAÇÃO"
+      "tr": "ALÍVIO DE ORISON: PEQUENO PEDIDO DE FABRICAÇÃO"
     },
     "ORS_ConstructionAid_ResourceGatherSmall_title": {
       "en": "Orison Relief: Small Materials Order",
-      "tr": "ALÍVIO DE ORISON: PEDIDO PEQUENO DE MATERIAIS"
+      "tr": "ALÍVIO DE ORISON: PEQUENO PEDIDO DE MATERIAIS"
     },
     "ORS_MedicalAid_HaulingSmall_Title": {
       "en": "Orison Relief: Small Supply Haul",
@@ -5415,15 +5475,15 @@
       "tr": "Saudações,\\n\\nAs Forças de Segurança de Crusader entraram em contato conosco buscando nossa experiência para lidar com uma situação urgente. Diversas plataformas próximas a Orison foram tomadas por membros da gangue Nine Tails e a Northrock está ansiosa para organizar uma operação para removê-los e devolver as plataformas à Crusader.\\n\\nA Nine Tails implementou medidas para bloquear todo o tráfego aéreo na área, então recebemos acesso a um transporte seguro que levará você e quaisquer outros membros da sua equipe de assalto até a primeira plataforma.\\n\\nPara total transparência, devo alertar que este não é um contrato para os fracos de coração. Ainda assim, tenho confiança de que suas habilidades de combate e as da equipe selecionada estarão totalmente à altura do desafio.\\n\\nAssim que chegar ao transporte, entrarei em contato diretamente com mais informações.\\n\\nFalamos em breve,\\nAdrienne Du-Buisson\\nOficial de Logística - Filial de Stanton\\nNorthrock Service Group"
     },
     "ORS_Construct_Large_Desc": {
-      "en": "Alright,\\n\\nThe damage reports are still rolling in from the Nine Tails' attack on Orison and the folks at Crusader are saying they might have to repair a significant proportion of the propulsors on those platforms. That's why this one's a massive order.\\n\\nLarger quantity, but same as before otherwise. Either manufacturer them yourself using an Item Fabricator or source them some other way.\\n\\nWhen you're done, drop the propulsors off at <EM4>[DESTINATION]</EM4>. Be a big payout with this one.\\n\\nTa very much,\\nHal Grimsby\\nContracts Manager\\n\\nCORNERSTONE MAINTENANCE\\n\"Building on the Foundations of our Past.\"",
-      "tr": "Certo,\\n\\nOs relatórios de danos ainda estão chegando após o ataque dos Nine Tails a Orison, e o pessoal da Crusader informou que talvez precise reparar uma parte significativa dos propulsores das plataformas. É por isso que este é um pedido de grande escala.\\n\\nA quantidade é maior, mas o trabalho continua o mesmo de antes. Você pode fabricá-los usando um Fabricador de Itens ou obtê-los de outra forma.\\n\\nQuando terminar, entregue os propulsores em <EM4>[DESTINATION]</EM4>. O pagamento vai ser grande nesse trabalho.\\n\\nMuito obrigado,\\nHal Grimsby\\nGerente de Contratos\\n\\nCORNERSTONE MAINTENANCE\\n\"Construindo Sobre as Bases do Nosso Passado.\""
+      "en": "Alright,\\n\\nThe damage reports are still rolling in from the Nine Tails' attack on Orison and the folks at Crusader are saying they might have to repair a significant proportion of the propulsors on those platforms. That's why this one's a massive order.\\n\\nLarger quantity, but same as before otherwise. Either manufacturer them yourself using an Item Fabricator or source them some other way.\\n\\nWhen you're done, drop the propulsors off at <EM4>[DESTINATION]</EM4>. Be a big payout with this one.\\n\\nTa very much,\\nHal Grimsby\\nContracts Manager\\n\\nCORNERSTONE DEVELOPMENTS\\n\"Building on the Foundations of our Past.\"",
+      "tr": "E aí,\\n\\nOs relatórios de danos causados pelo ataque dos Nine Tails em Orison ainda estão chegando, e o pessoal da Crusader disse que talvez precise reparar uma parte enorme dos propulsores daquelas plataformas. Então essa aqui é uma encomenda de peso.\\n\\nÉ uma quantidade bem maior, mas o resto é igual. Fabrique você mesmo usando um Fabricador de Itens ou consiga os propulsores por outro meio.\\n\\nQuando terminar, entregue os propulsores em <EM4>[DESTINATION]</EM4>. Essa missão paga muito bem.\\n\\nValeu demais,\\nHal Grimsby\\nGerente de Contratos\\n\\nCORNERSTONE DEVELOPMENTS\\n\"Construindo sobre as fundações do nosso passado.\""
     },
     "ORS_ConstructionAid_ResourceGatherLarge_Desc": {
       "en": "Alright,\\n\\nGot a large scale order from the Crusader folks to help them fix up their platforms. Big order means a big payout.\\n\\nWhen you're done collecting all the materials, take them to <EM4>[DESTINATION]</EM4> and job's a good'un.\\n\\nTa very much,\\nHal Grimsby\\nContracts Manager\\n\\nCORNERSTONE MAINTENANCE\\n\"Building on the Foundations of our Past.\"",
       "tr": "Certo,\\n\\nRecebemos um pedido de grande escala do pessoal da Crusader para ajudar no reparo das plataformas. Pedido grande significa pagamento grande.\\n\\nQuando terminar de coletar todos os materiais, leve-os até <EM4>[DESTINATION]</EM4> e o trabalho estará concluído.\\n\\nMuito obrigado,\\nHal Grimsby\\nGerente de Contratos\\n\\nCORNERSTONE MAINTENANCE\\n\"Construindo Sobre as Bases do Nosso Passado.\""
     },
     "ORS_MedicalAid_HaulingLarge_Desc": {
-      "en": "Hey, it’s El.\\n\\nOff the bat – this particular job’s a big deal, so if you’re looking to take this one on for us, make sure you’re confident in your ability to do a job well. \\n\\nWe’ve been contracted by Crusader to deliver medical supplies to <EM4>[DESTINATION]</EM4>. Pick up’s at <EM4>[LOCATION]</EM4>. Bear in mind, this is gonna be a big one, so make sure bring a <EM4>handheld tractor beam</EM4> and a ship that can hold <EM4>24 SCU cargo containers</EM4> otherwise it might be a little rough.\\n\\nI can’t stress the importance of this contract enough – lots of good people got hurt in those attacks, and it’s our responsibility to do what we can to help them in the aftermath. We owe the victims that much, at the very least.\\n\\nLet’s do right by them,\\n\\nElla Tieno \\nJr. Logistics Coordinator \\nCovalex Shipping   \\n'Anything you need, anywhere you need it.'",
+      "en": "Hey, it’s El.\\n\\nOff the bat – this particular job’s a big deal, so if you’re looking to take this one on for us, make sure you’re confident in your ability to do a job well. \\n\\nWe’ve been contracted by Crusader to deliver medical supplies to <EM4>[DESTINATION]</EM4>. Pick up’s at <EM4>[LOCATION]</EM4>. Bear in mind, this is gonna be a big one, so make sure bring a <EM4>handheld tractor beam</EM4> and a ship that can hold <EM4>16 SCU cargo containers</EM4> otherwise it might be a little rough.\\n\\nI can’t stress the importance of this contract enough – lots of good people got hurt in those attacks, and it’s our responsibility to do what we can to help them in the aftermath. We owe the victims that much, at the very least.\\n\\nLet’s do right by them,\\n\\nElla Tieno \\nJr. Logistics Coordinator \\nCovalex Shipping   \\n'Anything you need, anywhere you need it.'",
       "tr": "Ei, aqui é a El.\\n\\nDe cara — esse trabalho em específico é muito importante, então se você pretende assumir essa missão para nós, tenha certeza de que está confiante na sua capacidade de fazer um bom trabalho.\\n\\nFomos contratados pela Crusader para entregar suprimentos médicos em <EM4>[DESTINATION]</EM4>. A coleta será em <EM4>[LOCATION]</EM4>. Tenha em mente que essa vai ser uma carga grande, então certifique-se de trazer uma <EM4>trator de mão</EM4> e uma nave que consiga transportar <EM4>[MAX_SCU] contêineres de carga</EM4>, caso contrário pode ser um pouco complicado.\\n\\nNão consigo enfatizar o suficiente a importância desse contrato — muitas pessoas boas ficaram feridas nesses ataques, e é nossa responsabilidade fazer o que pudermos para ajudá-las depois de tudo isso. Devemos isso às vítimas, no mínimo.\\n\\nVamos fazer o certo por elas,\\n\\nElla Tieno \\nCoordenadora Júnior de Logística \\nCovalex Shipping   \\n'Qualquer coisa que você precise, onde quer que precise.'"
     },
     "ORS_MedicalAid_Delivery_Desc": {
@@ -5431,15 +5491,15 @@
       "tr": "Olá,\\n\\nA Crusader pediu para nós aqui da Ling Family Hauling ajudarmos nos esforços de socorro deles, e é extremamente importante para nós, como empresa e como família, fazer isso da maneira certa. Pensar no que aconteceu com as vítimas de Orison acontecendo com alguém da minha família... Devemos aos sobreviventes fazer tudo que estiver ao nosso alcance para ajudá-los.\\nOs suprimentos médicos que a Crusader precisa devem ser coletados em <EM4>[LOCATION]</EM4> e entregues em <EM4>[DESTINATION]</EM4>. E não se esqueça de levar um <EM4>trator de mão</EM4> para agilizar o processo.\\n\\nObrigado, \\nConni Ling\\nCoordenadora de Remessas\\nLing Family Hauling"
     },
     "ORS_Construct_Medium_Desc": {
-      "en": "Hullo,\\n\\nCrusader have been in touch to say that the scale of the damage to their platforms is greater than they initially thought and they'll need more propulsors than they originally estimated for.\\n\\nWe're contracting out their request to anyone with an available Item Fabricator standing by. Though I guess you could source the propulsors some other way, but that's on you.\\n\\nOnce ready, deliver them to <EM4>[DESTINATION]</EM4>. Payment sent on completion.\\n\\nTa very much,\\nHal Grimsby\\nContracts Manager\\n\\nCORNERSTONE MAINTENANCE\\n\"Building on the Foundations of our Past.\"",
-      "tr": "Olá,\\n\\nA Crusader entrou em contato informando que a escala dos danos nas plataformas é maior do que imaginavam inicialmente, e eles precisarão de mais propulsores do que haviam estimado.\\n\\nEstamos terceirizando o pedido deles para qualquer pessoa com um Fabricador de Itens disponível. Embora eu suponha que você também possa conseguir os propulsores de outra forma, isso fica por sua conta.\\n\\nQuando estiverem prontos, entregue-os em <EM4>[DESTINATION]</EM4>. O pagamento será enviado após a conclusão.\\n\\nMuito obrigado,\\nHal Grimsby\\nGerente de Contratos\\n\\nCORNERSTONE MAINTENANCE\\n\"Construindo Sobre as Bases do Nosso Passado.\""
+      "en": "Hullo,\\n\\nCrusader have been in touch to say that the scale of the damage to their platforms is greater than they initially thought and they'll need more propulsors than they originally estimated for.\\n\\nWe're contracting out their request to anyone with an available Item Fabricator standing by. Though I guess you could source the propulsors some other way, but that's on you.\\n\\nOnce ready, deliver them to <EM4>[DESTINATION]</EM4>. Payment sent on completion.\\n\\nTa very much,\\nHal Grimsby\\nContracts Manager\\n\\nCORNERSTONE DEVELOPMENTS\\n\"Building on the Foundations of our Past.\"",
+      "tr": "Olá,\\n\\nA Crusader entrou em contato para avisar que os danos nas plataformas são maiores do que imaginavam e vão precisar de mais propulsores do que estimaram inicialmente.\\n\\nEstamos terceirizando esse pedido para qualquer um que tenha um Fabricador de Itens disponível. Claro, você também pode conseguir os propulsores por outros meios, mas aí é por sua conta.\\n\\nQuando estiver tudo pronto, entregue em <EM4>[DESTINATION]</EM4>. O pagamento será enviado após a conclusão.\\n\\nValeu demais,\\nHal Grimsby\\nGerente de Contratos\\n\\nCORNERSTONE DEVELOPMENTS\\n\"Construindo sobre as fundações do nosso passado.\""
     },
     "ORS_ConstructionAid_ResourceGatherMedium_Desc": {
       "en": "Ey up,\\n\\nWe're still on the hunt for more materials to help Crusader after the Nine Tails attack. Need a bit more this time though. Will make sure you're compensated accordingly.\\n\\nAfter you've got the materials, head to <EM4>[DESTINATION]</EM4> and we'll get it sorted.\\n\\nTa very much,\\nHal Grimsby\\nContracts Manager\\n\\nCORNERSTONE MAINTENANCE\\n\"Building on the Foundations of our Past.\"",
       "tr": "Olá,\\n\\nAinda estamos procurando mais materiais para ajudar a Crusader após o ataque dos Nine Tails. Precisamos de um pouco mais dessa vez, mas garantiremos que você seja compensado adequadamente.\\n\\nDepois de conseguir os materiais, vá até <EM4>[DESTINATION]</EM4> e vamos resolver tudo.\\n\\nMuito obrigado,\\nHal Grimsby\\nGerente de Contratos\\n\\nCORNERSTONE MAINTENANCE\\n\"Construindo Sobre as Bases do Nosso Passado.\""
     },
     "ORS_MedicalAid_HaulingMedium_desc": {
-      "en": "Hey, it’s El.\\n\\nCrusader is still trying to make things right in Orison following the attack, so I’m hoping you’re free to keep assisting with the effort.\\n\\nWe been contracted to deliver relief supplies to <EM4>[DESTINATION]</EM4>. Pick up’s at <EM4>[LOCATION]</EM4>. \\nNot too shabby a haul either, so make sure you’re in a ship that can hold <EM4>24 SCU cargo containers</EM4> and bring a <EM4>handheld tractor beam</EM4>, or you’ll make us all look unprofessional.\\n\\nI’m not kidding around with this job being important to get done right. Lotta people got hurt during the Nine Tails raid, and they’re relying on people like us to get them the help they need. So let’s do right by them, okay?\\n\\nElla Tieno \\nJr. Logistics Coordinator \\nCovalex Shipping   \\n'Anything you need, anywhere you need it.'",
+      "en": "Hey, it’s El.\\n\\nCrusader is still trying to make things right in Orison following the attack, so I’m hoping you’re free to keep assisting with the effort.\\n\\nWe been contracted to deliver relief supplies to <EM4>[DESTINATION]</EM4>. Pick up’s at <EM4>[LOCATION]</EM4>. \\nNot too shabby a haul either, so make sure you’re in a ship that can hold <EM4>8 SCU cargo containers</EM4> and bring a <EM4>handheld tractor beam</EM4>, or you’ll make us all look unprofessional.\\n\\nI’m not kidding around with this job being important to get done right. Lotta people got hurt during the Nine Tails raid, and they’re relying on people like us to get them the help they need. So let’s do right by them, okay?\\n\\nElla Tieno \\nJr. Logistics Coordinator \\nCovalex Shipping   \\n'Anything you need, anywhere you need it.'",
       "tr": "Ei, aqui é a El.\\n\\nA Crusader ainda está tentando reparar os danos em Orison após o ataque, então espero que você tenha disponibilidade para continuar ajudando nos esforços.\\n\\nFomos contratados para entregar suprimentos de socorro em <EM4>[DESTINATION]</EM4>. A coleta será em <EM4>[LOCATION]</EM4>.\\nNão é uma carga tão ruim, então certifique-se de estar em uma nave que consiga transportar <EM4>[MAX_SCU] contêineres de carga</EM4> e leve um <EM4>trator de mão</EM4>, ou você vai fazer todos nós parecermos amadores.\\n\\nNão estou brincando quando digo que esse trabalho precisa ser feito direito. Muita gente se machucou durante a invasão dos Nine Tails, e eles dependem de pessoas como nós para conseguirem a ajuda que precisam. Então vamos fazer o certo por eles, certo?\\n\\nElla Tieno \\nCoordenadora Júnior de Logística \\nCovalex Shipping   \\n'Qualquer coisa que você precise, onde quer que precise.'"
     },
     "ORS_BunkerRaid_Desc": {
@@ -5447,15 +5507,15 @@
       "tr": "Alguns dos membros dos Nine Tails responsáveis pelo ataque a Orison foram vistos recentemente nas proximidades de <EM4>[LOCATION]</EM4> reunindo suas forças. A Crusader está preocupada que eles estejam planejando outro ataque, então esse é um trabalho que precisa ser feito com cuidado.\\n\\nSua missão será se infiltrar no local e neutralizar os Nine Tails da maneira que for necessária antes que eles possam realizar uma tentativa de retaliação contra Orison. Como você deve saber, esses caras são problema, então tome cuidado para que eles não levem a melhor sobre você.\\n\\nBoa sorte,\\n\\nKevin Walton\\nDespachante, Foxwell Enforcement\\n\"Segurança, Do Seu Jeito\"\\n\\nA Foxwell Enforcement é uma especialista em segurança credenciada e autorizada a operar por toda a UEE. Estamos sempre procurando novos operadores para se juntarem à nossa família. Se você ou alguém que conhece tiver interesse, entre em contato com um de nossos representantes de contratos."
     },
     "ORS_Construct_Small_Desc": {
-      "en": "Now then,\\n\\nAfter the Nine Tails attack, the folks at Crusader could do with more than just a helping hand. What they need are proper propulsors to help replace the ones damaged in the attacks.\\n\\nWe've attached a blueprint outlining what materials you'll need to create them. Up to you whether you go out and find those materials yourself or buy them from a trader. Either way you will need access to an Item Fabricator to make the propulsors yourself.\\n\\nOnce you're done bring them to <EM4>[DESTINATION]</EM4> and one of the team will sort out the rest.\\n\\nTa very much,\\nHal Grimsby\\nContracts Manager\\n\\nCORNERSTONE MAINTENANCE\\n\"Building on the Foundations of our Past.\"",
-      "tr": "Muito bem,\\n\\nApós o ataque dos Nine Tails, o pessoal da Crusader precisa de mais do que apenas uma ajuda. O que eles precisam são propulsores adequados para substituir os que foram danificados nos ataques.\\n\\nAnexamos um projeto mostrando quais materiais serão necessários para criá-los. Cabe a você decidir se vai procurar esses materiais ou comprá-los de um comerciante. De qualquer forma, será necessário ter acesso a um Fabricador de Itens para produzir os propulsores.\\n\\nQuando terminar, leve-os até <EM4>[DESTINATION]</EM4> e alguém da equipe cuidará do restante.\\n\\nMuito obrigado,\\nHal Grimsby\\nGerente de Contratos\\n\\nCORNERSTONE MAINTENANCE\\n\"Construindo Sobre as Bases do Nosso Passado.\""
+      "en": "Now then,\\n \\nAfter the Nine Tails attack, the folks at Crusader could do with more than just a helping hand. What they need are proper propulsors to help replace the ones damaged in the attacks.\\n \\nWe've attached a blueprint for the TH-01 Propulsor that you can access at an <EM4>Item Fabricator.</EM4> Just search for it on the fabricator's terminal and you'll be able to see what materials are needed. Up to you whether you go out and find those materials yourself or buy them from a trader. (And if you don't have a fabricator yet, you'll have to purchase one at a shop, unload it at a freight elevator, and then set it up in a hangar or ship's cargo bay.) \\n \\nOnce you're done bring them to <EM4>[DESTINATION]</EM4> and one of the team will sort out the rest.\\n \\nTa very much,\\nHal Grimsby\\nContracts Manager\\n\\nCORNERSTONE DEVELOPMENTS\\n\"Building on the Foundations of our Past.\"",
+      "tr": "Então,\\n\\nDepois do ataque dos Nine Tails, o pessoal da Crusader precisa de mais do que uma ajuda. O que eles realmente precisam são propulsores novos para substituir os que foram danificados durante os ataques.\\n\\nAnexamos um projeto do Propulsor TH-01 que pode ser acessado em um <EM4>Fabricador de Itens.</EM4> Basta procurar por ele no terminal do fabricador para ver quais materiais são necessários. Fica por sua conta sair para coletar esses materiais ou comprá-los de um comerciante. (E se você ainda não tem um fabricador, vai precisar comprar um em uma loja, descarregá-lo em um elevador de carga e instalá-lo em um hangar ou no compartimento de carga da sua Nave.)\\n\\nQuando terminar, leve tudo para <EM4>[DESTINATION]</EM4> e a equipe cuida do resto.\\n\\nValeu demais,\\nHal Grimsby\\nGerente de Contratos\\n\\nCORNERSTONE DEVELOPMENTS\\n\"Construindo sobre as fundações do nosso passado.\""
     },
     "ORS_ConstructionAid_ResourceGatherSmall_desc": {
       "en": "Now then,\\n\\nYou might have heard about the recent attacks on the Orison platforms. Terrible stuff. The folks at Crusader are scrambling around trying to put it all back together and have contracted us to help.\\n\\nTo get them back on their feet what we need is construction materials. Can give you a decent pay packet for them too.\\n\\nIf you don't know already how to get construction materials, your best bet is to read United Resource Workers' <EM4>A Salvager's Guide to Material Collection</EM4>. That'll set you on the right path.\\n\\nOnce you've got the order ready, you'll need to drop it all off at <EM4>[DESTINATION]</EM4>.\\n\\nTa very much,\\nHal Grimsby\\nContracts Manager\\n\\nCORNERSTONE MAINTENANCE\\n\"Building on the Foundations of our Past.\"",
       "tr": "Muito bem,\\n\\nVocê talvez tenha ouvido falar sobre os ataques recentes às plataformas de Orison. Uma situação terrível. O pessoal da Crusader está correndo para colocar tudo de volta no lugar e nos contratou para ajudar.\\n\\nPara colocá-los de volta nos trilhos, precisamos de materiais de construção. Também podemos oferecer um pagamento razoável por eles.\\n\\nSe ainda não sabe como obter materiais de construção, sua melhor opção é ler o guia da United Resource Workers, <EM4>Um Guia de Coleta de Materiais para Salvadores</EM4>. Isso colocará você no caminho certo.\\n\\nQuando tiver o pedido pronto, será necessário entregar tudo em <EM4>[DESTINATION]</EM4>.\\n\\nMuito obrigado,\\nHal Grimsby\\nGerente de Contratos\\n\\nCORNERSTONE MAINTENANCE\\n\"Construindo Sobre as Bases do Nosso Passado.\""
     },
     "ORS_MedicalAid_HaulingSmall_Desc": {
-      "en": "Hey, it’s El.\\n\\nNeed a reliable contractor for a pretty important delivery today. I’m sure you’re aware of what went down in Orison, big commotion. Made my job about ten times harder.\\n\\nAnyway, we’ve been contracted by Crusader to deliver some medical stuff to <EM4>[DESTINATION]</EM4>. Pick up’s at <EM4>[LOCATION]</EM4>. Shouldn’t be too heavy an order for this one, just make sure you’ve got a ship that can hold <EM4>24 SCU cargo containers</EM4> and a <EM4>handheld tractor beam</EM4>, or you’ll really embarrass yourself when you get there.\\n\\nLook, I’ll level with you. This job isn’t just hauling for hauling’s sake. Orison got pretty messed up by those Nine Tails, so anything we can do to help them out is probably the right thing to do.\\n\\nLet’s get it done,\\n\\nElla Tieno \\nJr. Logistics Coordinator \\nCovalex Shipping   \\n'Anything you need, anywhere you need it.'",
+      "en": "Hey, it’s El.\\n\\nNeed a reliable contractor for a pretty important delivery today. I’m sure you’re aware of what went down in Orison, big commotion. Made my job about ten times harder.\\n\\nAnyway, we’ve been contracted by Crusader to deliver some medical stuff to <EM4>[DESTINATION]</EM4>. Pick up’s at <EM4>[LOCATION]</EM4>. Shouldn’t be too heavy an order for this one, just make sure you’ve got a ship that can hold <EM4>1 SCU cargo containers</EM4> and a <EM4>handheld tractor beam</EM4>, or you’ll really embarrass yourself when you get there.\\n\\nLook, I’ll level with you. This job isn’t just hauling for hauling’s sake. Orison got pretty messed up by those Nine Tails, so anything we can do to help them out is probably the right thing to do.\\n\\nLet’s get it done,\\n\\nElla Tieno \\nJr. Logistics Coordinator \\nCovalex Shipping   \\n'Anything you need, anywhere you need it.'",
       "tr": "Ei, aqui é a El.\\n\\nPreciso de um contratado confiável para uma entrega bastante importante hoje. Tenho certeza de que você sabe o que aconteceu em Orison, aquela grande confusão. Tornou meu trabalho umas dez vezes mais difícil.\\n\\nEnfim, fomos contratados pela Crusader para entregar alguns suprimentos médicos em <EM4>[DESTINATION]</EM4>. A coleta será em <EM4>[LOCATION]</EM4>. Não deve ser uma encomenda muito pesada dessa vez, apenas certifique-se de ter uma nave que consiga transportar <EM4>[MAX_SCU] contêineres de carga</EM4> e um <EM4>trator de mão</EM4>, ou você vai passar vergonha quando chegar lá.\\n\\nOlha, vou ser sincera com você. Esse trabalho não é apenas transportar carga por transportar. Orison ficou bastante destruída por causa daqueles Nine Tails, então qualquer coisa que possamos fazer para ajudar é provavelmente a coisa certa a se fazer.\\n\\nVamos terminar isso,\\n\\nElla Tieno \\nCoordenadora Júnior de Logística \\nCovalex Shipping   \\n'Qualquer coisa que você precise, onde quer que precise.'"
     },
     "ORS_ShipWaveAt_Desc": {
@@ -9714,10 +9774,6 @@
       "en": "Drake Cutlass Red",
       "tr": "Drake Cutlass Red"
     },
-    "vehicle_Nameprobe_comms_1_a": {
-      "en": "CHCO Auris PDC Monitor",
-      "tr": "Monitor PDC CHCO Auris"
-    },
     "vehicle_NameVNCL_Mauler": {
       "en": "Vanduul Mauler Destroyer",
       "tr": "Vanduul Mauler Destroyer"
@@ -9733,6 +9789,10 @@
     "vehicle_NameKRIG_P52_Merlin": {
       "en": "Kruger P-52 Merlin",
       "tr": "Kruger P-52 Merlin"
+    },
+    "vehicle_Nameprobe_comms_1_a": {
+      "en": "CHCO Auris PDC Monitor",
+      "tr": "Monitor PDC CHCO Auris"
     },
     "vehicles_NameOrbital_Sentry": {
       "en": "Broad & Rabiee Overseer Orbital Sentry",
@@ -10089,6 +10149,118 @@
     "Xenothreat_RepUI_Name": {
       "en": "XenoThreat",
       "tr": "XenoThreat"
+    },
+    "headhunters_from": {
+      "en": "Headhunters",
+      "tr": "Headhunters"
+    },
+    "roughready_from": {
+      "en": "Rough & Ready",
+      "tr": "Rough & Ready"
+    },
+    "cfp_from": {
+      "en": "Citizens for Prosperity",
+      "tr": "Citizens for Prosperity"
+    },
+    "vaughn_from": {
+      "en": "Vaughn",
+      "tr": "Vaughn"
+    },
+    "cdf_from": {
+      "en": "Civilian Defense Force",
+      "tr": "FORÇAS DE DEFESA CIVIL"
+    },
+    "Adagio_from": {
+      "en": "Adagio Holdings",
+      "tr": "Adagio Holdings"
+    },
+    "BHG_From": {
+      "en": "Bounty Hunters Guild",
+      "tr": "GUILDA DE CAÇADORES DE RECOMPENSA"
+    },
+    "shubin_from": {
+      "en": "Shubin Interstellar",
+      "tr": "Shubin Interestelar"
+    },
+    "FTL_from": {
+      "en": "FTL Courier",
+      "tr": "FTL Courier"
+    },
+    "Rayari_from": {
+      "en": "Rayari Inc.",
+      "tr": "Rayari Inc."
+    },
+    "foxwell_from": {
+      "en": "Foxwell Enforcement",
+      "tr": "Foxwell Enforcement"
+    },
+    "TheCollector_From": {
+      "en": "Wikelo",
+      "tr": "Wikelo"
+    },
+    "InterSec_From": {
+      "en": "InterSec Defense Solutions",
+      "tr": "InterSec Defense Solutions"
+    },
+    "Hockrow_from": {
+      "en": "Hockrow Agency",
+      "tr": "Hockrow Agency"
+    },
+    "MissionGivers_ReccoBattaglia": {
+      "en": "Recco Battaglia",
+      "tr": "Recco Battaglia"
+    },
+    "BitZeros_from": {
+      "en": "Bit Zeros",
+      "tr": "Bit Zeros"
+    },
+    "northrock_from_001": {
+      "en": "Northrock Service Group",
+      "tr": "GRUPO DE SERVIÇOS NORTHROCK"
+    },
+    "mission_contractor_0003": {
+      "en": "Covalex Independent Contractors",
+      "tr": "Covalex Independent Contractors"
+    },
+    "mg_miles_MissionLegal_from": {
+      "en": "Eckhart Security",
+      "tr": "SEGURANÇA ECKHART"
+    },
+    "mission_contractor_0009": {
+      "en": "Ling Family Hauling",
+      "tr": "Ling Family Hauling"
+    },
+    "mission_contractor_0012": {
+      "en": "Red Wind Linehaul",
+      "tr": "Red Wind Linehaul"
+    },
+    "SalvageContractor_From": {
+      "en": "Adagio Holdings",
+      "tr": "Adagio Holdings"
+    },
+    "deadsaints_from": {
+      "en": "Dead Saints",
+      "tr": "Dead Saints"
+    },
+    "GFS_From": {
+      "en": "Gilly's Flight School",
+      "tr": "Escola de Pilotagem do Gilly"
+    },
+    "UWC_From": {
+      "en": "United Wayfarers Club",
+      "tr": "United Wayfarers Club"
+    },
+    "Highpoint_from": {
+      "en": "Highpoint Wilderness Specialists",
+      "tr": "Highpoint Wilderness Specialists"
+    },
+    "LingFamily_From": {
+      "en": "Ling Family Hauling",
+      "tr": "Ling Family Hauling"
+    },
+    "ConerstoneDevelopments_From": {
+      "en": "Cornerstone Developments",
+      "tr": "Cornerstone Developments"
     },
     "mobiGlas_ui_MissionType_Delivery": {
       "en": "Delivery",
@@ -17074,10 +17246,6 @@
       "en": "ZeroRush",
       "tr": "ZeroRush"
     },
-    "_noloc_craftingslot_Frame": {
-      "en": "Frame",
-      "tr": "Frame"
-    },
     "_noloc_craftingslot_Substrate": {
       "en": "Substrate",
       "tr": "Substrate"
@@ -17090,6 +17258,10 @@
       "en": "Filament Coating",
       "tr": "Filament Coating"
     },
+    "_noloc_craftingslot_Frame": {
+      "en": "Frame",
+      "tr": "Frame"
+    },
     "_noloc_craftingslot_Electronics": {
       "en": "Electronics",
       "tr": "Electronics"
@@ -17101,10 +17273,6 @@
     "_noloc_craftingslot_Support Structure": {
       "en": "Support Structure",
       "tr": "Support Structure"
-    },
-    "_noloc_craftingslot_Wiring": {
-      "en": "Wiring",
-      "tr": "Wiring"
     },
     "_noloc_craftingslot_Magazine": {
       "en": "Magazine",
@@ -17197,6 +17365,10 @@
     "_noloc_craftingslot_Bus Bars": {
       "en": "Bus Bars",
       "tr": "Bus Bars"
+    },
+    "_noloc_craftingslot_Wiring": {
+      "en": "Wiring",
+      "tr": "Wiring"
     },
     "_noloc_craftingslot_Voltage Regulator": {
       "en": "Voltage Regulator",
@@ -17394,9 +17566,9 @@
       "en": "Carinite",
       "tr": "Carinite"
     },
-    "_noloc_mining_Carinitepure": {
-      "en": "Carinitepure",
-      "tr": "Carinitepure"
+    "items_commodities_carinite_pure": {
+      "en": "Carinite (Pure)",
+      "tr": "Carinite (Pure)"
     },
     "hud_mining_fps_rock_name_2": {
       "en": "Dolivine",
@@ -17481,10 +17653,6 @@
     "items_commodities_tungsten_ore": {
       "en": "Tungsten (Ore)",
       "tr": "Tungsten (Ore)"
-    },
-    "items_commodities_carinite_pure": {
-      "en": "Carinite (Pure)",
-      "tr": "Carinite (Pure)"
     },
     "items_commodities_saldynium_ore": {
       "en": "Saldynium (Ore)",
@@ -17909,6 +18077,242 @@
     "items_commodities_aluminum_ore": {
       "en": "Aluminum (Ore)",
       "tr": "Aluminum (Ore)"
+    },
+    "scmdb_ui_tag_legal": {
+      "en": "LEGAL",
+      "tr": "LEGAL"
+    },
+    "scmdb_ui_tag_illegal": {
+      "en": "ILLEGAL",
+      "tr": "ILLEGAL"
+    },
+    "scmdb_ui_tag_solo": {
+      "en": "SOLO",
+      "tr": "SOLO"
+    },
+    "scmdb_ui_tag_unique": {
+      "en": "UNIQUE",
+      "tr": "UNIQUE"
+    },
+    "scmdb_ui_tag_starter": {
+      "en": "STARTER",
+      "tr": "STARTER"
+    },
+    "scmdb_ui_tag_chain": {
+      "en": "CHAIN",
+      "tr": "CHAIN"
+    },
+    "scmdb_ui_tag_prereq": {
+      "en": "PREREQ",
+      "tr": "PREREQ"
+    },
+    "scmdb_ui_tag_new": {
+      "en": "NEW",
+      "tr": "NEW"
+    },
+    "scmdb_ui_tag_new_tt": {
+      "en": "Added in patch {patch}",
+      "tr": "Added in patch {patch}"
+    },
+    "scmdb_ui_tag_ace": {
+      "en": "ACE",
+      "tr": "ACE"
+    },
+    "scmdb_ui_tag_ace_tt": {
+      "en": "Ace Pilot - {chance}% spawn chance",
+      "tr": "Ace Pilot - {chance}% spawn chance"
+    },
+    "scmdb_ui_tag_ace_suppressed": {
+      "en": "ACE*",
+      "tr": "ACE*"
+    },
+    "scmdb_ui_tag_ace_suppressed_tt": {
+      "en": "Per community feedback, ACE pilots do not spawn on ambush missions",
+      "tr": "Per community feedback, ACE pilots do not spawn on ambush missions"
+    },
+    "scmdb_ui_tag_ace_suppressed_full": {
+      "en": "ACE* - does not spawn",
+      "tr": "ACE* - does not spawn"
+    },
+    "scmdb_ui_tag_multi": {
+      "en": "Multi",
+      "tr": "Multi"
+    },
+    "scmdb_ui_tag_multi_tt": {
+      "en": "Spawns across {systems}",
+      "tr": "Spawns across {systems}"
+    },
+    "scmdb_ui_tag_evt": {
+      "en": "EVT",
+      "tr": "EVT"
+    },
+    "scmdb_ui_tag_wip": {
+      "en": "WIP",
+      "tr": "WIP"
+    },
+    "scmdb_ui_tag_event_inactive": {
+      "en": "EVENT INACTIVE",
+      "tr": "EVENT INACTIVE"
+    },
+    "scmdb_ui_tag_event_inactive_tt": {
+      "en": "Required event is currently not active",
+      "tr": "Required event is currently not active"
+    },
+    "scmdb_ui_tag_variants_tt": {
+      "en": "{n} variants",
+      "tr": "{n} variants"
+    },
+    "scmdb_ui_tag_waves_tt": {
+      "en": "{n} waves",
+      "tr": "{n} waves"
+    },
+    "scmdb_ui_tag_ship_hostile_tt": {
+      "en": "{n} hostile ships from a pool of {pool}",
+      "tr": "{n} hostile ships from a pool of {pool}"
+    },
+    "scmdb_ui_tag_ship_friendly_tt": {
+      "en": "{n} friendly/neutral ships",
+      "tr": "{n} friendly/neutral ships"
+    },
+    "scmdb_ui_tag_cargo_tt": {
+      "en": "Target ships carry lootable cargo",
+      "tr": "Target ships carry lootable cargo"
+    },
+    "scmdb_ui_tag_chain_starter_tt": {
+      "en": "First mission in a chain",
+      "tr": "First mission in a chain"
+    },
+    "scmdb_ui_tag_chain_member_tt": {
+      "en": "Part of a mission chain",
+      "tr": "Part of a mission chain"
+    },
+    "scmdb_ui_tag_min": {
+      "en": "MIN",
+      "tr": "MIN"
+    },
+    "scmdb_ui_tag_max": {
+      "en": "MAX",
+      "tr": "MAX"
+    },
+    "scmdb_ui_fab_product_stats": {
+      "en": "Product Stats",
+      "tr": "Product Stats"
+    },
+    "scmdb_ui_fab_slider_mode": {
+      "en": "SLIDER MODE:",
+      "tr": "SLIDER MODE:"
+    },
+    "scmdb_ui_fab_slider_free": {
+      "en": "Free",
+      "tr": "Free"
+    },
+    "scmdb_ui_fab_slider_snap": {
+      "en": "Snap",
+      "tr": "Snap"
+    },
+    "scmdb_ui_fab_slider_snap_tt": {
+      "en": "Snap to game quality bands - limits the slider to the handful of in-game values",
+      "tr": "Snap to game quality bands - limits the slider to the handful of in-game values"
+    },
+    "scmdb_ui_fab_quality_presets": {
+      "en": "QUALITY PRESETS",
+      "tr": "QUALITY PRESETS"
+    },
+    "scmdb_ui_fab_preset_min": {
+      "en": "Min",
+      "tr": "Min"
+    },
+    "scmdb_ui_fab_preset_min_tt": {
+      "en": "Lowest possible quality for each material",
+      "tr": "Lowest possible quality for each material"
+    },
+    "scmdb_ui_fab_preset_base": {
+      "en": "Base",
+      "tr": "Base"
+    },
+    "scmdb_ui_fab_preset_base_tt": {
+      "en": "Base quality - no bonus, no penalty (0%)",
+      "tr": "Base quality - no bonus, no penalty (0%)"
+    },
+    "scmdb_ui_fab_preset_mid": {
+      "en": "50%",
+      "tr": "50%"
+    },
+    "scmdb_ui_fab_preset_mid_tt": {
+      "en": "Halfway between 0% quality loss and max quality gain",
+      "tr": "Halfway between 0% quality loss and max quality gain"
+    },
+    "scmdb_ui_fab_preset_max": {
+      "en": "Max",
+      "tr": "Max"
+    },
+    "scmdb_ui_fab_preset_max_tt": {
+      "en": "Maximum quality for each material",
+      "tr": "Maximum quality for each material"
+    },
+    "scmdb_ui_fab_dismantle_blacklist_material_tt": {
+      "en": "{material} is on the dismantle blacklist - won't be returned when you take items apart",
+      "tr": "{material} is on the dismantle blacklist - won't be returned when you take items apart"
+    },
+    "scmdb_ui_fab_dismantle_blacklist_filter_off_tt": {
+      "en": "Filter by dismantle blacklist. Click cycles include -> exclude -> off; right-click jumps to exclude.",
+      "tr": "Filter by dismantle blacklist. Click cycles include -> exclude -> off; right-click jumps to exclude."
+    },
+    "scmdb_ui_fab_dismantle_blacklist_filter_include_tt": {
+      "en": "Showing only recipes with non-returning materials. Click to flip to exclude.",
+      "tr": "Showing only recipes with non-returning materials. Click to flip to exclude."
+    },
+    "scmdb_ui_fab_dismantle_blacklist_filter_exclude_tt": {
+      "en": "Hiding recipes with non-returning materials. Click to clear.",
+      "tr": "Hiding recipes with non-returning materials. Click to clear."
+    },
+    "scmdb_ui_stat_fire_rate": {
+      "en": "Fire Rate",
+      "tr": "Fire Rate"
+    },
+    "scmdb_ui_stat_dps": {
+      "en": "DPS",
+      "tr": "DPS"
+    },
+    "scmdb_ui_stat_phys_dmg_per_shot": {
+      "en": "Physical Damage / Shot",
+      "tr": "Physical Damage / Shot"
+    },
+    "scmdb_ui_stat_recoil_pitch": {
+      "en": "Recoil Pitch",
+      "tr": "Recoil Pitch"
+    },
+    "scmdb_ui_stat_recoil_yaw": {
+      "en": "Recoil Yaw",
+      "tr": "Recoil Yaw"
+    },
+    "scmdb_ui_stat_recoil_smooth": {
+      "en": "Recoil Smooth",
+      "tr": "Recoil Smooth"
+    },
+    "scmdb_ui_stat_spread": {
+      "en": "Spread",
+      "tr": "Spread"
+    },
+    "scmdb_ui_stat_ammo_speed": {
+      "en": "Ammo Speed",
+      "tr": "Ammo Speed"
+    },
+    "scmdb_ui_stat_mag_tt": {
+      "en": "Mag: {count}",
+      "tr": "Mag: {count}"
+    },
+    "scmdb_ui_stat_range_suffix": {
+      "en": "Range",
+      "tr": "Range"
+    },
+    "scmdb_ui_unit_rpm": {
+      "en": "RPM",
+      "tr": "RPM"
+    },
+    "scmdb_ui_unit_ms": {
+      "en": "m/s",
+      "tr": "m/s"
     }
   }
 }
