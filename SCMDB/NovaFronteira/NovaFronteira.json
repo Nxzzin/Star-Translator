@@ -1,13 +1,13 @@
 {
-  "version": "4.10.2-live.12881860",
+  "version": "4.10.3-live.13165946",
   "sourceLanguage": "en",
   "targetLanguage": "unknown",
-  "keyCount": 4616,
+  "keyCount": 4683,
   "stats": {
-    "total": 4616,
-    "translated": 2751,
+    "total": 4683,
+    "translated": 2799,
     "missing": 60,
-    "noLocKey": 1736,
+    "noLocKey": 1755,
     "placeholderFallback": 69,
     "lengthFallback": 0,
     "mismatch": 229,
@@ -974,6 +974,10 @@
       "en": "Convoy Under Attack",
       "tr": "COMBOIO SOB ATAQUE"
     },
+    "Intersec_ShipWaveAttack_VH_Van_Title_001": {
+      "en": "Counterstrike Against Vanduul Raiders",
+      "tr": "CONTRA-ATAQUE AOS SAQUEADORES VANDUUL"
+    },
     "spacecollect_cargo_title_VE_01": {
       "en": "Red Wind Package Recovery",
       "tr": "Red Wind Package Recovery"
@@ -1238,6 +1242,10 @@
       "en": "Down For the Count",
       "tr": "FORA DE COMBATE"
     },
+    "Intersec_ShipWaveAttack_DrawOutBoss_S_Van_Title_001": {
+      "en": "Draw Out Maulers",
+      "tr": "ATRAIR OS MAULERS"
+    },
     "headhunters_ChainElimAll_1C_ElimSpec_AttackCFP_M_title_001": {
       "en": "Driving CFP out",
       "tr": "EXPULSANDO O CFP"
@@ -1293,6 +1301,10 @@
     "Battaglia_Story02_title": {
       "en": "Emergency: Blinding Hope in Trouble",
       "tr": "EMERGÊNCIA: BLINDING HOPE EM PERIGO"
+    },
+    "Intersec_3Way_Title_Hard_001": {
+      "en": "Engage Shattered Blade and Vanduul",
+      "tr": "ENFRENTAR SHATTERED BLADE E VANDUUL"
     },
     "FTL_Courier_Nyx_Easy_Title_001": {
       "en": "ENTRY LVL. COURIER NEEDED IN NYX",
@@ -1618,9 +1630,17 @@
       "en": "Inter-Outpost Delivery at Jackson's Swap - Multiple Boxes",
       "tr": "ENTREGA INTER-OUTPOST EM [DESTINATION] - MÚLTIPLAS CAIXAS"
     },
+    "Intersec_ShipWaveAttack_S_Van_Title_001": {
+      "en": "Intercept Vanduul Fleet",
+      "tr": "INTERCEPTAR FROTA VANDUUL"
+    },
     "CFP_RecoverCargo_Easy_Title": {
       "en": "Intercepted Supply Run",
       "tr": "REMESSA DE SUPRIMENTOS INTERCEPTADA"
+    },
+    "Intersec_ShipWaveAttack_DrawOutBoss_VH_Van_Title_001": {
+      "en": "Interdict Vanduul Maulers",
+      "tr": "INTERCEPTAR MAULERS VANDUUL"
     },
     "Foxwell_X2_ShipWaves_Title": {
       "en": "Interdict XenoThreat Attack Force",
@@ -1745,6 +1765,10 @@
     "Headhunters_Delivery_Outpost_Multi_title_001": {
       "en": "Little Heavy Lifting at [DESTINATION]",
       "tr": "UM POUCO DE TRABALHO PESADO EM [DESTINATION]"
+    },
+    "Intersec_BlueCryo_Title_001": {
+      "en": "Living Vanduul Sample",
+      "tr": "AMOSTRA VANDUUL VIVA"
     },
     "Hockrow_searchbody_space_H_Title_001": {
       "en": "Locate Missing Agent: [TARGET]",
@@ -2045,6 +2069,10 @@
     "Intersec_KillShip_Title_Medium_001": {
       "en": "Neutralize UEE Threat: [TARGET]",
       "tr": "NEUTRALIZE AMEAÇA À UEE: [TARGET]"
+    },
+    "Intersec_3Way_Title_VeryHard_001": {
+      "en": "Neutralize Vanduul and Shattered Blade Threat",
+      "tr": "NEUTRALIZAR AMEAÇA VANDUUL E DA SHATTERED BLADE"
     },
     "Intersec_KillShip_Vanduul_Title_VeryHard_001": {
       "en": "Neutralize Vanduul Target",
@@ -2734,6 +2762,10 @@
       "en": "Restore Order at [LOCATION]",
       "tr": "RESTAURE A ORDEM EM [LOCATION]"
     },
+    "Intersec_BoardShip_ShatteredBlade_Title_001": {
+      "en": "Retake Boarded Vessel",
+      "tr": "RETOMAR NAVE ABORDADA"
+    },
     "northrock_SOO_repeat_title_001": {
       "en": "Retake Platforms From Nine Tails",
       "tr": "RECUPERE AS PLATAFORMAS DAS MÃOS DA NINE TAILS"
@@ -2998,6 +3030,10 @@
       "en": "SEEK AND DESTROY ASD DATA",
       "tr": "BUSCAR E DESTRUIR DADOS DA ASD"
     },
+    "Intersec_ShipWaveAttack_DrawOutBoss_H_Van_Title_001": {
+      "en": "Seek and Destroy Super Stingers",
+      "tr": "BUSCAR E DESTRUIR SUPER STINGERS"
+    },
     "cfp_defendship_Intro_title_001": {
       "en": "Seeking Experienced Combat Pilots",
       "tr": "PROCURO POR PILOTOS DE COMBATE EXPERIENTES"
@@ -3210,6 +3246,10 @@
       "en": "Stop Shattered Blade Attack",
       "tr": "IMPEÇA O ATAQUE DO SHATTERED BLADE"
     },
+    "Intersec_3Way_Title_Super_001": {
+      "en": "Stop Vanduul and Shattered Blade Hostilities",
+      "tr": "DETER CONFRONTOS ENTRE VANDUUL E SHATTERED BLADE"
+    },
     "headhunters_bombingrun_M_title_001": {
       "en": "Stopping the Competition",
       "tr": "PARANDO A CONCORRÊNCIA"
@@ -3297,6 +3337,10 @@
     "headhunters_killship_asteroid_rank1_title_001": {
       "en": "Target at [LOCATION]",
       "tr": "ALVO EM [LOCATION]"
+    },
+    "Intersec_ElimAux_ShatteredBlade_Med_Title_001": {
+      "en": "Target Shattered Blade: [TARGET]",
+      "tr": "ALVO DA SHATTERED BLADE: [TARGET]"
     },
     "headhunters_killship_asteroid_rank0_title_001": {
       "en": "Target takedown for a fast track in",
@@ -3425,6 +3469,10 @@
     "UWC_Refueling_intro_title_001": {
       "en": "UWC'S HIRING REFUELERS",
       "tr": "UWC PROCURA REABASTECEDORES"
+    },
+    "Intersec_ShipWaveAttack_H_Van_Title_001": {
+      "en": "Vanduul Strike Group Detected",
+      "tr": "GRUPO DE ATAQUE VANDUUL DETECTADO"
     },
     "Kaboos_Intro_Title": {
       "en": "Vanduul-Tech Smugglers",
@@ -4288,15 +4336,15 @@
     },
     "SalvageContractor_Difficulty_Hard": {
       "en": "Be aware that due to the size of the Claim, a <EM4>Large Salvage Ship is recommended</EM4>.",
-      "tr": "Esteja ciente de que, devido ao tamanho da Reivindicação, uma <EM4>Nave de Salvamento de Grande Porte é recomendada</EM4>."
+      "tr": "Esteja ciente de que, devido ao tamanho da Reivindicação, uma <EM4>Nave de Sucateamento de Grande Porte é recomendada</EM4>."
     },
     "DeadSaints_RecoverCargo_Easy_Description": {
       "en": "You know when you ask someone a question and you have a feeling they’re lying, but you choose to give them the benefit of the doubt? Yeah. That’s what I’m dealing with right now.\\n\\nTwo “expert” haulers I hired to transport some gear for me ran into some trouble and ended up ditching my goods over at <EM4>[LOCATION]</EM4>. Needless to say, I’ve ordered a hit on them, but what I need from you is to go recover that cargo. The tracker says the cargo’s still on the ship, so you’ll just need a <EM4>a heavy-duty tractor beam</EM4> and your own ship to recover it.\\n\\nYou might run into a couple of scavengers lurking around there, but I doubt you’ll have any trouble with them.\\n\\nWhen you’re done, take the stuff to <EM4>[DESTINATION]</EM4> and I’ll sort you out with a reward.\\n\\n-Twitch",
       "tr": "Sabe quando você pergunta algo pra alguém e sente que a pessoa tá mentindo, mas mesmo assim dá um voto de confiança? É isso que tô lidando agora.\\n\\nDois “especialistas” em transporte que eu contratei pra levar umas mercadorias se meteram em confusão e largaram minha carga em <EM4>[LOCATION]</EM4>. Já mandei caçar os dois, mas o que preciso de você é que recupere a carga. O rastreador mostra que ela ainda tá na nave, então só vai precisar de um <EM4>Tractor Beam pesado</EM4> e da sua própria nave pra fazer a recuperação.\\n\\nPode ter uns catadores por lá, mas duvido que te deem trabalho.\\n\\nDepois que pegar tudo, leva pra <EM4>[DESTINATION]</EM4> que eu te pago direitinho.\\n\\n-Twitch"
     },
     "CFP_ShipWaveAttack_ClearHostiles_Desc_E_001": {
-      "en": "To help protect our pilots, Citizens for Prosperity will often recommend the use of less traditional routes through the system. However, it seems that a gang of outlaws has gotten word and has begun to stage repeated ambushes along one such flightpath. Rather than just go around the problem and risk it persisting along the new route, we feel it we be prudent to meet these outlaws head on.\\n\\nYou and whatever support ships you enlist will head to [LOCATION] and neutralize any hostiles you find laying in wait there. They have been known to operate in smaller packs, so it's vital that you wait until all of the hostiles have been dealt with.\\n\\nYour assistance is much appreciated,\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
-      "tr": "Para ajudar a proteger nossos pilotos, a Citizens for Prosperity costuma recomendar o uso de rotas menos tradicionais pelo sistema. Porém, parece que uma gangue de fora-da-lei descobriu uma dessas rotas e começou a montar emboscadas repetidas ao longo desse trajeto de voo. Em vez de simplesmente contornar o problema e correr o risco de ele aparecer novamente em outra rota, acreditamos que o melhor seja enfrentar esses fora-da-lei de frente.\\n\\nVocê e qualquer nave de apoio que recrutar deverão ir até [LOCATION] e neutralizar todos os hostis que estiverem emboscados por lá. Eles costumam operar em pequenos grupos, então é vital permanecer na área até que todos os hostis sejam eliminados.\\n\\nAgradecemos muito sua ajuda,\\nLima Endicott\\nDespachante Chefe\\nCitizens for Prosperity"
+      "en": "To help protect our pilots, Citizens for Prosperity will often recommend the use of less traditional routes through the system. However, it seems that a gang of outlaws has gotten word and has begun to stage <EM4>repeated ambushes</EM4> along one such flightpath. Rather than just go around the problem and risk it persisting along the new route, we feel it we be prudent to meet these outlaws head on.\\n\\nYou and whatever support ships you enlist will head to <EM4>[LOCATION]</EM4> and neutralize any hostiles you find laying in wait there. They have been known to operate in smaller packs, so it's vital that you wait until all of the hostiles have been dealt with.\\n\\nYour assistance is much appreciated,\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
+      "tr": "Para ajudar a proteger nossos pilotos, a Citizens for Prosperity costuma recomendar rotas menos convencionais pelo sistema. Porém, parece que uma gangue de fora da lei ficou sabendo e começou a armar <EM4>emboscadas seguidas</EM4> em uma dessas rotas. Em vez de apenas contornar o problema e correr o risco de ele nos seguir até a nova rota, achamos prudente encarar esses fora da lei de frente.\\n\\nVocê e as naves de apoio que conseguir recrutar seguirão para <EM4>[LOCATION]</EM4> e neutralizarão todos os hostis que estiverem de tocaia por lá. Eles costumam agir em grupos menores, então é fundamental aguardar até que todos os hostis tenham sido abatidos.\\n\\nAgradecemos muito a sua ajuda,\\nLima Endicott\\nDespachante-Chefe\\nCitizens for Prosperity"
     },
     "headhunters_sabotage_servers_E_CFP_desc_001": {
       "en": "Long story, short - a Headhunter messed up real bad and now Citizens for Prosperity has gotten their hands on some data that could really do some damage to us. \\n\\nThe bastard is going to need some time to heal so that leaves it to you to clean up the mess. Can you go to [LOCATION] and destroy the servers they got stored there? I wanna make sure there's no chance of this info getting out there.\\n\\n-Stows out",
@@ -4377,6 +4425,10 @@
     "cfp_defendship_multi_VHRT_SB_desc_001": {
       "en": "We’ve lost contact with a supply convoy and are concerned it might be under attack. Last comm we received from them reported Shattered Blade ships were incoming, but haven’t heard anything since. Are you free to hurry to <EM4>[LOCATION]</EM4> and support our forces? \\n\\nWe’ve come to learn that the Shattered Blade are very protective of their hunting grounds. Our last few encounters with them were quite intense, so I’d recommend bringing some heavy firepower.   \\n\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
       "tr": "Perdemos o contato com um comboio de suprimentos e estamos preocupados que ele possa estar sendo atacado. O último comunicado que recebemos dizia que naves do Shattered Blade estavam se aproximando, mas não ouvimos mais nada desde então. Você está disponível para ir rapidamente até <EM4>[LOCATION]</EM4> e apoiar nossas forças?\\n\\nDescobrimos que o Shattered Blade é muito protetor de seus territórios de caça. Nossos últimos encontros com eles foram bem intensos, então eu recomendaria levar uma grande quantidade de fogo pesado.\\n\\nLima Endicott\\nDespachante Líder\\nCitizens for Prosperity"
+    },
+    "Intersec_ShipWaveAttack_VH_Van_Desc_001": {
+      "en": "MISSION SPECS\\n\\nArea of Operation: Nyx System \\nHostile Forces: Vanduul\\nEquipment Specs: Combat-rated ship\\nBriefing:\\n\\nIntersec has been tasked with organizing a counterstrike at <EM4>[LOCATION]</EM4> against Vanduul raiders responsible for a number of fast-strike attacks on commercial convoys. \\n\\nScanner intel suggests the Vanduul have yet to reveal the true size of their attack wing. Be prepared to face  reinforcements after your initial contact.\\n\\nRespectfully,   \\n\\nDeacon Tobin \\nOperations Manager \\nInterSec Defense Solutions  \\n\\nThis communication consists of confidential information solely intended for the recipient. Please disregard if received in error and notify the sender. All operations are conducted at the contractor’s own personal risk and must adhere to UEE and system law where applicable.",
+      "tr": "ESPECIFICAÇÕES DA MISSÃO\\n\\nÁrea de Operação: Sistema Nyx \\nForças Hostis: Vanduul\\nEquipamento Necessário: Nave de combate\\nBriefing:\\n\\nA Intersec foi encarregada de organizar um contra-ataque em <EM4>[LOCATION]</EM4> contra saqueadores Vanduul responsáveis por diversos ataques relâmpago a comboios comerciais. \\n\\nDados dos scanners sugerem que os Vanduul ainda não revelaram o verdadeiro tamanho de sua ala de ataque. Esteja preparado para enfrentar reforços após o contato inicial.\\n\\nRespeitosamente,   \\n\\nDeacon Tobin \\nGerente de Operações \\nInterSec Defense Solutions  \\n\\nEsta comunicação contém informações confidenciais destinadas exclusivamente ao destinatário. Caso a tenha recebido por engano, desconsidere-a e notifique o remetente. Todas as operações são realizadas por conta e risco do contratado e devem respeitar as leis do UEE e do sistema, quando aplicável."
     },
     "spacecollect_cargo_desc_VE_01": {
       "en": "RED WIND LINEHAUL\\n'YOUR GOODS IN GOOD HANDS'\\n----------------------------\\n\\nA contractor of ours has run into some trouble and abandoned their ship over at <EM4>[LOCATION]</EM4>. We need someone to head to their ship, pick up the package they left there, and finish the job.\\n\\nPACKAGES TO RECOVER\\n     · <EM4>1x [ITEM1]</EM4>\\n\\nDROP OFF LOCATION\\n     · Deliver to <EM4>[DESTINATION]</EM4>\\n\\nWe’re currently uncertain as to why they failed to complete the contract, so be cautious when approaching the ship.\\n\\nTAKE PRIDE IN YOUR WORK – Even as a contractor you are representing Red Wind Linehaul. Do not intentionally do anything to harm the company’s reputation.",
@@ -4642,6 +4694,10 @@
       "en": "<EM4>[TARGET]</EM4> was a name that proved particularly troublesome for some time. Whether a master of evasion or just unerringly lucky all of our attempts have thus far failed.\\n\\nWith that being said, it seems that someone else may have beaten us to the punch so to speak. We’d like you to visit <EM4>[LOCATION]</EM4> and confirm if the target has indeed been neutralized. But be advised, I suspect they’re former crew may still be in the area, most likely out of a misplaced sense of loyalty. I’d suggest a crew of your own for this one, but will defer to your expertise.\\n\\nSincerely,\\n\\nVaughn",
       "tr": "<EM4>[TARGET]</EM4> é um nome que deu trabalho por um bom tempo. Se foi mestre em se esconder ou apenas incrivelmente sortudo, todas as nossas tentativas falharam até agora.\\n\\nDito isso, parece que alguém pode ter nos vencido. Queremos que visite <EM4>[LOCATION]</EM4> e confirme se o alvo realmente foi neutralizado. Aviso: suspeito que antigos tripulantes ainda possam estar na área, provavelmente por lealdade mal colocada. Eu sugeriria uma tripulação pra essa, mas deixo para sua experiência.\\n\\nAtenciosamente,\\n\\nVaughn"
     },
+    "Intersec_ShipWaveAttack_DrawOutBoss_S_Van_Desc_001": {
+      "en": "MISSION SPECS\\n\\nArea of Operation: Nyx System \\nHostile Forces: Vanduul\\nEquipment Specs: Combat-rated ship\\nBriefing:\\n\\nLong-range scans indicate the presence of an extremely dangerous Mauler-led strike group at <EM4>[LOCATION]</EM4>. Intersec are looking for highly-experienced combat pilots with fully combat-ready ships to take part in an operation to draw out and eliminate the Mauler.\\n\\nIt goes without saying that this commission should only be attempted with substantial back-up. Rewards will reflect the high-risk nature of this contract.\\n\\nRespectfully,   \\n\\nDeacon Tobin \\nOperations Manager \\nInterSec Defense Solutions  \\n\\nThis communication consists of confidential information solely intended for the recipient. Please disregard if received in error and notify the sender. All operations are conducted at the contractor’s own personal risk and must adhere to UEE and system law where applicable.",
+      "tr": "ESPECIFICAÇÕES DA MISSÃO\\n\\nÁrea de Operação: Sistema Nyx \\nForças Hostis: Vanduul\\nEquipamento Necessário: Nave de combate\\nBriefing:\\n\\nVarreduras de longo alcance indicam a presença de um grupo de ataque extremamente perigoso liderado por um Mauler em <EM4>[LOCATION]</EM4>. A Intersec procura pilotos de combate altamente experientes, com naves totalmente prontas para o combate, para participar de uma operação para atrair e eliminar o Mauler.\\n\\nNem é preciso dizer que este contrato só deve ser encarado com reforços consideráveis. As recompensas refletirão o alto risco da missão.\\n\\nRespeitosamente,   \\n\\nDeacon Tobin \\nGerente de Operações \\nInterSec Defense Solutions  \\n\\nEsta comunicação contém informações confidenciais destinadas exclusivamente ao destinatário. Caso a tenha recebido por engano, desconsidere-a e notifique o remetente. Todas as operações são realizadas por conta e risco do contratado e devem respeitar as leis do UEE e do sistema, quando aplicável."
+    },
     "headhunters_ChainElimAll_1C_ElimSpec_AttackCFP_M_desc_001": {
       "en": "We've been trying to play nice with these Citizens for Prosperity people, but they've made it abundantly clear that we don't have a place in their 'safe system.' Their use of mercs for security have been causing all kinds of unreasonable violence like when this asshole [TARGET] opened fire on a group of settlers to drive them away from an outpost they'd been eyeing. So now the gloves are coming off.\\n\\nI need some hard workers to go hit [LOCATION] and take out [TARGET]. Odds are, they'll stay hidden until you prove you're enough of a threat, so make sure you do some damage.\\n\\nStows out.",
       "tr": "Estamos tentando ser legais com essas pessoas do Citizens for Prosperity, mas eles deixaram bem claro que não temos lugar em seu \"sistema seguro\". O uso de mercenários para segurança tem causado todos os tipos de violência irracional, como quando esse babaca [TARGET] abriu fogo contra um grupo de colonos para afastá-los de um posto avançado que eles estavam de olho. Então agora as luvas estão saindo.\\n\\nPreciso de alguns trabalhadores esforçados para atacar [LOCATION] e eliminar [TARGET]. As chances são de que eles ficarão escondidos até você provar que é uma ameaça o suficiente, então certifique-se de causar algum dano.\\n\\nArruma-se."
@@ -4697,6 +4753,10 @@
     "Battaglia_Story02_desc": {
       "en": "*********** People's Alliance ***********\\n******/ 'Stronger When United' /******\\n\\nRE: Blinding Hope in trouble\\n\\nWORK BRIEF: \\nWe received a distress call from the Blinding Hope that said they were under attack from the Moraine again before they were cut off. I just want to know if they're okay. <EM4>Head to their last known location and report what you find</EM4>.\\n\\nPAYMENT:\\nStandard listed rate upon entire crew's status confirmation.\\n\\nAUTHORIZATION:\\nBattaglia, Recco",
       "tr": "*********** People's Alliance ***********\\n**************/ 'Mais Fortes Unidos' /****\\n\\nRE: Blinding Hope em Perigo\\n\\nBRIEFING DE TRABALHO: \\nRecebemos um pedido de socorro da Blinding Hope informando que estavam sob ataque da Moraine novamente, antes de perdermos o contato. Só quero saber se eles estão bem. Vá até a última localização conhecida deles e informe o que encontrar.\\n\\nPAGAMENTO:\\nValor padrão estabelecido após confirmar o estado de toda a tripulação.\\n\\nAUTORIZAÇÃO:\\nBattaglia, Recco"
+    },
+    "Intersec_3Way_Desc_Hard_001": {
+      "en": "MISSION SPECS\\n\\nArea of Operation: Nyx System \\nHostile Forces: Vanduul, Shattered Blade\\nEquipment Specs: Combat-rated ship\\nBriefing:\\n\\nHeightened Vanduul and Shattered Blade activity has been reported at <EM4>[LOCATION]</EM4>. Intersec is looking for pilots to  engage the hostile vessels.\\n\\nHead there with all due speed before this conflict becomes a bigger threat.\\n\\nRespectfully,   \\n\\nDeacon Tobin \\nOperations Manager \\nInterSec Defense Solutions  \\n\\nThis communication consists of confidential information solely intended for the recipient. Please disregard if received in error and notify the sender. All operations are conducted at the contractor’s own personal risk and must adhere to UEE and system law where applicable.",
+      "tr": "ESPECIFICAÇÕES DA MISSÃO\\n\\nÁrea de Operação: Sistema Nyx \\nForças Hostis: Vanduul, Shattered Blade\\nEquipamento Necessário: Nave de combate\\nBriefing:\\n\\nFoi relatado um aumento da atividade Vanduul e da Shattered Blade em <EM4>[LOCATION]</EM4>. A Intersec procura pilotos para enfrentar as naves hostis.\\n\\nSiga para lá o mais rápido possível, antes que esse conflito se torne uma ameaça maior.\\n\\nRespeitosamente,   \\n\\nDeacon Tobin \\nGerente de Operações \\nInterSec Defense Solutions  \\n\\nEsta comunicação contém informações confidenciais destinadas exclusivamente ao destinatário. Caso a tenha recebido por engano, desconsidere-a e notifique o remetente. Todas as operações são realizadas por conta e risco do contratado e devem respeitar as leis do UEE e do sistema, quando aplicável."
     },
     "FTL_Courier_Nyx_Easy_Desc_001": {
       "en": "AVAILABLE FTL CONTRACT\\nFOR IMMEDIATE ASSIGNMENT\\n\\n**CONTRACT DETAILS**\\nFTL requires an entry-level courier to complete deliveries in Nyx.\\nCourier must provide own transportation.\\nPrior training in manual lifting is preferred, with the <EM4>ability to move boxes of up to .25 SCU</EM4> in weight.\\nBy accepting this contract you agree to take full responsibility for the safety of the assigned packages.\\n\\nGood luck and good speed, courier!",
@@ -4931,8 +4991,8 @@
       "tr": "Um de nossos comboios está precisando de suporte de combate. Parece que eles encontraram um esconderijo do Shattered Blade enquanto tentavam fazer uma entrega. Agora, apesar de seus melhores esforços, o comboio não consegue escapar. Estamos à procura de um piloto de combate disposto a ir até <EM4>[LOCATION]</EM4> para ajudá-los a combater esse ataque antes que seja tarde.\\n\\nLima Endicott\\nDespachante Líder\\nCitizens for Prosperity"
     },
     "CFP_ShipWaveAttack_ClearHostiles_Desc_VE_001": {
-      "en": "Recently we've had incident reports of numerous Citizens for Prosperity contractors in the system having run-ins with an outlaw hunting party operating out of [LOCATION]. \\n\\nTo help re-establish safer routes through that sector, you will be dispatched to head there and engage with these outlaws. The group is known to travel in smaller packs, so its important that you and whatever backup you bring wait in the area to deal with all of them or else there's a chance the threat will remain. \\n\\nThank you for helping us,\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
-      "tr": "Recentemente recebemos vários relatos de incidentes envolvendo contratados da Citizens for Prosperity que tiveram confrontos com um grupo de caça de fora-da-lei operando a partir de [LOCATION].\\n\\nPara ajudar a restabelecer rotas mais seguras nesse setor, você será enviado até lá para enfrentar esses fora-da-lei. O grupo costuma viajar em pequenos bandos, então é importante que você e qualquer reforço que levar permaneçam na área para lidar com todos eles, ou existe a chance da ameaça continuar.\\n\\nObrigado por nos ajudar,\\nLima Endicott\\nDespachante Chefe\\nCitizens for Prosperity"
+      "en": "Recently we've had incident reports of numerous Citizens for Prosperity contractors in the system having run-ins with an outlaw hunting party operating out of <EM4>[LOCATION]</EM4>. \\n\\nTo help re-establish safer routes through that sector, you will be dispatched to head there and engage with these outlaws. The group is known to travel in smaller packs, so its important that you and whatever <EM4>backup</EM4> you bring wait in the area to deal with all of them or else there's a chance the threat will remain. \\n\\nThank you for helping us,\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
+      "tr": "Recentemente recebemos relatos de vários contratados da Citizens for Prosperity no sistema que tiveram encontros com um grupo de caça de fora da lei operando a partir de <EM4>[LOCATION]</EM4>. \\n\\nPara ajudar a restabelecer rotas mais seguras naquele setor, você será enviado até lá para enfrentar esses fora da lei. O grupo costuma se deslocar em bandos menores, então é importante que você e o <EM4>reforço</EM4> que levar aguardem na área para dar conta de todos, senão existe a chance de a ameaça continuar. \\n\\nObrigado pela ajuda,\\nLima Endicott\\nDespachante-Chefe\\nCitizens for Prosperity"
     },
     "cfp_ChainElimAll_1C_HHAttack_M_desc_001": {
       "en": "We just received a frantic comm from [LOCATION] and are looking for any available combat specialists to help repel a Headhunter attack. There are still hostiles on site and there are reports of several casualties so we need this handled quickly.\\n\\nI will provide all relevant data upon acceptance. Thank you for your assistance.\\n\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
@@ -5030,9 +5090,17 @@
       "en": "Hi,\\n\\nCitizens for Prosperity needs help moving supplies around one of our outposts. The boxes need to be picked up from <EM4>[LOCATION]</EM4> and taken to <EM4>[DESTINATION]</EM4>. \\n\\nDoesn’t sound too difficult, does it? Just make sure you’re wearing a comfy pair of shoes. Also, to make your life easier, I'd bring a <EM4>handheld tractor beam</EM4> with you. \\n\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
       "tr": "Olá,\\n\\nCitizens for Prosperity precisa de ajuda para transportar suprimentos em um de nossos postos avançados. As caixas precisam ser retiradas de <EM4>[LOCATION]</EM4> e levadas para <EM4>[DESTINATION]</EM4>. \\n\\nNão parece muito difícil, não é? Apenas certifique-se de usar um par de sapatos confortáveis. \\n\\nAlém disso, para facilitar sua vida, eu recomendaria que você tivesse um <EM4>Tractor Beam portátil</EM4> com você\\n\\nLima Endicott\\nDespachante Líder\\nCitizens for Prosperity"
     },
+    "Intersec_ShipWaveAttack_S_Van_Desc_001": {
+      "en": "MISSION SPECS\\n\\nArea of Operation: Nyx System \\nHostile Forces: Vanduul\\nEquipment Specs: Combat-rated ship\\nBriefing:\\n\\nA clan-sized fleet of Vanduul vessels has been detected at <EM4>[LOCATION]</EM4>, threatening the integrity of vital commercial routes. Intersec is assembling a counterforce of experienced pilots with combat-ready ships. \\n\\nGiven the size of the Vanduul fleet, pilots should expect to encounter support waves in response to their initial action.\\n\\nPut together a team and head to the co-ordinates with all due speed. The commercial crews are counting on you to keep the routes open.\\n\\nRespectfully,   \\n\\nDeacon Tobin \\nOperations Manager \\nInterSec Defense Solutions  \\n\\nThis communication consists of confidential information solely intended for the recipient. Please disregard if received in error and notify the sender. All operations are conducted at the contractor’s own personal risk and must adhere to UEE and system law where applicable.",
+      "tr": "ESPECIFICAÇÕES DA MISSÃO\\n\\nÁrea de Operação: Sistema Nyx \\nForças Hostis: Vanduul\\nEquipamento Necessário: Nave de combate\\nBriefing:\\n\\nUma frota Vanduul do tamanho de um clã foi detectada em <EM4>[LOCATION]</EM4>, ameaçando a integridade de rotas comerciais vitais. A Intersec está reunindo uma força de contra-ataque com pilotos experientes e naves prontas para o combate. \\n\\nDado o tamanho da frota Vanduul, os pilotos devem esperar ondas de reforço em resposta à ação inicial.\\n\\nMonte uma equipe e siga para as coordenadas o mais rápido possível. As tripulações comerciais contam com você para manter as rotas abertas.\\n\\nRespeitosamente,   \\n\\nDeacon Tobin \\nGerente de Operações \\nInterSec Defense Solutions  \\n\\nEsta comunicação contém informações confidenciais destinadas exclusivamente ao destinatário. Caso a tenha recebido por engano, desconsidere-a e notifique o remetente. Todas as operações são realizadas por conta e risco do contratado e devem respeitar as leis do UEE e do sistema, quando aplicável."
+    },
     "CFP_RecoverCargo_Easy_Description": {
       "en": "Life is tough on the frontier, and every delivery to our settlers is important. We really can't afford to lose any more this year.\\n\\nOne of our key suppliers has been hit by a group of outlaws over at <EM4>[LOCATION]</EM4> and gone silent on us. I fear the worst, but if we can still recover the supplies they were transporting, it could make a huge difference.\\n\\nChances are the outlaws who attacked them are still lurking around there so be on your guard. Once you've dealt with them, grab the cargo and take it to the freight elevator at <EM4>[DESTINATION]</EM4>. Make sure you're flying a ship that can carry <EM4>[MAX_SCU] cargo containers</EM4> and bring a <EM4>heavy-duty tractor beam</EM4> too.\\n\\nFly safe out there,\\n\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
       "tr": "A vida é dura na fronteira, e cada entrega para nossos colonos é importante. Realmente não podemos nos dar ao luxo de perder mais nenhuma este ano.\\n\\nUm dos nossos principais fornecedores foi atacado por um grupo de fora-da-lei em <EM4>[LOCATION]</EM4> e desde então perdemos contato com eles. Temo o pior, mas se ainda conseguirmos recuperar os suprimentos que estavam transportando, isso pode fazer uma grande diferença.\\n\\nHá boas chances de que os fora-da-lei que os atacaram ainda estejam por lá, então fique alerta. Depois de lidar com eles, pegue a carga e leve até o elevador de carga em <EM4>[DESTINATION]</EM4>. Certifique-se de estar pilotando uma nave capaz de transportar <EM4>[MAX_SCU] contêineres de carga</EM4> e leve também um <EM4>Tractor Beam pesado</EM4>.\\n\\nVoe com cuidado por aí,\\n\\nLima Endicott\\nDespachante Chefe\\nCitizens for Prosperity"
+    },
+    "Intersec_ShipWaveAttack_DrawOutBoss_VH_Van_Desc_001": {
+      "en": "MISSION SPECS\\n\\nArea of Operation: Nyx System \\nHostile Forces: Vanduul\\nEquipment Specs: Combat-rated ship\\nBriefing:\\n\\nIntersec are looking for experienced pilots to join a Mauler-hunting operation being at  <EM4>[LOCATION]</EM4>. The Vanduul ship has been spotted in the area and it poses too large a threat to leave it to its own devices. As such, pilots will be tasked with drawing the Mauler into combat by attacking Vanduul fighters in the area. \\n\\nGiven the risks, Intersec highly recommends assembling a team of experienced pilots with well-armed ships.\\n\\nRespectfully,   \\n\\nDeacon Tobin \\nOperations Manager \\nInterSec Defense Solutions  \\n\\nThis communication consists of confidential information solely intended for the recipient. Please disregard if received in error and notify the sender. All operations are conducted at the contractor’s own personal risk and must adhere to UEE and system law where applicable.",
+      "tr": "ESPECIFICAÇÕES DA MISSÃO\\n\\nÁrea de Operação: Sistema Nyx \\nForças Hostis: Vanduul\\nEquipamento Necessário: Nave de combate\\nBriefing:\\n\\nA Intersec procura pilotos experientes para participar de uma operação de caça a um Mauler em <EM4>[LOCATION]</EM4>. A nave Vanduul foi avistada na área e representa uma ameaça grande demais para ser deixada à solta. Por isso, os pilotos terão a missão de atrair o Mauler para o combate atacando os caças Vanduul na região. \\n\\nDados os riscos, a Intersec recomenda fortemente montar uma equipe de pilotos experientes com naves bem armadas.\\n\\nRespeitosamente,   \\n\\nDeacon Tobin \\nGerente de Operações \\nInterSec Defense Solutions  \\n\\nEsta comunicação contém informações confidenciais destinadas exclusivamente ao destinatário. Caso a tenha recebido por engano, desconsidere-a e notifique o remetente. Todas as operações são realizadas por conta e risco do contratado e devem respeitar as leis do UEE e do sistema, quando aplicável."
     },
     "Foxwell_X2_ShipWaves_Desc": {
       "en": "Multiple reports are coming in of XenoThreat ships massing at <EM4>[LOCATION]</EM4>\\nWe're looking for contractors ready to take the fight to them. \\n\\nThey want us to believe that they have right on their side. They want us to believe that they have overwhelming force. This is a chance to show them we know better.\\n\\nI won't lie, this is more than just a simple security contract to me. I really hate those intolerant assholes and everything they stand for.\\n\\nYou with me?\\n\\nEugene Walton\\nDispatcher, Foxwell Enforcement\\n'Security, Your Way'\\n\\nFoxwell Enforcement is a bonded security specialist licensed to operate throughout the UEE. We are always looking for new operators to join our family. If you or anyone you know is interested, please reach out to one of our contract representatives.",
@@ -5165,6 +5233,10 @@
     "Headhunters_Delivery_Outpost_Multi_desc_001": {
       "en": "Got a bunch of boxes sitting at <EM4>[LOCATION]</EM4> that have to be moved to <EM4>[DESTINATION]</EM4>. Seems easy enough, right? Well, guess it ain’t. \\n\\nThe idiot who was supposed to move these things threw out his back trying to carry all of ‘em at once. So, you know, maybe bring a <EM4> handheld tractor beam</EM4> and try taking ‘em one at a time like a normal person. But, hey, don’t let me tell you how to do your job. Just get it done. \\n\\nStows out.",
       "tr": "Tenho um monte de caixas em <EM4>[LOCATION]</EM4> que precisam ser movidas para <EM4>[DESTINATION]</EM4>. Parece fácil o suficiente, certo? Bem, acho que não é. \\n\\nO idiota que deveria mover essas coisas jogou as costas para fora tentando carregar todas de uma vez. Então, você sabe, talvez traga um <EM4>Tractor Beam portátil</EM4> e tente levá-las uma de cada vez como uma pessoa normal. Mas, ei, não deixe que eu lhe diga como fazer seu trabalho. Apenas faça. \\n\\nUm <EM4>Tractor Beam portátil</EM4> também seria uma boa ideia levar. \\n\\nStows Desliga"
+    },
+    "Intersec_BlueCryo_Desc_001": {
+      "en": "MISSION SPECS\\n\\nArea of Operation: Nyx System \\nHostile Forces: Shattered Blade\\nEquipment Specs: Combat Ready\\nBriefing: \\n\\nIntel has been received that Shattered Blade have possession of a cryopod believed to contain a living Vanduul sample. Reports say that this pod is marked out by having blue trim on its casing.\\n\\nAny Intersec contractor that locates one of these cryopods should consider its acquisition a vital priority and adjust their mission parameters accordingly.\\n\\nOnce secured, the cryopod should be delivered with all due haste to <EM4>[DESTINATION]</EM4>.\\n\\nRespectfully,   \\n\\nDeacon Tobin \\nOperations Manager \\nInterSec Defense Solutions  \\n\\nThis communication consists of confidential information solely intended for the recipient. Please disregard if received in error and notify the sender. All operations are conducted at the contractor’s own personal risk and must adhere to UEE and system law where applicable.",
+      "tr": "ESPECIFICAÇÕES DA MISSÃO\\n\\nÁrea de Operação: Sistema Nyx \\nForças Hostis: Shattered Blade\\nEquipamento Necessário: Pronto para Combate\\nBriefing: \\n\\nRecebemos informações de inteligência de que a Shattered Blade está de posse de uma criocápsula que supostamente contém uma amostra Vanduul viva. Segundo os relatos, essa cápsula se destaca por ter acabamento azul no revestimento.\\n\\nQualquer contratado da Intersec que localizar uma dessas criocápsulas deve tratar sua recuperação como prioridade máxima e ajustar os parâmetros da missão de acordo.\\n\\nApós garantida, a criocápsula deve ser entregue com a máxima urgência em <EM4>[DESTINATION]</EM4>.\\n\\nRespeitosamente,   \\n\\nDeacon Tobin \\nGerente de Operações \\nInterSec Defense Solutions  \\n\\nEsta comunicação contém informações confidenciais destinadas exclusivamente ao destinatário. Caso a tenha recebido por engano, desconsidere-a e notifique o remetente. Todas as operações são realizadas por conta e risco do contratado e devem respeitar as leis do UEE e do sistema, quando aplicável."
     },
     "Hockrow_searchbody_space_H_Desc_001": {
       "en": "Hockrow Agency \\nCase File #MP65817\\nLead Investigator: Arken Mallor\\n\\nCase Summary: \\nA client has hired the agency to look for a missing friend who has not been returning their comms and have been acting increasingly erratic. The client has shared all the information they possess on <EM4>[TARGET]</EM4> and we’ve been able to pinpoint their ship’s location.\\n\\nContract Investigator Actions:\\nTravel to <EM4>[LOCATION]</EM4> and verify the status of <EM4>[TARGET]</EM4>. If they are deceased, examine their body and we will pass the information on to the client.\\n\\nAdditional Notes:\\nOur scout reported heavy outlaw activity in the vicinity and was forced to retreat, meaning we have designated this as a highly dangerous case.",
@@ -5479,20 +5551,24 @@
       "tr": "Tenho uma equipe que tem atacado naves Headhunter ultimamente. O líder deles é um verdadeiro sujeito chamado [TARGET]. Nós os rastreamos até [LOCATION], então estamos procurando alguém para acabar com eles de uma vez por todas.\\n\\nEste grupo gosta de lutar, mas não deve ser um problema para alguém como você. \\n\\nVá lá e acabe com isso.\\n\\nStows Desliga"
     },
     "CFP_ShipWaveAttack_ClearHostiles_Desc_H_001": {
-      "en": "A criminal fleet has taken up root in a sector that Citizens For Prosperity is trying to develop and all forward progress has stopped thanks to their violent actions. It is imperative to a long term goals that we find a way to neutralize this fleet before that cause any further damage.\\n\\nYou and your most trusted support ships will head to [LOCATION] and neutralize any hostiles you find laying in wait there. They have been known to operate in smaller packs, so it's vital that you wait until all of the hostiles have been dealt with.\\n\\nYour assistance is much appreciated,\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
-      "tr": "Uma frota criminosa criou raízes em um setor que a Citizens for Prosperity está tentando desenvolver, e todo o progresso foi interrompido por causa das ações violentas deles. É essencial para nossos objetivos de longo prazo que encontremos uma maneira de neutralizar essa frota antes que cause ainda mais danos.\\n\\nVocê e suas naves de apoio mais confiáveis deverão ir até [LOCATION] e neutralizar todos os hostis que estiverem à espreita no local. Eles costumam operar em pequenos grupos, então é vital permanecer na área até que todos os hostis sejam eliminados.\\n\\nAgradecemos muito sua ajuda,\\nLima Endicott\\nDespachante Chefe\\nCitizens for Prosperity"
+      "en": "A criminal fleet has taken up root in a sector that Citizens For Prosperity is trying to develop and all forward progress has stopped thanks to their violent actions. It is imperative to a long term goals that we find a way to neutralize this fleet before that cause any further damage.\\n\\nYou and your most trusted support ships will head to <EM4>[LOCATION]</EM4> and neutralize any hostiles you find laying in wait there. They have been known to operate in smaller packs, so it's vital that you wait until all of the hostiles have been dealt with.\\n\\nYour assistance is much appreciated,\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
+      "tr": "Uma frota criminosa se instalou em um setor que a Citizens for Prosperity está tentando desenvolver, e todo o nosso avanço parou por causa das ações violentas deles. Para os nossos objetivos de longo prazo, é essencial neutralizar essa frota antes que ela cause mais estragos.\\n\\nVocê e suas naves de apoio de maior confiança seguirão para <EM4>[LOCATION]</EM4> e neutralizarão todos os hostis que estiverem de tocaia por lá. Eles costumam agir em grupos menores, então é fundamental aguardar até que todos os hostis tenham sido abatidos.\\n\\nAgradecemos muito a sua ajuda,\\nLima Endicott\\nDespachante-Chefe\\nCitizens for Prosperity"
     },
     "Intersec_KillShip_Desc_Medium_001": {
       "en": "MISSION SPECS\\n\\nArea of Operation: Nyx System\\nHostile Forces: Outlaws\\nEquipment Specs: Combat-rated Ships\\nBriefing: Seemingly unsatisfied with their takings in Nyx, an outlaw group lead by <EM4>[TARGET]</EM4> has been planning a major strike against the UEE. This cannot be allowed to come to pass.\\n\\nThanks to the work of our Intelligence team, we've been able to track them down to <EM4>[LOCATION]</EM4>.\\n\\nHead there as soon as you can and engage before they have a chance to leave the system. Based on our strategic analysis, we recommend a <EM4>well-armed and skilled fleet</EM4> will be necessary for the successful completion of this mission.\\n\\nRespectfully, \\n\\nDeacon Tobin \\nOperations Manager \\nInterSec Defense Solutions  \\n\\nThis communication consists of a non-binding offer that upon acceptance may be immediately terminated by either party without any given notice. All operations are conducted at the contractor’s own personal risk and must adhere to system law where applicable.",
       "tr": "ESPECIFICAÇÕES DA MISSÃO\\n\\nÁrea de Operação: Sistema Nyx\\nForças Hostis: Fora-da-lei\\nEspecificações de Equipamento: Naves de combate\\nBriefing: Parece que um grupo de fora-da-lei liderado por <EM4>[TARGET]</EM4> não está satisfeito com o que conseguiu em Nyx e está planejando um grande ataque contra a UEE. Isso não pode ser permitido.\\n\\nGraças ao trabalho de nossa equipe de Inteligência, conseguimos rastrear esse grupo até <EM4>[LOCATION]</EM4>.\\n\\nVá para lá o quanto antes e engaje antes que eles tenham chance de deixar o sistema. Com base na nossa análise estratégica, recomendamos que leve uma <EM4>frota bem armada e habilidosa</EM4> para o sucesso desta missão.\\n\\nAtenciosamente,\\n\\nDeacon Tobin\\nGerente de Operações\\nInterSec Defense Solutions\\n\\nEsta comunicação consiste em uma oferta não vinculante que, ao ser aceita, pode ser imediatamente cancelada por qualquer uma das partes sem aviso prévio. Todas as operações são realizadas por conta e risco do contratante, devendo seguir as leis do sistema onde aplicável."
+    },
+    "Intersec_3Way_Desc_VeryHard_001": {
+      "en": "MISSION SPECS\\n\\nArea of Operation: Nyx System \\nHostile Forces: Shattered Blade, Vanduul\\nEquipment Specs: Combat-rated ship\\nBriefing:\\n\\nIncreasing Vanduul and Shattered Blade activity is beginning to negatively impact the ability of People's Alliance shipping to safely navigate <EM4>[LOCATION]</EM4>.\\n\\nIntersec is recruiting pilots with combat experience to neutralize the threat and allow for the safe flow of shipping traffic again.\\n\\nRespectfully,   \\n\\nDeacon Tobin \\nOperations Manager \\nInterSec Defense Solutions  \\n\\nThis communication consists of confidential information solely intended for the recipient. Please disregard if received in error and notify the sender. All operations are conducted at the contractor’s own personal risk and must adhere to UEE and system law where applicable.",
+      "tr": "ESPECIFICAÇÕES DA MISSÃO\\n\\nÁrea de Operação: Sistema Nyx \\nForças Hostis: Shattered Blade, Vanduul\\nEquipamento Necessário: Nave de combate\\nBriefing:\\n\\nA crescente atividade Vanduul e da Shattered Blade está começando a prejudicar a navegação segura das naves de transporte da People's Alliance em <EM4>[LOCATION]</EM4>.\\n\\nA Intersec está recrutando pilotos com experiência em combate para neutralizar a ameaça e restabelecer o tráfego seguro de cargas.\\n\\nRespeitosamente,   \\n\\nDeacon Tobin \\nGerente de Operações \\nInterSec Defense Solutions  \\n\\nEsta comunicação contém informações confidenciais destinadas exclusivamente ao destinatário. Caso a tenha recebido por engano, desconsidere-a e notifique o remetente. Todas as operações são realizadas por conta e risco do contratado e devem respeitar as leis do UEE e do sistema, quando aplicável."
     },
     "Intersec_KillShip_Vanduul_Desc_VeryHard_001": {
       "en": "MISSION SPECS\\n\\nArea of Operation: Nyx System\\nHostile Forces: Vanduul\\nEquipment Specs: Combat-rated Ships\\nBriefing: InterSec is in need of a highly skilled combat pilot who can locate and neutralize a dangerous Vanduul target.\\n\\nAn operator of ours has identified a Vanduul ship flying within the vicinity of <EM4>[LOCATION]</EM4>. We've been given strict instructions to eliminate any Vanduul spotted on the fringes of UEE space, for fear of encroachment into the Empire's territory.\\n\\nBring a <EM4>small fleet of competent pilots</EM4> with you to engage and neutralize the target.\\n\\nRespectfully, \\n\\nDeacon Tobin \\nOperations Manager \\nInterSec Defense Solutions  \\n\\nThis communication consists of a non-binding offer that upon acceptance may be immediately terminated by either party without any given notice. All operations are conducted at the contractor’s own personal risk and must adhere to system law where applicable.",
       "tr": "ESPECIFICAÇÕES DA MISSÃO\\n\\nÁrea de Operação: Sistema Nyx\\nForças Hostis: Vanduul\\nEspecificações de Equipamento: Naves de combate\\nBriefing: A InterSec precisa de um piloto de combate altamente qualificado que consiga localizar e neutralizar um alvo Vanduul perigoso.\\n\\nUm de nossos operadores identificou uma nave Vanduul voando nas proximidades de <EM4>[LOCATION]</EM4>. Recebemos ordens rigorosas para eliminar qualquer Vanduul avistado nas fronteiras do espaço da UEE, por medo de incursão no território do Império.\\n\\nTraga uma <EM4>pequena frota de pilotos competentes</EM4> para engajar e neutralizar o alvo.\\n\\nAtenciosamente,\\n\\nDeacon Tobin\\nGerente de Operações\\nInterSec Defense Solutions\\n\\nEsta comunicação consiste em uma oferta não vinculante que, ao ser aceita, pode ser imediatamente cancelada por qualquer uma das partes sem aviso prévio. Todas as operações são realizadas por conta e risco do contratante, devendo seguir as leis do sistema onde aplicável."
     },
     "Intersec_KillShip_Desc_Intro_001": {
-      "en": "MISSION SPECS\\n\\nArea of Operation: Nyx System\\nHostile Forces: Outlaws\\nEquipment Specs: Combat-rated Ships\\nBriefing: InterSec has been hired to combat the rising number of outlaws using Nyx as a staging ground for their operations, with the intention of attacking neighboring UEE systems.\\n\\nAs a preventative measure, we require you to travel to <EM4>[LOCATION]</EM4> and eliminate the ringleader <EM4>[TARGET]</EM4> to deter their planned attack on Stanton. They and their crew are highly dangerous and you are <EM4>advised  to bring a wingman</EM4> for support.\\n\\nContractors who can prove themselves reliable and competent in executing operations will be eligible for future missions with InterSec.\\n\\nRespectfully,\\n\\nDeacon Tobin\\nOperations Manager\\nInterSec Defense Solutions\\n\\nThis communication consists of a non-binding offer that upon acceptance may be immediately terminated by either party without any given notice. All operations are conducted at the contractor’s own personal risk and must adhere to system law where applicable.",
-      "tr": "ESPECIFICAÇÕES DA MISSÃO\\n\\nÁrea de Operação: Sistema Nyx\\nForças Hostis: Fora-da-lei\\nEspecificações de Equipamento: Naves de combate\\nBriefing: A InterSec foi contratada para combater o crescente número de fora-da-lei usando Nyx como base para suas operações, com a intenção de atacar sistemas vizinhos da UEE.\\n\\nComo medida preventiva, precisamos que você viaje para <EM4>[LOCATION]</EM4> e elimine o líder <EM4>[TARGET]</EM4> para deter o ataque planejado contra Stanton. Ele e sua tripulação são altamente perigosos e você está <EM4>aconselhado a trazer um companheiro de voo</EM4> para apoio.\\n\\nContratantes que provarem ser confiáveis e competentes na execução das operações serão elegíveis para futuras missões com a InterSec.\\n\\nAtenciosamente,\\n\\nDeacon Tobin\\nGerente de Operações\\nInterSec Defense Solutions\\n\\nEsta comunicação consiste em uma oferta não vinculante que, ao ser aceita, pode ser imediatamente cancelada por qualquer uma das partes sem aviso prévio. Todas as operações são realizadas por conta e risco do contratante, devendo seguir as leis do sistema onde aplicável."
+      "en": "MISSION SPECS\\n\\nArea of Operation: Nyx System\\nHostile Forces: Outlaws\\nEquipment Specs: Combat-rated Ships\\nBriefing: InterSec has been hired to combat the rising number of outlaws using Nyx as a staging ground for their operations, with the intention of attacking neighboring UEE systems.\\n\\nAs a preventative measure, we require you to travel to <EM4>[LOCATION]</EM4> and eliminate the ringleader <EM4>[TARGET]</EM4> to deter their planned attack on Stanton. They and their crew are highly dangerous and you are <EM4>advised to bring a wingman</EM4> for support.\\n\\nContractors who can prove themselves reliable and competent in executing operations will be eligible for future missions with InterSec.\\n\\nRespectfully,\\n\\nDeacon Tobin\\nOperations Manager\\nInterSec Defense Solutions\\n\\nThis communication consists of a non-binding offer that upon acceptance may be immediately terminated by either party without any given notice. All operations are conducted at the contractor’s own personal risk and must adhere to system law where applicable.",
+      "tr": "ESPECIFICAÇÕES DA MISSÃO\\n\\nÁrea de Operação: Sistema Nyx\\nForças Hostis: Fora da Lei\\nEquipamento Necessário: Naves de Combate\\nBriefing: A InterSec foi contratada para combater o número crescente de fora da lei que usam Nyx como base de preparação para suas operações, com a intenção de atacar sistemas vizinhos do UEE.\\n\\nComo medida preventiva, precisamos que você vá até <EM4>[LOCATION]</EM4> e elimine o cabeça do grupo, <EM4>[TARGET]</EM4>, para frustrar o ataque planejado contra Stanton. O alvo e sua tripulação são extremamente perigosos, e <EM4>recomendamos levar um ala</EM4> como apoio.\\n\\nContratados que se mostrarem confiáveis e competentes na execução das operações estarão aptos a futuras missões com a InterSec.\\n\\nRespeitosamente,\\n\\nDeacon Tobin\\nGerente de Operações\\nInterSec Defense Solutions\\n\\nEsta comunicação consiste em uma oferta não vinculativa que, uma vez aceita, pode ser encerrada imediatamente por qualquer uma das partes sem aviso prévio. Todas as operações são realizadas por conta e risco do contratado e devem respeitar as leis do sistema, quando aplicável."
     },
     "searchbodyspace_desc_intro": {
       "en": "Hockrow Agency \\nCase File #MP38100\\nLead Investigator: Arken Mallor\\n\\nCase Summary: \\nHockrow Agency is looking for new contractors with a strong stomach and familiarity with dangerous situations to handle the legwork of an active missing persons investigation. \\n\\nReports indicate that it is highly unlikely that you will encounter any hostiles.\\n\\nContract Investigator Actions:\\nTravel to <EM4>[LOCATION]</EM4>, search for <EM4>[TARGET]</EM4>, and confirm their status. If they are deceased, examine the body closely so we can verify their death via your mobiGlas.\\n\\nAdditional Notes:\\nSuccessful completion of this task will open up other employment opportunities within Hockrow Agency.",
@@ -6007,16 +6083,16 @@
       "tr": "Temos monitorado uma situação em <EM4>[LOCATION]</EM4> em relação a um aumento na população de <EM4>[CREATURE]</EM4> nos últimos meses. Nossos modelos indicam que, se isso continuar, muitas das plantas e animais nativos serão afetados negativamente. É imperativo que a população de <EM4>[CREATURE]</EM4> seja reduzida antes que isso aconteça.     \\n\\nSe puder ajudar, consulte <EM4>“O Guia da Vida Selvagem de Stanton”</EM4> em seu Journal para obter mais detalhes sobre a criatura visada.\\n\\nO melhor,\\n\\nWanda Werkheiser\\nGerente de Contratos\\nHighpoint Wilderness Specialists"
     },
     "Highpoint_KillAnimals_rockcracker_desc_E_001": {
-      "en": "If you have any work that's going to be bringing you to one of those old QV Breaker Stations in the Keeger Belt, we have something else that we could use your help on while you're there.\\n \\nWe've recently been contacted by the People's Alliance to assist with an initiative to help prepare these abandoned stations for repairs. Unfortunately, a Valakkar infestation is creating serious problems for not only the stations' infrastructure, but also for the chances of them being brought back online one day. Due to Valakkar's status as an invasive species, we have decided that culling them is the only viable option.\\n \\nReduce the Valakkar numbers at any of the old QV Breaker Stations and we will offer you payment.\\n \\nBest,\\n \\nWanda Werkheiser\\n\\nContract Manager\\n\\nHighpoint Wilderness Specialists",
-      "tr": "Se você tiver algum trabalho que vá levá-lo a uma daquelas antigas QV Breaker Stations no Cinturão Keeger, temos algo mais em que poderíamos usar sua ajuda enquanto estiver por lá.\\n \\nRecentemente fomos contatados pela People's Alliance para ajudar em uma iniciativa de preparar essas estações abandonadas para reparos. Infelizmente, uma infestação de Valakkar está criando sérios problemas não apenas para a infraestrutura das estações, mas também para as chances de voltarem a funcionar um dia. Devido ao status do Valakkar como espécie invasora, decidimos que reduzir sua população é a única opção viável.\\n \\nReduza o número de Valakkar em qualquer uma das antigas QV Breaker Stations e ofereceremos pagamento.\\n \\nAtenciosamente,\\n \\nWanda Werkheiser\\n\\nGerente de Contratos\\n\\nHighpoint Wilderness Specialists"
+      "en": "If you have any work that's going to be bringing you to one of those old <EM4>QV Breaker Stations</EM4> in the Keeger Belt, we have something else that we could use your help on while you're there.\\n \\nWe've recently been contacted by the People's Alliance to assist with an initiative to help prepare these abandoned stations for repairs. Unfortunately, a <EM4>Valakkar infestation</EM4> is creating serious problems for not only the stations' infrastructure, but also for the chances of them being brought back online one day. Due to Valakkar's status as an invasive species, we have decided that culling them is the only viable option.\\n \\nReduce the Valakkar numbers at any of the old QV Breaker Stations and we will offer you payment.\\n \\nBest,\\n \\nWanda Werkheiser\\nContract Manager\\nHighpoint Wilderness Specialists",
+      "tr": "Se você tiver algum trabalho que vá te levar a uma daquelas antigas <EM4>QV Breaker Stations</EM4> no Keeger Belt, temos outra tarefa em que sua ajuda seria bem-vinda enquanto estiver por lá.\\n \\nFomos contatados recentemente pela People's Alliance para colaborar em uma iniciativa de preparar essas estações abandonadas para reparos. Infelizmente, uma <EM4>infestação de Valakkar</EM4> está causando sérios problemas não só para a infraestrutura das estações, mas também para as chances de elas voltarem a funcionar um dia. Como os Valakkar são uma espécie invasora, decidimos que o abate é a única opção viável.\\n \\nReduza a população de Valakkar em qualquer uma das antigas QV Breaker Stations e nós pagaremos por isso.\\n \\nAtenciosamente,\\n \\nWanda Werkheiser\\nGerente de Contratos\\nHighpoint Wilderness Specialists"
     },
     "UWC_Refueling_easy_desc_001": {
       "en": "Hey there,\\n\\nIf you're fitted for refueling, you might like this one. \\n\\nA beacon has just gone live at <EM4>[LOCATION]</EM4>, from a client whose <EM4>[SHIP]</EM4> is in need of [FUELTYPE], so make sure your pods are topped off.\\n\\nThe client vessel will pay you at the rate of [REFUELREQUEST], and as a United Wayfarers Club contractor, you will also qualify for the UWC service fee listed above upon completion.\\n\\nLooks like a zero-drama one and done, but it never hurts to keep your scanners live.\\nLet me know if you're interested and let's get these good people on their way.\\n\\nWaiting to hear from you,\\n\\nDina Deloit\\nDispatch Hub\\nUnited Wayfarers Club\\n\"We’ve got your back\"",
       "tr": "Olá,\\n\\nSe sua nave está equipada para reabastecimento, acho que esta missão é a sua cara.\\n\\nAcabou de surgir um sinalizador em <EM4>[LOCATION]</EM4>, de um cliente cuja <EM4>[SHIP]</EM4> precisa de [FUELTYPE], então certifique-se de que seus tanques de combustível estejam cheios.\\n\\nA nave do cliente pagará [REFUELREQUEST], e como contratado do United Wayfarers Club, você também receberá a taxa de serviço da UWC listada acima ao concluir o serviço.\\n\\nParece uma missão tranquila do começo ao fim, mas nunca faz mal manter os sensores ligados.\\nMe avise se tiver interesse e vamos colocar esse pessoal de volta na rota.\\n\\nAguardando sua resposta,\\n\\nDina Deloit\\nCentral de Despacho\\nUnited Wayfarers Club\\n\"Estamos do seu lado\""
     },
     "CFP_ShipWaveAttack_ClearHostiles_Desc_M_001": {
-      "en": "It feels that whenever we start to make real progress in the system, the outlaws are there to push one step back. We had recently cleared out [LOCATION] only to learn that a new outlaw gang has taken root there, using it as a launching point for various criminal enterprises. \\n\\nSince we can't afford to let this rot spread, you and a few support ships are being charged with heading there to clear out all the gang's packs. After you deal with one pack, be sure to wait until all of the hostile packs have been dealt with.\\n\\nKnow that you are helping to make a real difference,\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
-      "tr": "Parece que sempre que começamos a fazer progresso real no sistema, os fora-da-lei aparecem para nos fazer retroceder. Recentemente limpamos [LOCATION], apenas para descobrir que uma nova gangue de fora-da-lei se instalou lá, usando o local como base para diversas atividades criminosas.\\n\\nComo não podemos deixar esse problema se espalhar, você e algumas naves de apoio foram encarregados de ir até lá e eliminar todos os grupos da gangue. Depois de lidar com um grupo, permaneça na área até que todos os grupos hostis tenham sido neutralizados.\\n\\nSaiba que você está realmente fazendo a diferença,\\nLima Endicott\\nDespachante Chefe\\nCitizens for Prosperity"
+      "en": "It feels that whenever we start to make real progress in the system, the outlaws are there to push one step back. We had recently cleared out <EM4>[LOCATION]</EM4> only to learn that a new outlaw gang has taken root there, using it as a launching point for various criminal enterprises. \\n\\nSince we can't afford to let this rot spread, you and a few support ships are being charged with heading there to clear out all the gang's packs. After you deal with one pack, be sure to wait until all of the hostile packs have been dealt with.\\n\\nKnow that you are helping to make a real difference,\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
+      "tr": "Parece que sempre que começamos a fazer progresso de verdade no sistema, os fora da lei aparecem para nos fazer dar um passo atrás. Tínhamos acabado de limpar <EM4>[LOCATION]</EM4> quando descobrimos que uma nova gangue se instalou lá e passou a usar o local como base para diversas atividades criminosas. \\n\\nComo não podemos deixar essa praga se espalhar, você e algumas naves de apoio foram designados para ir até lá e eliminar todos os grupos da gangue. Depois de acabar com um grupo, não deixe de aguardar até que todos os grupos hostis tenham sido abatidos.\\n\\nSaiba que você está fazendo a diferença de verdade,\\nLima Endicott\\nDespachante-Chefe\\nCitizens for Prosperity"
     },
     "EckhartSecurity_Defend_H_Desc_001": {
       "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Defend Location\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nThere’s a serious problem brewing for one of our clients at <EM4>[LOCATION]</EM4>. They’ve been warned that a highly skilled outlaw crew has their sights set on overrunning and occupying that location. We’ve been hired to make sure that doesn’t happen. \\n\\nNeed a contractor to deploy to the location immediately. Based on the intel provided by the client, this won’t be a walk in the park. We strongly advise you to bring allies and plenty of supplies to help ward of the impending attack.   \\n\\nPayment will be issued upon successful completion of contract.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
@@ -6053,6 +6129,10 @@
     "Headhunters_DefendLocation_S_Desc_001": {
       "en": "Our crew at <EM4>[LOCATION]</EM4> needs help. Enemy ships are swarming the area and attacking anything and everything they can find. That’d be bad enough as is, but this site has some absolutely crucial gear and personnel that we can’t have destroyed or compromised. \\n\\nConsidering the size and scale of the attack, you’re gonna need a fully supplied ship and some reliable wingmen. Gather your crew, fly out to the site, and I’ll send you specifics on where you’re needed most.\\n\\nTo prove just how serious we are about getting this done right, the main contractor will earn a bonus <EM4>9 Council Scrip</EM4> for making sure absolutely nothing goes wrong.\\n\\n- Stow",
       "tr": "Nosso pessoal em <EM4>[LOCATION]</EM4> precisa de ajuda. As naves inimigas estão invadindo a área e atacando tudo o que conseguem encontrar. Já seria ruim o suficiente, mas este local tem equipamentos e pessoal absolutamente cruciais que não podemos deixar ser destruídos ou comprometidos. \\n\\nConsiderando o tamanho e a escala do ataque, você vai precisar de uma nave bem equipada e de alguns wingmen confiáveis. Reúna sua tripulação, voe até o local e eu vou te passar os detalhes de onde você é mais necessário.\\n\\nPra provar o quanto estamos sérios em garantir que isso seja feito do jeito certo, o contratante principal vai receber um bônus de <EM4>[SCRIPAMOUNT] Council Scrip</EM4> por garantir que absolutamente nada dê errado.\\n\\n- Stow"
+    },
+    "Intersec_BoardShip_ShatteredBlade_Desc_001": {
+      "en": "MISSION SPECS\\n\\nArea of Operation: Nyx System \\nHostile Forces: Shattered Blade\\nEquipment Specs: Combat Ready\\nBriefing: \\n\\nUrgent assistance is required for a ship at <EM4>[LOCATION]</EM4>. Intercepted comms indicate it has been boarded by Shattered Blade intent on hijacking the recovered Vanduul cryopods in the ship's hold.\\n\\nProceed to location and take back the vessel. Lethal force has been authorized against all Shattered Blade operatives. The captured crew is counting on you.\\n\\nRespectfully,   \\n\\nDeacon Tobin \\nOperations Manager \\nInterSec Defense Solutions  \\n\\nThis communication consists of confidential information solely intended for the recipient. Please disregard if received in error and notify the sender. All operations are conducted at the contractor’s own personal risk and must adhere to UEE and system law where applicable.",
+      "tr": "ESPECIFICAÇÕES DA MISSÃO\\n\\nÁrea de Operação: Sistema Nyx \\nForças Hostis: Shattered Blade\\nEquipamento Necessário: Pronto para Combate\\nBriefing: \\n\\nÉ necessária assistência urgente para uma nave em <EM4>[LOCATION]</EM4>. Comunicações interceptadas indicam que ela foi abordada pela Shattered Blade com a intenção de sequestrar as criocápsulas Vanduul recuperadas que estão no porão da nave.\\n\\nSiga até o local e retome a embarcação. O uso de força letal foi autorizado contra todos os operativos da Shattered Blade. A tripulação capturada está contando com você.\\n\\nRespeitosamente,   \\n\\nDeacon Tobin \\nGerente de Operações \\nInterSec Defense Solutions  \\n\\nEsta comunicação contém informações confidenciais destinadas exclusivamente ao destinatário. Caso a tenha recebido por engano, desconsidere-a e notifique o remetente. Todas as operações são realizadas por conta e risco do contratado e devem respeitar as leis do UEE e do sistema, quando aplicável."
     },
     "northrock_SOO_repeat_desc_001": {
       "en": "Glad to have you undertaking this operation for Northrock. Here is the full brief:\\n\\nYour priority is to <EM4>disable all three Identify Friend or Foe Inverters</EM4> that are blocking Crusader Security from accessing the airspace around these platforms. Once the inverters are offline, Crusader Security will be able to fly their ships in and resecure the platforms. In the meanwhile, the platforms are connected by a series of shuttles unaffected by the inverters and will serve as your main form of transport between them.\\n\\nBe aware that you will meet heavy resistance as you progress. Crusader has tried multiple times to deal with this incursion themselves but have thus far been unsuccessful. However, we believe a small strike team will prove more effective in dealing with the Nine Tails forces. \\n\\nAdditionally, in the spirit of full cooperation, Crusader has given you carte blanche to utilize any of the resources you discover that may prove helpful to the mission. \\n\\nBest of luck,\\nAdrienne Du-Buisson\\nLogistics Officer - Stanton Branch\\nNorthrock Service Group",
@@ -6140,7 +6220,7 @@
     },
     "iasi_Patrol_H_Desc": {
       "en": "The RSI Discovery Month event has been attracting the wrong kind of attention it seems. RSI's is worried there's a potential attack brewing and has contracted us to patrol the area.\\n\\nHead over to the <EM4>patrol point</EM4> on your HUD to begin your sweep. Once you've scanned all the areas and dealt with any potential threats, we'll ping the client to make sure they're happy, then we can send you your creds.\\n\\nBased on some of the patrols conducted so far, I would strongly recommend bringing some <EM4>wingmen</EM4> to watch your back.\\n\\nBe careful out there,\\n\\nEugene Walton\\nDispatcher, Foxwell Enforcement\\n'Security, Your Way'\\n\\nFoxwell Enforcement is a bonded security specialist licensed to operate throughout the UEE. We are always looking for new operators to join our family. If you or anyone you know is interested, please reach out to one of our contract representatives.",
-      "tr": "The RSI Discovery Month event has been attracting the wrong kind of attention it seems. RSI's is worried there's a potential attack brewing and has contracted us to patrol the area.\\n\\nHead over to the <EM4>patrol point</EM4> on your HUD to begin your sweep. Once you've scanned all the areas and dealt with any potential threats, we'll ping the client to make sure they're happy, then we can send you your creds.\\n\\nBased on some of the patrols conducted so far, I would strongly recommend bringing some <EM4>wingmen</EM4> to watch your back.\\n\\nBe careful out there,\\n\\nEugene Walton\\nDispatcher, Foxwell Enforcement\\n'Security, Your Way'\\n\\nFoxwell Enforcement is a bonded security specialist licensed to operate throughout the UEE. We are always looking for new operators to join our family. If you or anyone you know is interested, please reach out to one of our contract representatives."
+      "tr": "O evento do Mês da Descoberta da RSI parece estar atraindo o tipo errado de atenção. A RSI tá preocupada com a possibilidade de um ataque estar sendo tramado e nos contratou pra patrulhar a área.\\n\\nVá até o <EM4>ponto de patrulha</EM4> indicado no seu HUD pra começar a varredura. Assim que você escanear todas as áreas e lidar com possíveis ameaças, vamos entrar em contato com o cliente pra confirmar que tá tudo certo. Depois disso, liberamos sua grana.\\n\\nCom base em algumas patrulhas realizadas até agora, recomendo fortemente que você leve alguns <EM4>parceiros de ala</EM4> pra cobrir sua retaguarda.\\n\\nFique esperto lá fora,\\n\\nEugene Walton\\nDespachante, Foxwell Enforcement\\n'Security, Your Way'\\n\\nA Foxwell Enforcement é uma empresa especializada em segurança, credenciada e licenciada para operar em toda a UEE. Estamos sempre procurando novos operadores pra fazer parte da família. Se você ou alguém que conhece tiver interesse, entre em contato com um de nossos representantes de contratos."
     },
     "iasi_SupportAttackedShip_H_Desc": {
       "en": "In search of a contractor to help us out of a tight spot.\\n\\nWe were hired by RSI to escort their ship to the Discovery event that's going on, but the moment the group dropped out of quantum, outlaws took out the escort. All we know is that their last known location was <EM4>[LOCATION]</EM4>, but that's about it.\\n\\nNot for the faint of heart this one, so bring <EM4>back up</EM4> and don't skimp on weapons. You'll need to cover them long enough so they can quantum to safety.\\n\\nGood luck out there,\\n\\nEugene Walton\\nDispatcher, Foxwell Enforcement\\n'Security, Your Way'\\n\\nFoxwell Enforcement is a bonded security specialist licensed to operate throughout the UEE. We are always looking for new operators to join our family. If you or anyone you know is interested, please reach out to one of our contract representatives.",
@@ -6192,15 +6272,15 @@
     },
     "iasi_Salvage_ResourceGathering_L_Desc": {
       "en": "Adagio Holdings\\nA Proud Equal Opportunity Employer\\n\\n> About the job <\\nRSI have informed us that there has been an increase in owners exchanging their ships in order to upgrade to the latest Constellation Mk V Centaurus and are looking for our help in salvaging the retired crafts. The exchange program only accepts Construction Materials (Salvage), so RSI have informed us that the contractor may keep any RMC they collect. \\n\\nIf accepted, you will travel to <EM4>[LOCATION]</EM4> and gather unrefined Construction Materials from the ship located there. Then, once acquired, deliver the materials to the freight elevator located at <EM4>[DESTINATION]</EM4>. Please be mindful that any extra materials delivered will not be returned.\\n\\nFor advice on salvaging, consult <EM4>A Salvager's Guide to Material Collection</EM4> in your mobiGlas journal. Check the requirements below to ensure you bring the right equipment.\\n\\n> Requirements <\\n     - A large-sized salvage ship (Aegis Reclaimer)\\n     - A handheld tractor beam\\n\\n> Disclaimer <\\nContractors are responsible for ensuring that they are collecting materials from vehicles that are considered fair salvage under the pursuant UEE laws. Adagio Holdings is in no way liable for any crimes or misdemeanors committed by contractors and will offer no compensation or reparation for any persons affected by these actions.",
-      "tr": "Adagio Holdings\\nUma empresa que se orgulha de oferecer oportunidades iguais\\n\\n> Sobre o trabalho <\\nA RSI nos informou que aumentou o número de proprietários trocando suas naves para adquirir a nova Constellation Mk V Centaurus e está buscando nossa ajuda para recuperar as naves aposentadas. O programa de troca aceita apenas Materiais de Construção (Salvagem), então a RSI informou que o contratado pode ficar com qualquer RMC que coletar.\\n\\nSe aceitar, você deverá ir até <EM4>[LOCATION]</EM4> e coletar Materiais de Construção não refinados da nave localizada lá. Depois de recolhidos, entregue os materiais no elevador de carga em <EM4>[DESTINATION]</EM4>. Atenção: materiais entregues em excesso não serão devolvidos.\\n\\nPara obter orientações sobre salvagem, consulte <EM4>Guia de um Salvager para Coleta de Materiais</EM4> no diário do seu mobiGlas. Confira os requisitos abaixo para garantir que você leve o equipamento correto.\\n\\n> Requisitos <\\n     - Uma nave de salvagem de grande porte (Aegis Reclaimer)\\n     - Um raio trator portátil\\n\\n> Isenção de responsabilidade <\\nOs contratados são responsáveis por garantir que estejam coletando materiais de veículos cuja salvagem seja permitida pelas leis vigentes da UEE. A Adagio Holdings não se responsabiliza por crimes ou delitos cometidos pelos contratados e não oferecerá compensação ou indenização a quaisquer pessoas afetadas por essas ações."
+      "tr": "Adagio Holdings\\nUma empresa que se orgulha de oferecer oportunidades iguais\\n\\n> Sobre o trabalho <\\nA RSI nos informou que aumentou o número de proprietários trocando suas naves para adquirir a nova Constellation Mk V Centaurus e está buscando nossa ajuda para recuperar as naves aposentadas. O programa de troca aceita apenas Materiais de Construção (Sucateamento), então a RSI informou que o contratado pode ficar com qualquer RMC que coletar.\\n\\nSe aceitar, você deverá ir até <EM4>[LOCATION]</EM4> e coletar Materiais de Construção não refinados da nave localizada lá. Depois de recolhidos, entregue os materiais no elevador de carga em <EM4>[DESTINATION]</EM4>. Atenção: materiais entregues em excesso não serão devolvidos.\\n\\nPara obter orientações sobre sucateamento, consulte <EM4>Guia de um Salvager para Coleta de Materiais</EM4> no diário do seu mobiGlas. Confira os requisitos abaixo para garantir que você leve o equipamento correto.\\n\\n> Requisitos <\\n     - Uma nave de sucateamento de grande porte (Aegis Reclaimer)\\n     - Um raio trator portátil\\n\\n> Isenção de responsabilidade <\\nOs contratados são responsáveis por garantir que estejam coletando materiais de veículos cujo sucateamento seja permitida pelas leis vigentes da UEE. A Adagio Holdings não se responsabiliza por crimes ou delitos cometidos pelos contratados e não oferecerá compensação ou indenização a quaisquer pessoas afetadas por essas ações."
     },
     "iasi_Salvage_ResourceGathering_M_Desc": {
       "en": "Adagio Holdings\\nA Proud Equal Opportunity Employer\\n\\n> About the job <\\nRSI have dedicated themselves to use even more recycled materials as a part of their Sustainable 'Verse pledge, and are offering to responsibly dispose of former customer's retired ships. Because they are only in need of the unrefined Construction Materials (Pieces) right now, any RMC obtained may be kept by the contractor.\\n\\nThey're looking for a contractor to travel to <EM4>[LOCATION]</EM4> and salvage unrefined Construction Materials from the vessel waiting there.  Once acquired, deliver the materials to the freight elevator located at <EM4>[DESTINATION]</EM4>. Please be mindful that any extra materials delivered will not be returned.\\n\\nFor advice on salvaging, consult <EM4>A Salvager's Guide to Material Collection</EM4> in your mobiGlas journal. Before accepting this contract be sure to check the requirements below to make sure you are able to complete the work.\\n\\n> Requirements <\\n     - A medium-sized salvage ship (Argo MOTH)\\n     - A handheld tractor beam\\n\\n> Disclaimer <\\nContractors are responsible for ensuring that they are collecting materials from vehicles that are considered fair salvage under the pursuant UEE laws. Adagio Holdings is in no way liable for any crimes or misdemeanors committed by contractors and will offer no compensation or reparation for any persons affected by these actions.",
-      "tr": "Adagio Holdings\\nUma empresa que se orgulha de oferecer oportunidades iguais\\n\\n> Sobre o trabalho <\\nComo parte de seu compromisso com a sustentabilidade no 'verso, a RSI decidiu utilizar ainda mais materiais reciclados e está oferecendo o descarte responsável de naves aposentadas de antigos clientes. Como, no momento, precisam apenas de Materiais de Construção não refinados (Peças), o contratado poderá ficar com qualquer RMC obtido.\\n\\nEles procuram um contratado para ir até <EM4>[LOCATION]</EM4> e recuperar Materiais de Construção não refinados da nave que está esperando lá. Depois de recolhidos, entregue os materiais no elevador de carga em <EM4>[DESTINATION]</EM4>. Atenção: materiais entregues em excesso não serão devolvidos.\\n\\nPara obter orientações sobre salvagem, consulte <EM4>Guia de um Salvager para Coleta de Materiais</EM4> no diário do seu mobiGlas. Antes de aceitar este contrato, confira os requisitos abaixo para garantir que você consiga concluir o serviço.\\n\\n> Requisitos <\\n     - Uma nave de salvagem de médio porte (Argo MOTH)\\n     - Um raio trator portátil\\n\\n> Isenção de responsabilidade <\\nOs contratados são responsáveis por garantir que estejam coletando materiais de veículos cuja salvagem seja permitida pelas leis vigentes da UEE. A Adagio Holdings não se responsabiliza por crimes ou delitos cometidos pelos contratados e não oferecerá compensação ou indenização a quaisquer pessoas afetadas por essas ações."
+      "tr": "Adagio Holdings\\nUma empresa que se orgulha de oferecer oportunidades iguais\\n\\n> Sobre o trabalho <\\nComo parte de seu compromisso com a sustentabilidade no 'verso, a RSI decidiu utilizar ainda mais materiais reciclados e está oferecendo o descarte responsável de naves aposentadas de antigos clientes. Como, no momento, precisam apenas de Materiais de Construção não refinados (Peças), o contratado poderá ficar com qualquer RMC obtido.\\n\\nEles procuram um contratado para ir até <EM4>[LOCATION]</EM4> e recuperar Materiais de Construção não refinados da nave que está esperando lá. Depois de recolhidos, entregue os materiais no elevador de carga em <EM4>[DESTINATION]</EM4>. Atenção: materiais entregues em excesso não serão devolvidos.\\n\\nPara obter orientações sobre sucateamento, consulte <EM4>Guia de um Salvager para Coleta de Materiais</EM4> no diário do seu mobiGlas. Antes de aceitar este contrato, confira os requisitos abaixo para garantir que você consiga concluir o serviço.\\n\\n> Requisitos <\\n     - Uma nave de sucateamento de médio porte (Argo MOTH)\\n     - Um raio trator portátil\\n\\n> Isenção de responsabilidade <\\nOs contratados são responsáveis por garantir que estejam coletando materiais de veículos cujo sucateamento seja permitida pelas leis vigentes da UEE. A Adagio Holdings não se responsabiliza por crimes ou delitos cometidos pelos contratados e não oferecerá compensação ou indenização a quaisquer pessoas afetadas por essas ações."
     },
     "iasi_Salvage_ResourceGathering_S_Desc": {
       "en": "Adagio Holdings\\nA Proud Equal Opportunity Employer\\n\\n> About the job <\\nWe have received several special work orders from RSI who wish to support loyal customers by offering them a discount on their next purchase in exchange for recycling their previous ship. We are in need of the Construction Materials (Rubble) for another order we're working on, but anything else you salvage, like RMC, is yours to keep. \\n\\nThe disused RSI ship is located <EM4>[LOCATION]</EM4> and is ready and waiting. Once salvaged, deliver the materials to the freight elevator located at <EM4>[DESTINATION]</EM4>. Please be mindful that any extra materials delivered will not be returned.\\n\\nFor advice on salvaging, consult <EM4>A Salvager's Guide to Material Collection</EM4> in your mobiGlas journal. Before accepting this contract be sure to check the equipment requirements below.\\n\\n> Requirements <\\n     - A small-sized salvage ship (RSI Salvation, Drake Vulture, MISC Fortune)\\n     - A handheld tractor beam\\n\\n> Disclaimer <\\nContractors are responsible for ensuring that they are collecting materials from vehicles that are considered fair salvage under the pursuant UEE laws. Adagio Holdings is in no way liable for any crimes or misdemeanors committed by contractors and will offer no compensation or reparation for any persons affected by these actions.",
-      "tr": "Adagio Holdings\\nUma empresa que se orgulha de oferecer oportunidades iguais\\n\\n> Sobre o trabalho <\\nRecebemos várias ordens de serviço especiais da RSI, que deseja apoiar seus clientes fiéis oferecendo descontos na próxima compra em troca da reciclagem da nave anterior. Precisamos dos Materiais de Construção (Entulho) para outra encomenda em andamento, mas você pode ficar com qualquer outro material recuperado, como RMC.\\n\\nA nave RSI desativada está em <EM4>[LOCATION]</EM4> e pronta para ser desmontada. Após a salvagem, entregue os materiais no elevador de carga em <EM4>[DESTINATION]</EM4>. Atenção: materiais entregues em excesso não serão devolvidos.\\n\\nPara obter orientações sobre salvagem, consulte <EM4>Guia de um Salvager para Coleta de Materiais</EM4> no diário do seu mobiGlas. Antes de aceitar este contrato, confira os requisitos de equipamento abaixo.\\n\\n> Requisitos <\\n     - Uma nave de salvagem de pequeno porte (RSI Salvation, Drake Vulture, MISC Fortune)\\n     - Um raio trator portátil\\n\\n> Isenção de responsabilidade <\\nOs contratados são responsáveis por garantir que estejam coletando materiais de veículos cuja salvagem seja permitida pelas leis vigentes da UEE. A Adagio Holdings não se responsabiliza por crimes ou delitos cometidos pelos contratados e não oferecerá compensação ou indenização a quaisquer pessoas afetadas por essas ações."
+      "tr": "Adagio Holdings\\nUma empresa que se orgulha de oferecer oportunidades iguais\\n\\n> Sobre o trabalho <\\nRecebemos várias ordens de serviço especiais da RSI, que deseja apoiar seus clientes fiéis oferecendo descontos na próxima compra em troca da reciclagem da nave anterior. Precisamos dos Materiais de Construção (Entulho) para outra encomenda em andamento, mas você pode ficar com qualquer outro material recuperado, como RMC.\\n\\nA nave RSI desativada está em <EM4>[LOCATION]</EM4> e pronta para ser desmontada. Após o sucateamento, entregue os materiais no elevador de carga em <EM4>[DESTINATION]</EM4>. Atenção: materiais entregues em excesso não serão devolvidos.\\n\\nPara obter orientações sobre sucateamento, consulte <EM4>Guia de um Salvager para Coleta de Materiais</EM4> no diário do seu mobiGlas. Antes de aceitar este contrato, confira os requisitos de equipamento abaixo.\\n\\n> Requisitos <\\n     - Uma nave de sucateamento de pequeno porte (RSI Salvation, Drake Vulture, MISC Fortune)\\n     - Um raio trator portátil\\n\\n> Isenção de responsabilidade <\\nOs contratados são responsáveis por garantir que estejam coletando materiais de veículos cujo sucateamento seja permitida pelas leis vigentes da UEE. A Adagio Holdings não se responsabiliza por crimes ou delitos cometidos pelos contratados e não oferecerá compensação ou indenização a quaisquer pessoas afetadas por essas ações."
     },
     "iasi_Refueling_M_Desc_001": {
       "en": "Hey again,\\n\\nFound a beacon from one of those new <EM4>[SHIP]</EM4> ships out in <EM4>[LOCATION]</EM4> that needs refueling. Just got off comms with them and they said they ran into some trouble with some local outlaws and had to make a sharp exit so weren't able to fill up on <EM4>[FUELTYPE]<EM4> before heading out.\\n\\nThe client vessel will pay you at the rate of [REFUELREQUEST], and as a United Wayfarers Club contractor, you will also qualify for the UWC service fee listed above upon completion.\\n\\nHoping we can get out to those nice folks before anything bad happens to them, been hearing a lot of nasty rumors about those parts recently. Watch your back and make sure you get home safely. \\n\\nHappy trails,\\n\\nDina Deloit\\nDispatch Hub\\nUnited Wayfarers Club\\n\"\"We’ve got your back\"\"",
@@ -6342,6 +6422,10 @@
       "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Destroy Server\\nAPPROVAL CODE = VS-14\\n\\nFOR IMMEDIATE PROCESSING\\n\\nClient has requested a discreet contractor to infiltrate an ASD research site, locate a group of servers, and destroy the information stored on them permanently.\\n\\nThe client was able to share the location of the servers within the facility: the <EM4>Control Center in the Engineering wing</EM4>. The site has officially been shuttered, but there still may be hostile forces there. Be on your guard.\\n\\nPayment will be issued upon successful completion of contract.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
       "tr": "ECKHART SECURITY, LLC.\\nCONTRATOS & DESPACHO\\n\\nTIPO DE CONTRATO: Destruir Servidor\\nCÓDIGO DE APROVAÇÃO = VS-14\\n\\nPARA PROCESSAMENTO IMEDIATO\\n\\nO cliente solicitou um contratado discreto para infiltrar um centro de pesquisa da ASD, localizar um grupo de servidores e destruir permanentemente as informações armazenadas neles.\\n\\nO cliente conseguiu compartilhar a localização dos servidores dentro da instalação: o <EM4>Centro de Controle na ala de Engenharia</EM4>. O local foi oficialmente fechado, mas ainda podem existir forças hostis por lá. Fique em guarda.\\n\\nO pagamento será liberado após a conclusão bem-sucedida do contrato.\\n\\nEste contrato não é negociável.\\n\\nEsta mensagem pode conter informações confidenciais, proprietárias, privilegiadas e/ou privadas. As informações destinam-se ao uso exclusivo do indivíduo ou entidade mencionados acima."
     },
+    "Intersec_ShipWaveAttack_DrawOutBoss_H_Van_Desc_001": {
+      "en": "MISSION SPECS\\n\\nArea of Operation: Nyx System \\nHostile Forces: Vanduul\\nEquipment Specs: Combat-rated ship\\nBriefing:\\n\\nScanners have detected the engine signatures of a significant number of Vanduul vessels, including potential Super Stingers, at <EM4>[LOCATION]</EM4>. In the event these scans prove accurate, the Super Stingers should be considered priority targets. \\n\\nYou are advised to arrange for backup to accompany you. This looks to be the kind of mission that leads to more substantial  contracts.\\n\\nRespectfully,   \\n\\nDeacon Tobin \\nOperations Manager \\nInterSec Defense Solutions  \\n\\nThis communication consists of confidential information solely intended for the recipient. Please disregard if received in error and notify the sender. All operations are conducted at the contractor’s own personal risk and must adhere to UEE and system law where applicable.",
+      "tr": "ESPECIFICAÇÕES DA MISSÃO\\n\\nÁrea de Operação: Sistema Nyx \\nForças Hostis: Vanduul\\nEquipamento Necessário: Nave de combate\\nBriefing:\\n\\nOs scanners detectaram assinaturas de motor de um número significativo de naves Vanduul, possivelmente incluindo Super Stingers, em <EM4>[LOCATION]</EM4>. Caso as leituras se confirmem, os Super Stingers devem ser considerados alvos prioritários. \\n\\nRecomendamos que você leve reforços. Esse parece ser o tipo de missão que abre portas para contratos mais robustos.\\n\\nRespeitosamente,   \\n\\nDeacon Tobin \\nGerente de Operações \\nInterSec Defense Solutions  \\n\\nEsta comunicação contém informações confidenciais destinadas exclusivamente ao destinatário. Caso a tenha recebido por engano, desconsidere-a e notifique o remetente. Todas as operações são realizadas por conta e risco do contratado e devem respeitar as leis do UEE e do sistema, quando aplicável."
+    },
     "cfp_defendship_Intro_Desc_001": {
       "en": "Citizens for Prosperity is in need of pilots with dogfighting experience. If you’re looking to put your skills to the test, I have a mission here for you to try. \\n\\nA civilian ship has requested combat support near <EM4>[LOCATION]</EM4>. Head there and show us that you have the skills to excel in these types of missions and we’ll put you to good use.  \\n\\nPlease be aware. This mission is not a training exercise. This is a real encounter, so please do your best to save the ship in distress. \\n\\nGood Luck,\\n\\nLima Endicott\\nLead Dispatcher\\nCitizens for Prosperity",
       "tr": "Os Citizens for Prosperity estão precisando de pilotos com experiência em combates. Se você está procurando uma oportunidade para testar suas habilidades, tenho uma missão aqui para você tentar.\\n\\nUma nave civil solicitou suporte de combate perto de <EM4>[LOCATION]</EM4>. Vá até lá e mostre que você tem as habilidades necessárias para se destacar neste tipo de missão e faremos bom uso de você.\\n\\nPor favor, esteja ciente de que esta missão não é um exercício de treinamento. Trata-se de um encontro real, então faça o seu melhor para salvar a nave em perigo.\\n\\nBoa sorte,\\n\\nLima Endicott\\nDespachante Líder\\nCitizens for Prosperity"
@@ -6351,8 +6435,8 @@
       "tr": "ECKHART SECURITY, LLC.\\nCONTRATOS & DESPACHO\\n\\nTIPO DE CONTRATO: Defender Nave\\nCÓDIGO DE APROVAÇÃO = [APPROVAL_CODE]\\n\\nPARA PROCESSAMENTO IMEDIATO\\n\\nTemos uma emergência que exige nossa atenção imediata. Um cliente encontrou uma tripulação do Shattered Blade perto de <EM4>[LOCATION]</EM4> e está prestes a ser sobrecarregado. Precisamos de um piloto habilidoso para vir em seu resgate.\\n\\nO pagamento será feito após a conclusão bem-sucedida do contrato.\\n\\nEste contrato é inegociável.\\n\\nEsta mensagem pode conter informações confidenciais, proprietárias, privilegiadas e/ou privadas. A informação é destinada ao uso do indivíduo ou entidade designada acima."
     },
     "HeadHunters_ShipAmbush_Intro_desc_001": {
-      "en": "Got an opportunity for someone eager to show off their flying skills. Headhunters have been running afoul of this numbrain flying a<EM4>[TARGET]</EM4> and we’re gonna put a stop to it once and for all.\\n\\nYou’re gonna help us set a trap for them. See, there’s an <EM4>emission cloud</EM4> near <EM4>[LOCATION]</EM4> that they fly by frequently. \\n\\nHead there, hide inside the cloud by powering down your ship, and attack the asshole as soon as you see ‘em and other single-seaters dumb enough to fly with them. It’ll be all you for that first hit, but we’ll put some support ships nearby to help finish the job. \\n\\nAnd in honor of this being your first surprise attack for us, there's a bonus of <EM4>1 Council Scrip</EM4> for the main contractor at the end of the job. \\n\\nStows out.",
-      "tr": "Tem uma oportunidade para alguém disposto a mostrar suas habilidades de pilotagem. Os Headhunters têm se metido com esse idiota voando um <EM4>[TARGET]</EM4> e a gente vai acabar com isso de uma vez por todas.\\n\\nVocê vai nos ajudar a armar uma armadilha para eles. Veja, tem uma <EM4>Nuvem de Emissão</EM4> perto de <EM4>[LOCATION]</EM4> que eles costumam passar com frequência. \\n\\nVá até lá, se esconda dentro da nuvem desligando sua nave, e ataque o babaca assim que vê-lo, junto com outros pilotos solitários burros o suficiente para voar com ele. Vai ser tudo com você no primeiro ataque, mas vamos deixar algumas naves de apoio por perto para ajudar a finalizar o serviço. \\n\\nE em homenagem a esse ser seu primeiro ataque surpresa para nós, tem um bônus de <EM4>[SCRIPAMOUNT] Council Scrip</EM4> para o contratante principal no final da missão. \\n\\nStows desliga."
+      "en": "Got an opportunity for someone eager to show off their flying skills. Headhunters have been running afoul of this numbrain flying this <EM4>[TARGET]</EM4> and we’re gonna put a stop to it once and for all.\\n\\nYou’re gonna help us set a trap for them. See, there’s an <EM4>emission cloud</EM4> near <EM4>[LOCATION]</EM4> that they fly by frequently. \\n\\nHead there, hide inside the cloud by powering down your ship, and attack the asshole as soon as you see ‘em and other single-seaters dumb enough to fly with them. It’ll be all you for that first hit, but we’ll put some support ships nearby to help finish the job. \\n\\nAnd in honor of this being your first surprise attack for us, there's a bonus of <EM4>1 Council Scrip</EM4> for the main contractor at the end of the job. \\n\\nStows out.",
+      "tr": "Tenho uma oportunidade pra quem tá doido pra mostrar serviço no manche. Os Headhunters andam batendo de frente com um mané que pilota essa <EM4>[TARGET]</EM4>, e a gente vai acabar com isso de uma vez por todas.\\n\\nVocê vai ajudar a gente a armar uma arapuca. Seguinte: tem uma <EM4>nuvem de emissão</EM4> perto de <EM4>[LOCATION]</EM4> por onde eles passam direto. \\n\\nVai pra lá, se esconde dentro da nuvem desligando sua nave e mete bala no desgraçado assim que ele aparecer, junto com qualquer outro monoposto burro o bastante pra voar com ele. O primeiro ataque é todo seu, mas vamos deixar umas naves de apoio por perto pra ajudar a terminar o serviço. \\n\\nE pra comemorar sua primeira emboscada com a gente, tem um bônus de <EM4>[SCRIPAMOUNT] Council Scrip</EM4> pro contratado principal no fim do serviço. \\n\\nStows, desligando."
     },
     "Eckhart_ShipAmbush_VE_desc": {
       "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Ship Ambush\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nOne of our clients has been the victim of consistent harassment so the time has come to send a clear cease-and-desist message by taking out their prized <EM4>[TARGET]</EM4>.  The lowlife in question follows a fairly predictable routine making them susceptible to an ambush. We’ve identified <EM4>[LOCATION]</EM4> as the ideal spot. It features an <EM4>emission cloud</EM4> where you can hide and power down your ship while waiting. \\n\\nBy the way, the <EM4>[TARGET]</EM4> often flies alone but is sometimes joined by a friend in a single-seat ship. Neither should give you too much trouble, but we have other contractors in the area who can lend a hand once you strike.\\n\\nPayment will be issued upon successful completion of contract. There’s a bonus payment of <EM4>1 MG Scrip</EM4> in this for the main contractor too.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
@@ -6554,6 +6638,10 @@
       "en": "ECKHART SECURITY, LLC.\\nCONTRACTS & DISPATCH\\n\\nCONTRACT TYPE: Defend Ship\\nAPPROVAL CODE = [APPROVAL_CODE]\\n\\nFOR IMMEDIATE PROCESSING\\n\\nWe’re getting comms from a client who accidentally disturbed a Shattered Blade deal and are now under attack. Last update I got placed their ship near <EM4>[LOCATION]</EM4>.\\n\\nLooking for a contractor who can provide dogfighting support for our client.\\n\\nPayment will be issued upon successful completion of contract.\\n\\nThis contract is non-negotiable.\\n\\nThis message may contain confidential, proprietary, privileged and/or private information. The information is intended to be for the use of the individual or entity designated above.",
       "tr": "ECKHART SECURITY, LLC.\\nCONTRATOS & DESPACHO\\n\\nTIPO DE CONTRATO: Defender Nave\\nCÓDIGO DE APROVAÇÃO = [APPROVAL_CODE]\\n\\nPARA PROCESSAMENTO IMEDIATO\\n\\nEstamos recebendo comunicações de um cliente que acidentalmente interrompeu um acordo do Shattered Blade e agora está sendo atacado. A última atualização que recebi indicava que a nave deles está próxima a <EM4>[LOCATION]</EM4>.\\n\\nEstamos procurando um contratante que possa fornecer suporte de dogfight para nosso cliente.\\n\\nO pagamento será feito após a conclusão bem-sucedida do contrato.\\n\\nEste contrato é inegociável.\\n\\nEsta mensagem pode conter informações confidenciais, proprietárias, privilegiadas e/ou privadas. A informação é destinada ao uso do indivíduo ou entidade designada acima."
     },
+    "Intersec_3Way_Desc_Super_001": {
+      "en": "MISSION SPECS\\n\\nArea of Operation: Nyx System \\nHostile Forces: Shattered Blade, Vanduul\\nEquipment Specs: Combat-rated ship\\nBriefing:\\n\\n<EM4>[LOCATION]</EM4> has become impassable due to a severe escalation in hostilities between Vanduul and Shattered Blade vessels. Intersec has been tasked with recruiting experienced combat-rated pilots to neutralize the threat.\\n\\nPut together a capable fleet and then proceed with all due haste. It is unacceptable that this has become a no-go zone for commerical shipping.\\n\\nRespectfully,   \\n\\nDeacon Tobin \\nOperations Manager \\nInterSec Defense Solutions  \\n\\nThis communication consists of confidential information solely intended for the recipient. Please disregard if received in error and notify the sender. All operations are conducted at the contractor’s own personal risk and must adhere to UEE and system law where applicable.",
+      "tr": "ESPECIFICAÇÕES DA MISSÃO\\n\\nÁrea de Operação: Sistema Nyx \\nForças Hostis: Shattered Blade, Vanduul\\nEquipamento Necessário: Nave de combate\\nBriefing:\\n\\n<EM4>[LOCATION]</EM4> ficou intransitável devido a uma grave escalada nos confrontos entre naves Vanduul e da Shattered Blade. A Intersec foi encarregada de recrutar pilotos de combate experientes para neutralizar a ameaça.\\n\\nMonte uma frota capaz e siga para lá com a máxima urgência. É inaceitável que essa área tenha virado zona proibida para o transporte comercial.\\n\\nRespeitosamente,   \\n\\nDeacon Tobin \\nGerente de Operações \\nInterSec Defense Solutions  \\n\\nEsta comunicação contém informações confidenciais destinadas exclusivamente ao destinatário. Caso a tenha recebido por engano, desconsidere-a e notifique o remetente. Todas as operações são realizadas por conta e risco do contratado e devem respeitar as leis do UEE e do sistema, quando aplicável."
+    },
     "headhunters_bombingrun_M_desc_001": {
       "en": "Feels like everyone wants a piece of our pie these days. Scouts are reporting that <EM4>[LOCATION]</EM4> is crawling with some new gang who've got it in for us.\\n\\nSo let's show them why you don't mess with us. Take out their fuel stores and leave them stranded.\\n\\nThat oughta send a message.\\n\\n-Stows out",
       "tr": "Parece que todo mundo quer uma fatia do nosso território ultimamente. Batedores estão relatando que <EM4>[LOCATION]</EM4> está cheio de uma nova gangue que quer briga conosco.\\n\\nEntão vamos mostrar por que não se mexe com a gente. Destrua os estoques de combustível deles e deixe-os encalhados.\\n\\nIsso deve mandar um recado.\\n\\n-Stows out"
@@ -6637,6 +6725,10 @@
     "headhunters_killship_asteroid_rank1_desc_001": {
       "en": "There's a nest that needs to be taken out around [LOCATION] that has been taken over by some squatters. We don't care about most of them, but word's gotten back to us that they're sheltering [TARGET] who has a long history of stealing Headhunter loot. Time's come to take them out.\\n\\nWord is that [TARGET] is in a ship, but may rely on the base's defenses to protect them, so be careful. You kill 'em, you get paid. \\n\\nYou know, the usual.\\n\\nStows out.",
       "tr": "Há um ninho que precisa ser retirado em torno de [LOCATION] que foi tomado por alguns invasores. Não nos importamos com a maioria deles, mas a notícia chegou até nós de que eles estão abrigando [TARGET] que tem um longo histórico de roubo de itens do Headhunter. Chegou a hora de eliminá-los.\\n\\nDizem que [TARGET] está em uma nave, mas pode depender das defesas da base para protegê-los, então tome cuidado. Se você matá-los, você é pago. \\n\\nVocê sabe, o de sempre.\\n\\nEsconde-se."
+    },
+    "Intersec_ElimAux_ShatteredBlade_Med_Desc_001": {
+      "en": "MISSION SPECS\\n\\nArea of Operation: Nyx System \\nHostile Forces: Shattered Blade\\nEquipment Specs: Combat Ready\\nBriefing: \\n\\nLooking for operatives to raid a recently-located Shattered Blade base at <EM4>[LOCATION]</EM4> and target one of their key members, <EM4>[TARGET]</EM4>. Shattered Blade have been using this auxiliary base as a launch pad for numerous missions and it is hoped that strikes against this critical target will limit their ability to launch future criminal operations.\\n\\nRespectfully,   \\n\\nDeacon Tobin \\nOperations Manager \\nInterSec Defense Solutions  \\n\\nThis communication consists of confidential information solely intended for the recipient. Please disregard if received in error and notify the sender. All operations are conducted at the contractor’s own personal risk and must adhere to UEE and system law where applicable.",
+      "tr": "ESPECIFICAÇÕES DA MISSÃO\\n\\nÁrea de Operação: Sistema Nyx \\nForças Hostis: Shattered Blade\\nEquipamento Necessário: Pronto para Combate\\nBriefing: \\n\\nProcuramos operativos para invadir uma base da Shattered Blade localizada recentemente em <EM4>[LOCATION]</EM4> e eliminar um de seus membros-chave, <EM4>[TARGET]</EM4>. A Shattered Blade tem usado essa base auxiliar como ponto de partida para várias missões, e esperamos que ataques contra esse alvo crítico limitem sua capacidade de lançar futuras operações criminosas.\\n\\nRespeitosamente,   \\n\\nDeacon Tobin \\nGerente de Operações \\nInterSec Defense Solutions  \\n\\nEsta comunicação contém informações confidenciais destinadas exclusivamente ao destinatário. Caso a tenha recebido por engano, desconsidere-a e notifique o remetente. Todas as operações são realizadas por conta e risco do contratado e devem respeitar as leis do UEE e do sistema, quando aplicável."
     },
     "headhunters_killship_asteroid_rank0_desc_001": {
       "en": "So here's the deal, Headhunters are looking to expand their talent pool and have a few openings for anyone who's got the stones.\\n\\nThere's a real piece of work named [TARGET] who thinks they've been really clever pinching cargo off of haulers moving through the system. We asked for a cut of their profits as a licensing tax to continue operating. When [TARGET] responded, they were very disrespectful.\\n\\nWe've tracked their ship to [LOCATION] and need them taken out. You should know, they're being smart and sticking close to some allies so they won't be alone.\\n\\nDo this and we'll consider you for future Headhunter work.\\n\\nStows out.",
@@ -6769,6 +6861,10 @@
     "UWC_Refueling_intro_desc_001": {
       "en": "Hey!\\n\\nDD from the United Wayfarers Club here.\\n\\nThe UWC offers repair, rearming and refueling services across the UEE. It just so happens that we're on the look-out for new affiliates whose ships are fitted for refueling. If you've got the fuel pods and like it when people are pleased to see you, the UWC might be the club for you.\\n\\nAnd if you think it might be, I've got a live beacon you might like.\\n\\nIf you do happen to like it, a word to the wise: <EM4>make sure your fuel pods are full before you head out</EM4>.\\n\\nA Club member has run out of [FUELTYPE] at <EM4>[LOCATION]</EM4>. I'm not sure on the details, like how they ended up out there with no Go Juice, but the UWC doesn't like to leave folk hanging.\\n\\nThe client vessel will pay you at the rate of [REFUELREQUEST]. As a United Wayfarers Club contractor, you will also qualify for the UWC service fee listed above upon completion.\\n\\nIt's a straightforward run. Perfect if you want to get a feel for this kind of job. Get out there, fill up the tanks of their <EM4>[SHIP]</EM4> and get them on their way. Do enough runs like this, and the process becomes muscle memory. Until then, there's a <EM4>journal entry</EM4> on your mobiGlas called \"Refueling Protocols\" that covers the basics.\\n\\nThere have been no reports of outlaw activity in that sector, but stay alert. I always recommend you aim for a fast turnaround. The sooner you're done, the sooner I can fix you up with another contract. UWC's always looking for new affiliates. \\n\\nLooking forward to working with you.\\n\\nDina Deloit\\nDispatch Hub\\nUnited Wayfarers Club\\n\"We’ve got your back\"",
       "tr": "Olá!\\n\\nAqui é a DD, do United Wayfarers Club.\\n\\nO UWC oferece serviços de reparo, rearmamento e reabastecimento em toda a UEE. E acontece que estamos procurando novos afiliados com Naves equipadas para reabastecimento. Se a sua Nave tem pods de combustível e você gosta de ser recebido de braços abertos, o UWC pode ser o clube certo para você.\\n\\nE, se você acha que pode ser mesmo, tenho um sinalizador ativo que talvez interesse.\\n\\nSó um conselho antes de sair: <EM4>garanta que seus pods de combustível estejam cheios antes de partir</EM4>.\\n\\nUm membro do clube ficou sem [FUELTYPE] em <EM4>[LOCATION]</EM4>. Não sei exatamente como ele conseguiu parar lá sem combustível, mas o UWC não costuma deixar ninguém na mão.\\n\\nA Nave do cliente vai pagar você pela taxa de [REFUELREQUEST]. Como contratado do United Wayfarers Club, você também receberá a taxa de serviço do UWC indicada acima ao concluir o contrato.\\n\\nÉ um serviço bem direto. Perfeito para pegar o jeito desse tipo de trabalho. Vá até lá, abasteça os tanques da <EM4>[SHIP]</EM4> e coloque o cliente de volta na rota. Depois de fazer algumas missões dessas, o processo vira automático. Até lá, há uma <EM4>entrada no diário</EM4> do seu mobiGlas chamada \"Protocolos de Reabastecimento\" que explica o básico.\\n\\nNão há relatos de atividade de fora da lei nesse setor, mas fique atento. Eu sempre recomendo fazer um atendimento rápido. Quanto antes terminar, mais cedo consigo arrumar outro contrato para você. O UWC está sempre procurando novos afiliados.\\n\\nAnsiosa para trabalhar com você.\\n\\nDina Deloit\\nCentral de Despacho\\nUnited Wayfarers Club\\n\"Estamos do seu lado\""
+    },
+    "Intersec_ShipWaveAttack_H_Van_Desc_001": {
+      "en": "MISSION SPECS\\n\\nArea of Operation: Nyx System \\nHostile Forces: Vanduul\\nEquipment Specs: Combat-rated ship\\nBriefing:\\n\\nCivilian pilots have reported narrowly avoiding conflict with a Vanduul strike group at <EM4>[LOCATION]</EM4>. Intersec is looking for combat-ready pilots to engage. Reports include mention of additional Vanduul vessels in close proximity, so be prepared to encounter reinforcements.\\n\\nRespectfully,   \\n\\nDeacon Tobin \\nOperations Manager \\nInterSec Defense Solutions  \\n\\nThis communication consists of confidential information solely intended for the recipient. Please disregard if received in error and notify the sender. All operations are conducted at the contractor’s own personal risk and must adhere to UEE and system law where applicable.",
+      "tr": "ESPECIFICAÇÕES DA MISSÃO\\n\\nÁrea de Operação: Sistema Nyx \\nForças Hostis: Vanduul\\nEquipamento Necessário: Nave de combate\\nBriefing:\\n\\nPilotos civis relataram ter escapado por pouco de um confronto com um grupo de ataque Vanduul em <EM4>[LOCATION]</EM4>. A Intersec procura pilotos prontos para o combate para enfrentá-lo. Os relatos mencionam outras naves Vanduul nas proximidades, então esteja preparado para encontrar reforços.\\n\\nRespeitosamente,   \\n\\nDeacon Tobin \\nGerente de Operações \\nInterSec Defense Solutions  \\n\\nEsta comunicação contém informações confidenciais destinadas exclusivamente ao destinatário. Caso a tenha recebido por engano, desconsidere-a e notifique o remetente. Todas as operações são realizadas por conta e risco do contratado e devem respeitar as leis do UEE e do sistema, quando aplicável."
     },
     "Kaboos_Intro_Description": {
       "en": "MISSION SPECS\\n\\nArea of Operation: Nyx System\\nHostile Forces: Unknown\\nEquipment Specs: Combat-rated Ship, Personal Arms\\nBriefing: InterSec has been enlisted by the UEE to gather intel on a group of <EM4>black marketeers dealing in Vanduul parts</EM4>, that have been linked to the illegal Vanduul experiments happening at ASD’s Onyx Facility. The UEE is eager to understand and put an end to their operations.\\n\\nBased on evidence extracted from the ASD facilities, we’ve potentially managed to track down the location of one of their storage sites.\\n\\nOnce accepted, head over to the old <EM4>QV Planet Services Logistics station</EM4> and we’ll be in touch.\\n\\nRespectfully, \\n\\nDeacon Tobin\\nOperations Manager\\nInterSec Defense Solutions\\n\\nThis communication consists of confidential information solely intended for the recipient. Please disregard if received in error and notify sender. All operations are conducted at the contractor’s own personal risk and must adhere to UEE and system law where applicable.",
@@ -9406,9 +9502,9 @@
       "en": "Lamina PAF-I",
       "tr": "Lamina PAF-I"
     },
-    "mission_location_stanton_611": {
-      "en": "a derelict outpost",
-      "tr": "um posto avançado abandonado"
+    "mission_location_pyro_187": {
+      "en": "Abandoned Facility",
+      "tr": "Instalação Abandonada"
     },
     "mission_location_stanton_0174": {
       "en": "HDSF-Elbridge",
@@ -9585,10 +9681,6 @@
     "mission_location_stanton_400": {
       "en": "Shubin Processing Facility SPMC-3",
       "tr": "Shubin Processing Facility SPMC-3"
-    },
-    "mission_location_pyro_187": {
-      "en": "Frontier Fighters Hideout",
-      "tr": "Esconderijo dos Frontier Fighters"
     },
     "_noloc_location_UGF_Drug_Stanton3a": {
       "en": "UGF_Drug_Stanton3a",
@@ -9954,9 +10046,13 @@
       "en": "RSI Constellation Mk IV Andromeda",
       "tr": "RSI Constellation Mk IV Andromeda"
     },
-    "vehicle_NameAEGS_Hammerhead": {
-      "en": "Aegis Hammerhead",
-      "tr": "Aegis Hammerhead"
+    "vehicle_NameRSI_Constellation_Aquila": {
+      "en": "RSI Constellation Mk IV Aquila",
+      "tr": "RSI Constellation Mk IV Aquila"
+    },
+    "vehicle_NameRSI_Constellation_Phoenix": {
+      "en": "RSI Constellation Mk IV Phoenix",
+      "tr": "RSI Constellation Mk IV Phoenix"
     },
     "vehicle_NameRSI_Polaris": {
       "en": "RSI Polaris",
@@ -10058,25 +10154,9 @@
       "en": "Origin 85X Limited",
       "tr": "Origin 85X Limited"
     },
-    "vehicle_NameRSI_Aurora_LX": {
-      "en": "RSI Aurora Mk I  LX",
-      "tr": "RSI Aurora Mk I  LX"
-    },
-    "vehicle_NameRSI_Aurora_CL": {
-      "en": "RSI Aurora Mk I CL",
-      "tr": "RSI Aurora Mk I CL"
-    },
-    "vehicle_NameRSI_Aurora_ES": {
-      "en": "RSI Aurora Mk I ES",
-      "tr": "RSI Aurora Mk I ES"
-    },
     "vehicle_NameRSI_Aurora_LN": {
       "en": "RSI Aurora Mk I LN",
       "tr": "RSI Aurora Mk I LN"
-    },
-    "vehicle_NameRSI_Aurora_MR": {
-      "en": "RSI Aurora Mk I MR",
-      "tr": "RSI Aurora Mk I MR"
     },
     "vehicle_NameANVL_Terrapin": {
       "en": "Anvil Terrapin",
@@ -10142,14 +10222,6 @@
       "en": "Mirai Guardian MX",
       "tr": "Mirai Guardian MX"
     },
-    "vehicle_NameRSI_Constellation_Aquila": {
-      "en": "RSI Constellation Mk IV Aquila",
-      "tr": "RSI Constellation Mk IV Aquila"
-    },
-    "vehicle_NameRSI_Constellation_Phoenix": {
-      "en": "RSI Constellation Mk IV Phoenix",
-      "tr": "RSI Constellation Mk IV Phoenix"
-    },
     "vehicle_NameMisc_Fury": {
       "en": "Mirai Fury",
       "tr": "Mirai Fury"
@@ -10170,37 +10242,161 @@
       "en": "CHCO Auris PDC Monitor",
       "tr": "Monitor PDC CHCO Auris"
     },
-    "vehicle_NameVNCL_Mauler": {
-      "en": "Vanduul Mauler Destroyer",
-      "tr": "Vanduul Mauler Destroyer"
+    "vehicle_NameRSI_Aurora_LX": {
+      "en": "RSI Aurora Mk I  LX",
+      "tr": "RSI Aurora Mk I  LX"
     },
-    "vehicle_NameVNCL_Stinger": {
-      "en": "Vanduul Stinger",
-      "tr": "Vanduul Stinger"
+    "vehicle_NameRSI_Aurora_ES": {
+      "en": "RSI Aurora Mk I ES",
+      "tr": "RSI Aurora Mk I ES"
+    },
+    "vehicle_NameRSI_Aurora_MR": {
+      "en": "RSI Aurora Mk I MR",
+      "tr": "RSI Aurora Mk I MR"
+    },
+    "vehicle_NameAEGS_Hammerhead": {
+      "en": "Aegis Hammerhead",
+      "tr": "Aegis Hammerhead"
     },
     "vehicle_NameANVL_Hornet_F7A": {
       "en": "Anvil F7A Hornet Mk I",
       "tr": "Anvil F7A Hornet Mk I"
     },
+    "vehicle_NameVNCL_Stinger": {
+      "en": "Vanduul Stinger",
+      "tr": "Vanduul Stinger"
+    },
     "vehicle_NameKRIG_P52_Merlin": {
       "en": "Kruger P-52 Merlin",
       "tr": "Kruger P-52 Merlin"
+    },
+    "vehicle_NameRSI_Aurora_CL": {
+      "en": "RSI Aurora Mk I CL",
+      "tr": "RSI Aurora Mk I CL"
     },
     "vehicles_NameOrbital_Sentry": {
       "en": "Broad & Rabiee Overseer Orbital Sentry",
       "tr": "Supervisor Amplo e Rabiense Sentinela Orbital"
     },
-    "vehicle_NameXNAA_SantokYai": {
-      "en": "Aopoa San'tok.yāi",
-      "tr": "Aopoa San'tok.yāi"
+    "_noloc_ship_@vehicle_NameVNCL_King_Hunter": {
+      "en": "@vehicle_NameVNCL_King_Hunter",
+      "tr": "@vehicle_NameVNCL_King_Hunter"
     },
-    "vehicle_NameCRUS_Intrepid": {
-      "en": "Crusader Intrepid",
-      "tr": "Crusader Intrepid"
+    "vehicle_NameANVL_Lightning_F8C": {
+      "en": "Anvil F8C Lightning",
+      "tr": "Anvil F8C Lightning"
+    },
+    "vehicle_NameANVL_Lightning_F8C_Exec": {
+      "en": "Anvil F8C Lightning Executive Edition",
+      "tr": "Anvil F8C Lightning Executive Edition"
+    },
+    "vehicle_NameANVL_Lightning_F8C_Collector_Stealth": {
+      "en": "Anvil F8C Lightning Wikelo Sneak Special",
+      "tr": "Anvil F8C Lightning Wikelo Sneak Special"
+    },
+    "vehicle_NameANVL_Lightning_F8C_Collector_Military": {
+      "en": "Anvil F8C Lightning Wikelo War Special",
+      "tr": "Anvil F8C Lightning Wikelo War Special"
+    },
+    "vehicle_NameCRUS_Starfighter_Inferno_Collector_Military": {
+      "en": "Crusader Ares Star Fighter Inferno Wikelo War Special",
+      "tr": "Crusader Ares Star Fighter Inferno Wikelo War Special"
+    },
+    "vehicle_NameCRUS_Starfighter_Ion_Collector_Stealth": {
+      "en": "Crusader Ares Star Fighter Ion Wikelo Sneak Special",
+      "tr": "Crusader Ares Star Fighter Ion Wikelo Sneak Special"
+    },
+    "vehicle_NameDRAK_Cutlass_Black_PYAM_Exec": {
+      "en": "Cutlass Black PYAM Exec",
+      "tr": "Cutlass Black PYAM Exec"
+    },
+    "vehicle_NameDRAK_Cutlass_Black_ShipShowdown": {
+      "en": "Drake Cutlass 2949 Best In Show Edition",
+      "tr": "Drake Cutlass 2949 Best In Show Edition"
     },
     "vehicle_NameDRAK_Cutlass_Blue": {
       "en": "Drake Cutlass Blue",
       "tr": "Drake Cutlass Blue"
+    },
+    "vehicle_NameANVL_Lightning_F8C_PYAM_Exec": {
+      "en": "F8C Lightning PYAM Exec",
+      "tr": "F8C Lightning PYAM Exec"
+    },
+    "vehicle_NameORIG_M80": {
+      "en": "Origin M80",
+      "tr": "Origin M80"
+    },
+    "vehicle_NameRSI_Meteor": {
+      "en": "RSI Meteor",
+      "tr": "RSI Meteor"
+    },
+    "vehicle_NameRSI_Meteor_Collector_Military": {
+      "en": "RSI Meteor PYAM Exec",
+      "tr": "RSI Meteor PYAM Exec"
+    },
+    "vehicle_NameRSI_Meteor_Collector_Stealth": {
+      "en": "RSI Meteor Wikelo Sneak Special",
+      "tr": "RSI Meteor Wikelo Sneak Special"
+    },
+    "vehicle_NameAEGS_Firebird_Collector_Milt": {
+      "en": "Aegis Sabre Firebird Wikelo War Special",
+      "tr": "Aegis Sabre Firebird Wikelo War Special"
+    },
+    "vehicle_NameAEGS_Sabre_Raven_EX": {
+      "en": "Aegis Sabre Raven EX",
+      "tr": "Aegis Sabre Raven EX"
+    },
+    "TheCollector_ShipMod_F7_Hornet_VehicleName": {
+      "en": "Anvil F7 Hornet Mk Wikelo",
+      "tr": "Anvil F7 Hornet Mk Wikelo"
+    },
+    "vehicle_NameANVL_Hornet_F7C_Wildfire": {
+      "en": "Anvil F7C Hornet Wildfire Mk I",
+      "tr": "Anvil F7C Hornet Wildfire Mk I"
+    },
+    "vehicle_NameANVL_Hornet_F7CM_Heartseeker": {
+      "en": "Anvil F7C-M Hornet Heartseeker Mk I",
+      "tr": "Anvil F7C-M Hornet Heartseeker Mk I"
+    },
+    "vehicle_NameANVL_Hornet_F7CM_Heartseeker_Mk2": {
+      "en": "Anvil F7C-M Hornet Heartseeker Mk II",
+      "tr": "Anvil F7C-M Hornet Heartseeker Mk II"
+    },
+    "vehicle_NameANVL_Hornet_F7CM_Mk2": {
+      "en": "Anvil F7C-M Super Hornet Mk II",
+      "tr": "Anvil F7C-M Super Hornet Mk II"
+    },
+    "vehicle_NameANVL_Hornet_F7CR_Mk2": {
+      "en": "Anvil F7C-R Hornet Tracker Mk II",
+      "tr": "Anvil F7C-R Hornet Tracker Mk II"
+    },
+    "vehicle_NameANVL_Hornet_F7CS_Mk2": {
+      "en": "Anvil F7C-S Hornet Ghost Mk II",
+      "tr": "Anvil F7C-S Hornet Ghost Mk II"
+    },
+    "vehicle_NameXNAA_SantokYai": {
+      "en": "Aopoa San'tok.yāi",
+      "tr": "Aopoa San'tok.yāi"
+    },
+    "vehicle_NameDRAK_Marauder": {
+      "en": "Drake Marauder",
+      "tr": "Drake Marauder"
+    },
+    "vehicle_NameANVL_Hornet_F7A_Mk2_PYAM_Exec": {
+      "en": "Hornet F7A Mk II PYAM Exec",
+      "tr": "Hornet F7A Mk II PYAM Exec"
+    },
+    "vehicle_NameRSI_Scorpius_Collector_Stealth": {
+      "en": "RSI Scorpius Wikelo Sneak Special",
+      "tr": "RSI Scorpius Wikelo Sneak Special"
+    },
+    "vehicle_NameVNCL_Mauler": {
+      "en": "Vanduul Mauler Destroyer",
+      "tr": "Vanduul Mauler Destroyer"
+    },
+    "vehicle_NameCRUS_Intrepid": {
+      "en": "Crusader Intrepid",
+      "tr": "Crusader Intrepid"
     },
     "mobiGlas_Reputation_Stance_Neutral": {
       "en": "Neutral",
@@ -11918,13 +12114,25 @@
       "en": "M3A Cannon",
       "tr": "M3A Cannon"
     },
+    "_noloc_item_M3A Cannon Raider Camo": {
+      "en": "M3A Cannon Raider Camo",
+      "tr": "M3A Cannon Raider Camo"
+    },
     "_noloc_item_M4A Cannon": {
       "en": "M4A Cannon",
       "tr": "M4A Cannon"
     },
+    "_noloc_item_M4A Cannon Raider Camo": {
+      "en": "M4A Cannon Raider Camo",
+      "tr": "M4A Cannon Raider Camo"
+    },
     "_noloc_item_M5A Cannon": {
       "en": "M5A Cannon",
       "tr": "M5A Cannon"
+    },
+    "_noloc_item_M5A Cannon Raider Camo": {
+      "en": "M5A Cannon Raider Camo",
+      "tr": "M5A Cannon Raider Camo"
     },
     "_noloc_item_M6A Cannon": {
       "en": "M6A Cannon",
@@ -12269,6 +12477,10 @@
     "_noloc_item_Singe Cannon (S3)": {
       "en": "Singe Cannon (S3)",
       "tr": "Singe Cannon (S3)"
+    },
+    "_noloc_item_Skarnov \"Raider Camo\" Rifle": {
+      "en": "Skarnov \"Raider Camo\" Rifle",
+      "tr": "Skarnov \"Raider Camo\" Rifle"
     },
     "_noloc_item_Sledge I Mass Driver Cannon": {
       "en": "Sledge I Mass Driver Cannon",
@@ -13486,6 +13698,10 @@
       "en": "Corbel Arms Patina",
       "tr": "Corbel Arms Patina"
     },
+    "_noloc_item_Corbel Arms Raider Camo": {
+      "en": "Corbel Arms Raider Camo",
+      "tr": "Corbel Arms Raider Camo"
+    },
     "_noloc_item_Corbel Arms Smolder": {
       "en": "Corbel Arms Smolder",
       "tr": "Corbel Arms Smolder"
@@ -13505,6 +13721,10 @@
     "_noloc_item_Corbel Core Patina": {
       "en": "Corbel Core Patina",
       "tr": "Corbel Core Patina"
+    },
+    "_noloc_item_Corbel Core Raider Camo": {
+      "en": "Corbel Core Raider Camo",
+      "tr": "Corbel Core Raider Camo"
     },
     "_noloc_item_Corbel Core Smolder": {
       "en": "Corbel Core Smolder",
@@ -13526,6 +13746,10 @@
       "en": "Corbel Helmet Patina",
       "tr": "Corbel Helmet Patina"
     },
+    "_noloc_item_Corbel Helmet Raider Camo": {
+      "en": "Corbel Helmet Raider Camo",
+      "tr": "Corbel Helmet Raider Camo"
+    },
     "_noloc_item_Corbel Helmet Smolder": {
       "en": "Corbel Helmet Smolder",
       "tr": "Corbel Helmet Smolder"
@@ -13545,6 +13769,10 @@
     "_noloc_item_Corbel Legs Patina": {
       "en": "Corbel Legs Patina",
       "tr": "Corbel Legs Patina"
+    },
+    "_noloc_item_Corbel Legs Raider Camo": {
+      "en": "Corbel Legs Raider Camo",
+      "tr": "Corbel Legs Raider Camo"
     },
     "_noloc_item_Corbel Legs Smolder": {
       "en": "Corbel Legs Smolder",
@@ -15334,9 +15562,17 @@
       "en": "Palatino Arms Necropolis",
       "tr": "Palatino Arms Necropolis"
     },
+    "_noloc_item_Palatino Arms Raider Camo": {
+      "en": "Palatino Arms Raider Camo",
+      "tr": "Palatino Arms Raider Camo"
+    },
     "_noloc_item_Palatino Arms Sunstone": {
       "en": "Palatino Arms Sunstone",
       "tr": "Palatino Arms Sunstone"
+    },
+    "_noloc_item_Palatino Backpack Raider Camo": {
+      "en": "Palatino Backpack Raider Camo",
+      "tr": "Palatino Backpack Raider Camo"
     },
     "_noloc_item_Palatino Core": {
       "en": "Palatino Core",
@@ -15358,6 +15594,10 @@
       "en": "Palatino Core Necropolis",
       "tr": "Palatino Core Necropolis"
     },
+    "_noloc_item_Palatino Core Raider Camo": {
+      "en": "Palatino Core Raider Camo",
+      "tr": "Palatino Core Raider Camo"
+    },
     "_noloc_item_Palatino Core Sunstone": {
       "en": "Palatino Core Sunstone",
       "tr": "Palatino Core Sunstone"
@@ -15377,6 +15617,10 @@
     "_noloc_item_Palatino Helmet Moonfall": {
       "en": "Palatino Helmet Moonfall",
       "tr": "Palatino Helmet Moonfall"
+    },
+    "_noloc_item_Palatino Helmet Raider Camo": {
+      "en": "Palatino Helmet Raider Camo",
+      "tr": "Palatino Helmet Raider Camo"
     },
     "_noloc_item_Palatino Helmet Sunstone": {
       "en": "Palatino Helmet Sunstone",
@@ -15401,6 +15645,10 @@
     "_noloc_item_Palatino Legs Necropolis": {
       "en": "Palatino Legs Necropolis",
       "tr": "Palatino Legs Necropolis"
+    },
+    "_noloc_item_Palatino Legs Raider Camo": {
+      "en": "Palatino Legs Raider Camo",
+      "tr": "Palatino Legs Raider Camo"
     },
     "_noloc_item_Palatino Legs Sunstone": {
       "en": "Palatino Legs Sunstone",
@@ -15629,6 +15877,14 @@
     "_noloc_item_Tailwind Flight Suit Dominion Camo": {
       "en": "Tailwind Flight Suit Dominion Camo",
       "tr": "Tailwind Flight Suit Dominion Camo"
+    },
+    "_noloc_item_Tailwind Flight Suit Raider Camo": {
+      "en": "Tailwind Flight Suit Raider Camo",
+      "tr": "Tailwind Flight Suit Raider Camo"
+    },
+    "_noloc_item_Tailwind Helmet Raider Camo": {
+      "en": "Tailwind Helmet Raider Camo",
+      "tr": "Tailwind Helmet Raider Camo"
     },
     "_noloc_item_Testudo Arms": {
       "en": "Testudo Arms",
@@ -16422,6 +16678,10 @@
       "en": "Denning",
       "tr": "Denning"
     },
+    "_noloc_item_Deterrent": {
+      "en": "Deterrent",
+      "tr": "Deterrent"
+    },
     "_noloc_item_Devastator Shotgun Battery (12 cap)": {
       "en": "Devastator Shotgun Battery (12 cap)",
       "tr": "Devastator Shotgun Battery (12 cap)"
@@ -16914,6 +17174,10 @@
       "en": "Lawson Mining Laser",
       "tr": "Lawson Mining Laser"
     },
+    "_noloc_item_Lephari": {
+      "en": "Lephari",
+      "tr": "Lephari"
+    },
     "_noloc_item_LightBlossom": {
       "en": "LightBlossom",
       "tr": "LightBlossom"
@@ -17297,6 +17561,10 @@
     "_noloc_item_Siren": {
       "en": "Siren",
       "tr": "Siren"
+    },
+    "_noloc_item_Skarnov Rifle Battery (30 cap)": {
+      "en": "Skarnov Rifle Battery (30 cap)",
+      "tr": "Skarnov Rifle Battery (30 cap)"
     },
     "_noloc_item_Slipstream": {
       "en": "Slipstream",
